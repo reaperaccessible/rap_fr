@@ -1,7 +1,7 @@
-* @description Amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur
-* @version 1.0
-* @author Ludovic SANSONE pour Reaper Accessible
-* @section mediaexplorer
+-- @description Amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur
+-- @version 1.0
+-- @author Ludovic SANSONE pour Reaper Accessible
+-- @provides [main=mediaexplorer] .
 
 
 -- Fonction pour annoncer le message d'ouverture de la fenêtre

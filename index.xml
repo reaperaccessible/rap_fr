@@ -3,7 +3,7 @@
   <category name="ReaperAccessible Scripts">
     <reapack name="ReaperAccessible - Principal - Sélectionner une piste à partir de son numéro ou de son nom.lua" type="script" desc="amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-03-31T15:04:06Z">
-        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/55af4537dde4da02e0a0f6dacc37a037f5a9e3c6/ReaperAccessible%20Scripts/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
+        <source main="main">https://github.com/leejul/rap_fr/raw/55af4537dde4da02e0a0f6dacc37a037f5a9e3c6/ReaperAccessible%20Scripts/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
       </version>
     </reapack>
   </category>
