@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible Package fr" commit="55af4537dde4da02e0a0f6dacc37a037f5a9e3c6">
+<index version="1" name="ReaperAccessible Scripts" commit="55af4537dde4da02e0a0f6dacc37a037f5a9e3c6">
   <category name="ReaperAccessible Scripts">
     <reapack name="ReaperAccessible - Principal - Sélectionner une piste à partir de son numéro ou de son nom.lua" type="script" desc="amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-03-31T15:04:06Z">
