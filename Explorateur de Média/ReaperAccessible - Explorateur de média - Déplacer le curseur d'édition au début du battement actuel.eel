@@ -3,7 +3,7 @@
    * Author: Ludovic SANSONE pour Reaper Accessible
    * Licence: GPL v3
    * Version: 1.0
-    * provides [main=mediaexplorer] .
+    * provides: [main=mediaexplorer] .
 */
 
 function move_cursor_left()
