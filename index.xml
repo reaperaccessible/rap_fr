@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="ReaperAccessible Scripts" commit="f97ba5b6ee268b241d02004b45f69aa2466fb943">
+  <category name="Explorateur de Média">
+    <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="déplace le curseur au marqueur précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/f97ba5b6ee268b241d02004b45f69aa2466fb943/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20pr%C3%A9c%C3%A9dent.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Principal">
+    <reapack name="ReaperAccessible - Principal - Sélectionner une piste à partir de son numéro ou de son nom.lua" type="script" desc="Amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur">
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T14:45:33Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/9d90545ea2e5350ab574675c83b91979d5c420ad/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
