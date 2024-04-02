@@ -1,0 +1,6 @@
+@description API complémentaire pour ReaScript
+@author ReaperAccessible
+@version 1.0
+@provides
+  [win64] reaper_js_ReaScriptAPI64.dll https://github.com/leejul/rap_fr/raw/main/dlls/reaper_js_ReaScriptAPI64.dll
+@link https://github.com/leejul/rap_fr/raw/main/dlls
