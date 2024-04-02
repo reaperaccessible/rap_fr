@@ -1,0 +1,1971 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="ReaperAccessible Scripts" commit="1f48f8fb41935776b101e8b9a68ba61ff81f8552">
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Audio Ease/Altiverb 7">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Audio%20Ease/Altiverb%207/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Audio Modeling/SWAM Alto Sax 3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Audio%20Modeling/SWAM%20Alto%20Sax%203/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Audio Modeling/SWAM Baritone Sax 3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Audio%20Modeling/SWAM%20Baritone%20Sax%203/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Audio Modeling/SWAM Soprano Sax 3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Audio%20Modeling/SWAM%20Soprano%20Sax%203/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Audio Modeling/SWAM Tenor Sax 3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Audio%20Modeling/SWAM%20Tenor%20Sax%203/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Audio Modeling/VST3i SWAM Alto Sax 3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Audio%20Modeling/VST3i%20SWAM%20Alto%20Sax%203/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Cockos/ReaComp">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Cockos/ReaComp/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Cockos/ReaVerbate">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Cockos/ReaVerbate/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/DD AutoFilter">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/DD%20AutoFilter/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/DD AutoPan">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/DD%20AutoPan/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/DD BitCrusher">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/DD%20BitCrusher/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/DD Channel2">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.2" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/DD%20Channel2/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/DD Chorus">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/DD%20Chorus/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/DD Compressor">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/DD%20Compressor/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/DD DeEsser">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/DD%20DeEsser/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Delay">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Delay/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Djeq">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Djeq/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Dualfilter">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Dualfilter/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Equaliser">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Equaliser/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Expander">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Expander/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Filter">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Filter/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Flanger">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Flanger/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Gate">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Gate/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Limiter">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Limiter/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Monodelay">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Monodelay/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Overdrive">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Overdrive/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Phaser">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Phaser/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Reverb">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Reverb/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Ringmod">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Ringmod/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Siggen">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Siggen/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Tilteq">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Tilteq/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/Dd Tremolo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/Dd%20Tremolo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Dead Duck Software/DD Utility">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Dead%20Duck%20Software/DD%20Utility/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/China - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/China%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Clap - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Clap%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Cowbell - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Cowbell%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Crash1 - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Crash1%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Crash2 - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Crash2%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Hi-Hat - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Hi-Hat%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Kick - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Kick%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Ride - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Ride%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Snare - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Snare%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Splash1 - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Splash1%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Splash2 - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Splash2%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Stick - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Stick%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Tambourine - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Tambourine%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Tom1 - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Tom1%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Tom2 - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Tom2%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Tom3 - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Tom3%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Tom4 - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Tom4%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free Kit/Tom5 - Free Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Free%20Kit/Tom5%20-%20Free%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Bell - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Bell%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Bongo1 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Bongo1%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Bongo2 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Bongo2%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Clap - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Clap%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Conga1 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Conga1%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Conga2 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Conga2%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Cowbell1 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Cowbell1%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Cowbell2 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Cowbell2%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Crowd Clap - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Crowd%20Clap%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Crowd Stomp - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Crowd%20Stomp%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Guiro1 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Guiro1%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Guiro2 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Guiro2%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Guiro3 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Guiro3%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Shaker1 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Shaker1%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Shaker2 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Shaker2%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Shaker3 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Shaker3%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Snap - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Snap%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Stick - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Stick%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Tambourine - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Tambourine%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Timbale1 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Timbale1%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Timbale2 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Timbale2%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Triangle - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Triangle%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Vibraslap - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Vibraslap%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Woodblock1 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Woodblock1%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Woodblock2 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Woodblock2%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions Kit/Woodblock3 - Percussions Kit">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Percussions%20Kit/Woodblock3%20-%20Percussions%20Kit/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/China - 18 Inches - Paiste - Signature Thin">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/China%20-%2018%20Inches%20-%20Paiste%20-%20Signature%20Thin/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Crash - 16 Inches - Paiste - 2002 Red Label">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Crash%20-%2016%20Inches%20-%20Paiste%20-%202002%20Red%20Label/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Crash - 18 Inches - Paiste - 2002 Red Label">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Crash%20-%2018%20Inches%20-%20Paiste%20-%202002%20Red%20Label/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Crash - 18 Inches - Paiste - Giant Beat">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Crash%20-%2018%20Inches%20-%20Paiste%20-%20Giant%20Beat/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Crash - 20 Inches - Paiste - 2002 Red Label">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Crash%20-%2020%20Inches%20-%20Paiste%20-%202002%20Red%20Label/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Hi-Hat - 14 Inches - Paiste - Reflector Heavy Full">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Hi-Hat%20-%2014%20Inches%20-%20Paiste%20-%20Reflector%20Heavy%20Full/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Hi-Hat - Sabian - 14 - AAX X-Celerator">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Hi-Hat%20-%20Sabian%20-%2014%20-%20AAX%20X-Celerator/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Kick - 14x26 Inches - Ludwig - Classic Maple">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Kick%20-%2014x26%20Inches%20-%20Ludwig%20-%20Classic%20Maple/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Kick - 16x22 Inches - Ludwig - Classic Maple Dampened">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Kick%20-%2016x22%20Inches%20-%20Ludwig%20-%20Classic%20Maple%20Dampened/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Kick - 18x22 Inches - Pearl - Masters Premium Legend">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Kick%20-%2018x22%20Inches%20-%20Pearl%20-%20Masters%20Premium%20Legend/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Kick - 18x22 Inches - Tama - Starclassic Performer EFX">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Kick%20-%2018x22%20Inches%20-%20Tama%20-%20Starclassic%20Performer%20EFX/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Ride - 20 Inches - StringSite - Black Dust Medium Heavy Ride">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Ride%20-%2020%20Inches%20-%20StringSite%20-%20Black%20Dust%20Medium%20Heavy%20Ride/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Ride - 21 Inches - Paiste - Twenty Unlathed Metal Prototype">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Ride%20-%2021%20Inches%20-%20Paiste%20-%20Twenty%20Unlathed%20Metal%20Prototype/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Snare - 5.5x14 Inches - Yamaha - Custom Maple">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Snare%20-%205.5x14%20Inches%20-%20Yamaha%20-%20Custom%20Maple/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Snare - 6.5x14 Inches - Brady Jarrah - Solid">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Snare%20-%206.5x14%20Inches%20-%20Brady%20Jarrah%20-%20Solid/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Splash - 10 Inches - StringSite - Black Dust">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Splash%20-%2010%20Inches%20-%20StringSite%20-%20Black%20Dust/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Splash - 8 Inches - StringSite - Windhammered">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Splash%20-%208%20Inches%20-%20StringSite%20-%20Windhammered/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Tom1 - 8x10 Inches - Tama - Starclassic Performer EFX">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Tom1%20-%208x10%20Inches%20-%20Tama%20-%20Starclassic%20Performer%20EFX/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Tom2 - 9x12 Inches - Tama - Starclassic Performer EFX">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Tom2%20-%209x12%20Inches%20-%20Tama%20-%20Starclassic%20Performer%20EFX/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Tom3 - 12x14 Inches - Tama - Starclassic Performer EFX">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Tom3%20-%2012x14%20Inches%20-%20Tama%20-%20Starclassic%20Performer%20EFX/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Tom4 - 16x16 Inches - Tama - Starclassic Performer EFX">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Tom4%20-%2016x16%20Inches%20-%20Tama%20-%20Starclassic%20Performer%20EFX/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama - Starclassic Performer Kit/Stick/Tom5 - 16x18 Inches - Tama - Starclassic Performer EFX">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/DrumAccess/Tama%20-%20Starclassic%20Performer%20Kit/Stick/Tom5%20-%2016x18%20Inches%20-%20Tama%20-%20Starclassic%20Performer%20EFX/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/FabFilter/Pro-Q 3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/FabFilter/Pro-Q%203/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Falcosoft/BassMidi">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Falcosoft/BassMidi/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GBand">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GBand/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GChorus">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GChorus/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GClip">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GClip/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GComp">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GComp/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GComp2">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GComp2/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GDelay">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GDelay/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GDuckdly">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GDuckdly/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GFader">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GFader/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GForm">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GForm/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GGain">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GGain/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GGate">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GGate/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GGrain">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GGrain/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GHi">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GHi/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GLfo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GLfo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GLow">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GLow/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GMax">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GMax/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GMulti">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GMulti/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GPitchGate">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GPitchGate/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GRect">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GRect/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GRevDly">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GRevDly/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GSatmax">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/GVST/GSatmax/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Impact Soundworks/Django Lead">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Impact%20Soundworks/Django%20Lead/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Impact Soundworks/Django Lead Di">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Impact%20Soundworks/Django%20Lead%20Di/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Impact Soundworks/Django Rhythm">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Impact%20Soundworks/Django%20Rhythm/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Ampbox - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Ampbox%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Cab - V3.0 - Roxolder">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Cab%20-%20V3.0%20-%20Roxolder/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Chorus WS1">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Chorus%20WS1/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Greed Smasher - V1.2">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Greed%20Smasher%20-%20V1.2/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/MT-A">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/MT-A/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Reaxis">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Reaxis/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Spark - V1.1">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/Spark%20-%20V1.1/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/TSC - V1.1">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/TSC%20-%20V1.1/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/U530 - V1.1">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/U530%20-%20V1.1/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/U530 CME">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Mercuriall/U530%20CME/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/ML Sound Lab/Amped - Ark">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/ML%20Sound%20Lab/Amped%20-%20Ark/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/ML Sound Lab/Amped - Bass">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/ML%20Sound%20Lab/Amped%20-%20Bass/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/ML Sound Lab/Amped - Dual">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/ML%20Sound%20Lab/Amped%20-%20Dual/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/ML Sound Lab/Amped - ML Plexi">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/ML%20Sound%20Lab/Amped%20-%20ML%20Plexi/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Nembrini Audio/Analog Rack Guitar Equalizer">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Nembrini%20Audio/Analog%20Rack%20Guitar%20Equalizer/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Nembrini Audio/Cali Dual">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Nembrini%20Audio/Cali%20Dual/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Nembrini Audio/EK Edstortion Rack">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Nembrini%20Audio/EK%20Edstortion%20Rack/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Nembrini Audio/MRH 810 - V2.0">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Nembrini%20Audio/MRH%20810%20-%20V2.0/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Archetype Abasi - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Archetype%20Abasi%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Archetype Cory Wong - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Archetype%20Cory%20Wong%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Archetype Gojira - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Archetype%20Gojira%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Archetype Nolly - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Archetype%20Nolly%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Archetype Petrucci - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Archetype%20Petrucci%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Archetype Plini - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Archetype%20Plini%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Archetype Tom Morello - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Archetype%20Tom%20Morello%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Darkglass Ultra - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Darkglass%20Ultra%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Fortin Cali Suite - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Fortin%20Cali%20Suite%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Fortin Nameless Suite - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Fortin%20Nameless%20Suite%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Fortin NTS Suite - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Fortin%20NTS%20Suite%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Mesa Boogie Mark IIC+ Suite - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Mesa%20Boogie%20Mark%20IIC+%20Suite%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/OMEGA Ampworks Granophyre - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/OMEGA%20Ampworks%20Granophyre%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Neural DSP/Parallax - VST3">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Neural%20DSP/Parallax%20-%20VST3/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Plugin Alliance/SPL TwinTube">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Plugin%20Alliance/SPL%20TwinTube/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Softube - VST3/Abbey Road RS127 Box">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Softube%20-%20VST3/Abbey%20Road%20RS127%20Box/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Softube - VST3/Abbey Road RS127 Rack">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Softube%20-%20VST3/Abbey%20Road%20RS127%20Rack/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Softube - VST3/Abbey Road RS135">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Softube%20-%20VST3/Abbey%20Road%20RS135/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Softube - VST3/Active Equalizer">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Softube%20-%20VST3/Active%20Equalizer/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Softube - VST3/Console 1">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Softube%20-%20VST3/Console%201/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Softube - VST3/FET Compressor">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Softube%20-%20VST3/FET%20Compressor/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Softube - VST3/Fix Doubler">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Softube%20-%20VST3/Fix%20Doubler/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Sonic Anomaly/Bass Professor Mark II">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Sonic%20Anomaly/Bass%20Professor%20Mark%20II/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Sonic Anomaly/Leet Delay 2">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Sonic%20Anomaly/Leet%20Delay%202/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Sonic Anomaly/SEGX2 Gate/SEGX2 Gate">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Sonic%20Anomaly/SEGX2%20Gate/SEGX2%20Gate/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Sonic Anomaly/Transpire">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Sonic%20Anomaly/Transpire/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/SoundToys/Decapitator">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/SoundToys/Decapitator/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/STL Tonality/Andy James">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/STL%20Tonality/Andy%20James/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/STL Tonality/Howard Benson">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/STL%20Tonality/Howard%20Benson/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Toontrack/EZKeys">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Toontrack/EZKeys/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Ujam/Fin-Micro">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="2.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Ujam/Fin-Micro/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla DSP/Valhalla Delay">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla%20DSP/Valhalla%20Delay/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla DSP/Valhalla Freq Echo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla%20DSP/Valhalla%20Freq%20Echo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla DSP/Valhalla Plate">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla%20DSP/Valhalla%20Plate/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla DSP/Valhalla Room">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla%20DSP/Valhalla%20Room/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla DSP/Valhalla Shimmer">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla%20DSP/Valhalla%20Shimmer/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla DSP/Valhalla Space Modulator">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla%20DSP/Valhalla%20Space%20Modulator/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla DSP/Valhalla Supermassive">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla%20DSP/Valhalla%20Supermassive/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla DSP/Valhalla Uber Mod">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla%20DSP/Valhalla%20Uber%20Mod/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla DSP/Valhalla Vintage Verb">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Valhalla%20DSP/Valhalla%20Vintage%20Verb/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Voxengo - VST3/CRTIV Chorus">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Voxengo%20-%20VST3/CRTIV%20Chorus/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Voxengo - VST3/CRTIV Reverb 2">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Voxengo%20-%20VST3/CRTIV%20Reverb%202/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Voxengo - VST3/Deft Compressor">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Voxengo%20-%20VST3/Deft%20Compressor/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Voxengo - VST3/OldSkoolVerb">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Voxengo%20-%20VST3/OldSkoolVerb/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/Abbey Road Chambers Mono">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/Abbey%20Road%20Chambers%20Mono/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/Abbey Road Chambers MonoStereo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/Abbey%20Road%20Chambers%20MonoStereo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/Abbey Road Chambers Stereo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/Abbey%20Road%20Chambers%20Stereo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/Abbey Road Plates Mono">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/Abbey%20Road%20Plates%20Mono/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/Abbey Road Plates Mono-Stereo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/Abbey%20Road%20Plates%20Mono-Stereo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/Abbey Road Plates Stereo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/Abbey%20Road%20Plates%20Stereo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/API-550A Mono">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/API-550A%20Mono/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/API-550A Stereo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/API-550A%20Stereo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/AudioTrack Mono">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/AudioTrack%20Mono/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/AudioTrack Stereo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/AudioTrack%20Stereo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/CLA Vocals Mono-Stereo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/CLA%20Vocals%20Mono-Stereo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/CLA Vocals Stereo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/CLA%20Vocals%20Stereo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/JJP-Vocals Mono-Stereo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/JJP-Vocals%20Mono-Stereo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/JJP-Vocals Stereo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/JJP-Vocals%20Stereo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/SSLComp Mono">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/SSLComp%20Mono/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="csi/Zones/X-Touch/FX/ReaperAccessible/Waves - VST3/SSLComp Stereo">
+    <reapack name="log.txt" type="midinotenames">
+      <version name="1.0" time="2024-04-02T17:17:07Z">
+        <source>https://github.com/leejul/rap_fr/raw/1f48f8fb41935776b101e8b9a68ba61ff81f8552/csi/Zones/X-Touch/FX/ReaperAccessible/Waves%20-%20VST3/SSLComp%20Stereo/log.txt</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Explorateur de Média">
+    <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="déplace le curseur au marqueur précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/f97ba5b6ee268b241d02004b45f69aa2466fb943/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20pr%C3%A9c%C3%A9dent.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:52:24Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/5c7a4741308110b9f3be1d6e7ed0784a30f9312a/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20pr%C3%A9c%C3%A9dent.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur suivant.lua" type="script" desc="déplace le curseur au marqueur précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20suivant.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début de la mesure actuelle.lua" type="script" desc="aller à la mesure précédente depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début de la prochaine mesure.lua" type="script" desc="déplace le curseur à la mesure suivante depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20prochaine%20mesure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début du battement actuel.eel" type="script" desc="Aller au début du temps précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T18:00:26Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/c572dd30519f652e29d4364d30b887ff57575d27/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début du prochain battement.eel" type="script" desc="Aller au début du temps suivant">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T18:00:26Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/c572dd30519f652e29d4364d30b887ff57575d27/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Lancer et arrêter la lecture de l'aperçu du média en même temps que l'arrangement.lua" type="script" desc="Lance symultanément la lecture du projet, et l'aperçu du média sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Lancer%20et%20arr%C3%AAter%20la%20lecture%20de%20l'aper%C3%A7u%20du%20m%C3%A9dia%20en%20m%C3%AAme%20temps%20que%20l'arrangement.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Lancer et arrêter la lecture depuis l'explorateur de média.lua" type="script" desc="Lancer et arrêter la lecture depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Lancer%20et%20arr%C3%AAter%20la%20lecture%20depuis%20l'explorateur%20de%20m%C3%A9dia.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Réinitialiser le volume de l'explorateur de média à 0 DB.lua" type="script" desc="Réinitialise le volume de l'explorateur de média à 0 DB">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20R%C3%A9initialiser%20le%20volume%20de%20l'explorateur%20de%20m%C3%A9dia%20%C3%A0%200%20DB.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Énoncer la position du curseur d'édition et l'état du transport.lua" type="script" desc="énonce la position du curseur d'édition et l'état du transport">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20%C3%89noncer%20la%20position%20du%20curseur%20d'%C3%A9dition%20et%20l'%C3%A9tat%20du%20transport.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="extensions">
+    <reapack name="csi.ext" type="extension" desc="Control Surface Integrator pour Reaper">
+      <metadata>
+        <link rel="website">https://github.com/leejul/rap_fr/raw/main/dlls</link>
+      </metadata>
+      <version name="2.0" author="ReaperAccessible" time="2024-04-02T16:52:23Z">
+        <source platform="win64" file="reaper_csurf_integrator64.dll">https://github.com/leejul/rap_fr/raw/main/dlls/reaper_csurf_integrator64.dll</source>
+      </version>
+    </reapack>
+    <reapack name="js_api_reascript.ext" type="extension" desc="API complémentaire pour ReaScript">
+      <metadata>
+        <link rel="website">https://github.com/leejul/rap_fr/raw/main/dlls</link>
+      </metadata>
+      <version name="1.0" author="ReaperAccessible" time="2024-04-02T17:01:15Z">
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/leejul/rap_fr/raw/main/dlls/reaper_js_ReaScriptAPI64.dll</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Fonctions">
+    <reapack name="Arc_Function_lua.lua" type="script" desc="Arc_Function_lua">
+      <version name="3.0.3" author="Archie" time="2024-04-01T17:35:00Z">
+        <source>https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Fonctions/Arc_Function_lua.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="LangPack">
+    <reapack name="REAPER_SWS_FRC.ReaperLangPack" type="langpack" desc="Français">
+      <version name="7.05" author="Lee JULIEN et Pierre-Marie CURT" time="2024-04-02T07:43:02Z">
+        <source>https://github.com/leejul/rap_fr/raw/4f11ad4b4f522f4b2670635a9b51f163695d61c3/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Principal">
+    <reapack name="ReaperAccessible - Principal - Afficher le menu des actions d'automatisation.lua" type="script" desc="Affiche un menu permettant d'accéder à différentes actions d'automatisation">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20des%20actions%20d'automatisation.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Afficher le menu du RS5K.lua" type="script" desc="Affiche un menu permettant d'accéder à différentes fonctions du RS5K">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20du%20RS5K.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Ajouter une chaine d'effets à la piste sélectionnée.lua" type="script" desc="Ajoute une chaine d'effets à la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ajouter%20une%20chaine%20d'effets%20%C3%A0%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Aller à la dernière piste du dossier.lua" type="script" desc="Sélectionne la dernière piste du dossier">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20%C3%A0%20la%20derni%C3%A8re%20piste%20du%20dossier.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Aller à la première piste du dossier.lua" type="script" desc="Sélectionne la première piste du dossier">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20%C3%A0%20la%20premi%C3%A8re%20piste%20du%20dossier.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Basculer le contournement de l'FX sélectionné sur la piste sélectionnée.lua" type="script" desc="Bascule entre l'état activé et désactivé pour l'fx sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer%20le%20contournement%20de%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Basculer le contournement des FX de la piste sélectionnée, sauf les instruments.lua" type="script" desc="Contourne les FX de la piste sélectionnée, sauf les instruments virtuels">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer%20le%20contournement%20des%20FX%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e,%20sauf%20les%20instruments.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Basculer le contournement des FX de toutes les pistes, sauf les instruments.lua" type="script" desc="Contourne les FX de toutes les pistes du projet, sauf les instruments virtuels">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer%20le%20contournement%20des%20FX%20de%20toutes%20les%20pistes,%20sauf%20les%20instruments.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Basculer, boucler la source des objets sélectionnés.lua" type="script" desc="Basculer, boucler la source des objets sélectionnés">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer,%20boucler%20la%20source%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Basculer, lier les points de boucles à la sélection temporelle.lua" type="script" desc="Basculer, lier les points de boucle et les points de sélection temporelle">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer,%20lier%20les%20points%20de%20boucles%20%C3%A0%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Convertir les points d'enveloppe sélectionnés en Objet d'automatisation.lua" type="script" desc="Convertir les points d'enveloppe sélectionnés en Objet d'automatisation">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Convertir%20les%20points%20d'enveloppe%20s%C3%A9lectionn%C3%A9s%20en%20Objet%20d'automatisation.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Créer un dossier à partir des pistes sélectionnées, et renommer le dossier.lua" type="script" desc="Crée un dossier à partir des pistes sélectionnées, et renomme le dossier">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Cr%C3%A9er%20un%20dossier%20%C3%A0%20partir%20des%20pistes%20s%C3%A9lectionn%C3%A9es,%20et%20renommer%20le%20dossier.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Dernières étapes de paramètre touchées.lua" type="script">
+      <version name="0.0.2" author="&quot;Ludovic SANSONE pour Reaper Accessible&quot;" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Derni%C3%A8res%20%C3%A9tapes%20de%20param%C3%A8tre%20touch%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déclancher le préréglage précédent de l'FX sélectionné, sur la piste sélectionnée.lua" type="script" desc="Déclanche le préréglage précédent de l'FX sélectionné, sur la piste sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9clancher%20le%20pr%C3%A9r%C3%A9glage%20pr%C3%A9c%C3%A9dent%20de%20l'FX%20s%C3%A9lectionn%C3%A9,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déclancher le préréglage suivant de l'FX sélectionné, sur la piste sélectionnée.lua" type="script" desc="Déclanche le préréglage suivant de l'effet sélectionné, sur la piste sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9clancher%20le%20pr%C3%A9r%C3%A9glage%20suivant%20de%20l'FX%20s%C3%A9lectionn%C3%A9,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir la grille de division via un menu.lua" type="script" desc="Affiche un menu contextuel permettant de sélectionner la grille de division">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir la grille de division à la valeur inférieure.lua" type="script" desc="Définie la grille de division inférieure">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20inf%C3%A9rieure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir la grille de division à la valeur suppérieure.lua" type="script" desc="Définie la grille de division suppérieure">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20supp%C3%A9rieure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de début de sélection autopunch.lua" type="script" desc="Point de début de sélection autopunch">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de début de sélection d'Objet à supprimer, ripple toute les pistes.lua" type="script" desc="Définir le point de début de sélection d'Objet à supprimer, ripple toute les pistes">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20d'Objet%20%C3%A0%20supprimer,%20ripple%20toute%20les%20pistes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de début de sélection de la zone à supprimer des pistes sélectionnées.lua" type="script" desc="ReaperAccessible - Principal - Définir le point de début de sélection de la zone à supprimer des pistes sélectionnées">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20de%20la%20zone%20%C3%A0%20supprimer%20des%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de fin de sélection autopunch.lua" type="script" desc="Point de fin de sélection autopunch">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de fin de sélection d'Objet à supprimer, ripple toute les pistes.lua" type="script" desc="Définir le point de fin de sélection d'Objet à supprimer, ripple toute les pistes">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20d'Objet%20%C3%A0%20supprimer,%20ripple%20toute%20les%20pistes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de fin de sélection de la zone à supprimer des pistes sélectionnées.lua" type="script" desc="Définir le point de fin de sélection de la zone à supprimer des pistes sélectionnées">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20de%20la%20zone%20%C3%A0%20supprimer%20des%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer l'FX sélectionné d'une position vers le bas.lua" type="script" desc="Déplacer l'FX sélectionné d'une position vers le bas">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20l'FX%20s%C3%A9lectionn%C3%A9%20d'une%20position%20vers%20le%20bas.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer l'FX sélectionné d'une position vers le haut.lua" type="script" desc="Déplacer l'FX sélectionné d'une position vers le haut">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20l'FX%20s%C3%A9lectionn%C3%A9%20d'une%20position%20vers%20le%20haut.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer la piste sélectionnée un rang vers le bas (demander pour les dossiers de pistes).lua" type="script" desc="Déplace la piste un rang vers le bas, et demande à l'utilisateur s'il souhaite l'intégrer dans le dossier de pistes rencontré">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20bas%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer la piste sélectionnée un rang vers le haut (demander pour les dossiers de pistes).lua" type="script" desc="Déplace la piste un rang vers le haut, et demande à l'utilisateur s'il souhaite l'intégrer dans le dossier de pistes rencontré">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20haut%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer le bord droit des Objets d'automatisation sélectionnés à la fin de la sélection temporelle.lua" type="script" desc="Déplacer le bord droit des Objets d'automatisation sélectionnés à la fin de la sélection temporelle">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20bord%20droit%20des%20Objets%20d'automatisation%20s%C3%A9lectionn%C3%A9s%20%C3%A0%20la%20fin%20de%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer le bord gauche des Objets d'automatisation sélectionnés au début de la sélection temporelle.lua" type="script" desc="Déplacer le bord gauche des Objets d'automatisation sélectionnés au début de la sélection temporelle">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20bord%20gauche%20des%20Objets%20d'automatisation%20s%C3%A9lectionn%C3%A9s%20au%20d%C3%A9but%20de%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer le curseur d'édition au début du battement actuel.eel" type="script" desc="Aller au début du temps précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer le curseur d'édition au début du prochain battement.eel" type="script" desc="Aller au début du temps suivant">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode batterie).lua" type="script">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20batterie).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode boucle).lua" type="script">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20boucle).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode clavier).lua" type="script">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20clavier).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Exporter l'objet sélectionné vers une instance du RS5K, avec le même échantillon sur l'ensemble du clavier.lua" type="script" desc="Exporte l'objet sélectionné vers une instance du RS5K avec la même note sur l'ensemble du clavier">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20avec%20le%20m%C3%AAme%20%C3%A9chantillon%20sur%20l'ensemble%20du%20clavier.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Exporter l'objet sélectionné vers une instance du RS5K, comme une source chromatique.lua" type="script" desc="Exporte l'objet sélectionné vers une instance du RS5K comme une source chromatique">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20comme%20une%20source%20chromatique.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Fermer le dossier de pistes sélectionné.lua" type="script" desc="Ferme le dossier de pistes sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Fermer%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Insérer un espace vide au curseur via une zone d'édition.lua" type="script" desc="Permet à l'utilisateur d'insérer un espace vide en saisissant la durée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20au%20curseur%20via%20une%20zone%20d'%C3%A9dition.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Insérer un Objet vide pour chaque piste sélectionnée selon le mode ripple.lua" type="script" desc="Insérer un Objet vide pour chaque piste sélectionnée selon le mode ripple">
+      <version name="1.0" author="Lee Julien pour ReaperAccessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20Objet%20vide%20pour%20chaque%20piste%20s%C3%A9lectionn%C3%A9e%20selon%20le%20mode%20ripple.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Lancer un enregistrement en fonction du mode Ripple.lua" type="script" desc="Lance un enregistrement en tenant compte du mode Ripple">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Lancer%20un%20enregistrement%20en%20fonction%20du%20mode%20Ripple.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Ouvrir le dossier de pistes sélectionné.lua" type="script" desc="Ouvre le dossier de piste sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Ouvrir le menu des répertoires.lua" type="script" desc="Ouvre des dossiers utiles via un menu">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20le%20menu%20des%20r%C3%A9pertoires.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Saisir le volume de toute les pistes sélectionnées.lua" type="script" desc="permet à l'utilisateur de saisir un volume pour toute les pistes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Saisir%20le%20volume%20de%20toute%20les%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Scinder les Objets d'automatisation sélectionnés aux marqueurs.lua" type="script" desc="Scinder les Objets d'automatisation sélectionnés aux marqueurs">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Scinder%20les%20Objets%20d'automatisation%20s%C3%A9lectionn%C3%A9s%20aux%20marqueurs.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Supprimer l'FX sélectionné sur la piste sélectionnée.lua" type="script" desc="Supprime l'fx sélectionné sur la piste sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Supprimer les point de sélection autopunch.lua" type="script" desc="Supprimer les point de sélection autopunch">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20les%20point%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner l'FX précédent de la piste sélectionnée.lua" type="script" desc="Sélectionne l'FX précédent de la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20l'FX%20pr%C3%A9c%C3%A9dent%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner l'FX suivant de la piste sélectionnée.lua" type="script" desc="Sélectionne l'FX suivant de la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20l'FX%20suivant%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner tous les Objets d'automatisation de la piste sélectionnée.lua" type="script" desc="Sélectionner tous les objets d'automatisation de la piste sélectionnée">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20tous%20les%20Objets%20d'automatisation%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner tous les Objets d'automatisation de toutes les pistes.lua" type="script" desc="Sélectionner tous les Objets d'automatisation de toutes les pistes">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20tous%20les%20Objets%20d'automatisation%20de%20toutes%20les%20pistes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner une piste à partir de son numéro ou de son nom.lua" type="script" desc="amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer la grille de division courante.lua" type="script" desc="Énonce la grille de division courante">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer la longueur des objets sélectionnés.lua" type="script">
+      <version name="1.0" author="&quot;Ludovic SANSONE pour Reaper Accessible&quot;" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20longueur%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le nom de l'FX sélectionné sur la piste sélectionnée.lua" type="script" desc="Énonce le nom de l'fx sélectionné sur la piste sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20de%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le nom de la piste sélectionnée.lua" type="script" desc="Énonce le nom de la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le tempo et la signature rythmique du projet, à la position courante.lua" type="script" desc="Énonce le tempo et la signature rythmique du projet, à la position courante">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20tempo%20et%20la%20signature%20rythmique%20du%20projet,%20%C3%A0%20la%20position%20courante.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le volume de la piste sélectionnée.lua" type="script" desc="Énonce le volume de la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Éditeur MIDI">
+    <reapack name="ReaperAccessible - Éditeur MIDI - Ajouter une note entre les 2 notes sélectionnées.lua" type="script" desc="Ajoute une note entre les 2 notes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Ajouter%20une%20note%20entre%20les%202%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la grille de division via un menu.lua" type="script" desc="Affiche un menu contextuel permettant de sélectionner la grille de division">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur la moitié.lua" type="script" desc="Définie la longueur des notes sélectionnées sur la moitié">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20la%20moiti%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur le double.lua" type="script" desc="Définie la longueur des notes sélectionnées sur le double">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20le%20double.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de blanche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur un triolet de blanche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20blanche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur un triolet de croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de double croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur un triolet de double croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20double%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de noire.lua" type="script" desc="Définie la longueur des notes sélectionnées sur un triolet de noire">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20noire.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de triple croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur un triolet de triple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20triple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une blanche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une blanche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20blanche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une double croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une double croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20double%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une noire.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une noire">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20noire.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une quadruple croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une quadruple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20quadruple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une quintuple croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une quintuple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20quintuple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une ronde.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une ronde">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20ronde.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une triple croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une triple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20triple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur des notes sélectionnées via un menu.lua" type="script" desc="Définie la longueur des notes sélectionnées via un menu">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20des%20notes%20s%C3%A9lectionn%C3%A9es%20via%20un%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la vélocité des notes sélecttionnées.lua" type="script" desc="Définie la vélocité des notes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20v%C3%A9locit%C3%A9%20des%20notes%20s%C3%A9lecttionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir une vélocité aléatoire pour les notes sélectionnées, entre 2 bornes saisies par l'utilisateur.lua" type="script" desc="Définie une vélocité aléatoire pour les notes sélectionnées, entre 2 bornes saisies par l'utilisateur">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20une%20v%C3%A9locit%C3%A9%20al%C3%A9atoire%20pour%20les%20notes%20s%C3%A9lectionn%C3%A9es,%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début de la mesure actuelle.lua" type="script" desc="aller à la mesure précédente depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début de la prochaine mesure.lua" type="script" desc="déplace le curseur à la mesure suivante depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20prochaine%20mesure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début du battement actuel.eel" type="script" desc="Aller au début du temps précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début du prochain battement.eel" type="script" desc="Aller au début du temps suivant">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Humaniser la vélocité des notes sélectionnées.lua" type="script" desc="Humanise la vélocité des notes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Humaniser%20la%20v%C3%A9locit%C3%A9%20des%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Scinder les notes sélectionnées en parties égales.lua" type="script" desc="Scinde les notes sélectionnées en parties égales">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Scinder%20les%20notes%20s%C3%A9lectionn%C3%A9es%20en%20parties%20%C3%A9gales.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Supprimer les notes dont la vélocité est inférieure à la valeur saisie.lua" type="script" desc="Efface les notes dont la vélocité est inférieure à la saisie de l'utilisateur">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Supprimer%20les%20notes%20dont%20la%20v%C3%A9locit%C3%A9%20est%20inf%C3%A9rieure%20%C3%A0%20la%20valeur%20saisie.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner toutes les notes et les événements dans la sélection temporelle.lua" type="script" desc="Sélectionner toutes les notes et les événements dans la sélection temporelle">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20toutes%20les%20notes%20et%20les%20%C3%A9v%C3%A9nements%20dans%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Vélocité croissante ou décroissante entre 2 bornes saisies par l'utilisateur.lua" type="script" desc="Increase or decrease velocity between 2 limits entered by user with tension">
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible augmented by Chessel" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20V%C3%A9locit%C3%A9%20croissante%20ou%20d%C3%A9croissante%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Élaguer ou étirer la position des notes sélectionnées.lua" type="script" desc="Étirer la position des notes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89laguer%20ou%20%C3%A9tirer%20la%20position%20des%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Énoncer la grille de division courante.lua" type="script" desc="Énonce la grille de division courante">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Énoncer le nom de la piste sélectionnée.lua" type="script" desc="Énonce le nom de la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89noncer%20le%20nom%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
