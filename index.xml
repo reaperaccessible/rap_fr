@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="ReaperAccessible Scripts" commit="8bb1e1409b8296846e87a70b4b03d71cf8691b32">
+  <category name="Explorateur de Média">
+    <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="déplace le curseur au marqueur précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/f97ba5b6ee268b241d02004b45f69aa2466fb943/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20pr%C3%A9c%C3%A9dent.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:52:24Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/5c7a4741308110b9f3be1d6e7ed0784a30f9312a/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20pr%C3%A9c%C3%A9dent.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur suivant.lua" type="script" desc="déplace le curseur au marqueur précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20suivant.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début de la mesure actuelle.lua" type="script" desc="aller à la mesure précédente depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début de la prochaine mesure.lua" type="script" desc="déplace le curseur à la mesure suivante depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20prochaine%20mesure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début du battement actuel.eel" type="script" desc="Aller au début du temps précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T18:00:26Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/c572dd30519f652e29d4364d30b887ff57575d27/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début du prochain battement.eel" type="script" desc="Aller au début du temps suivant">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T18:00:26Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/c572dd30519f652e29d4364d30b887ff57575d27/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Lancer et arrêter la lecture de l'aperçu du média en même temps que l'arrangement.lua" type="script" desc="Lance symultanément la lecture du projet, et l'aperçu du média sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Lancer%20et%20arr%C3%AAter%20la%20lecture%20de%20l'aper%C3%A7u%20du%20m%C3%A9dia%20en%20m%C3%AAme%20temps%20que%20l'arrangement.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Lancer et arrêter la lecture depuis l'explorateur de média.lua" type="script" desc="Lancer et arrêter la lecture depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Lancer%20et%20arr%C3%AAter%20la%20lecture%20depuis%20l'explorateur%20de%20m%C3%A9dia.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Réinitialiser le volume de l'explorateur de média à 0 DB.lua" type="script" desc="Réinitialise le volume de l'explorateur de média à 0 DB">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20R%C3%A9initialiser%20le%20volume%20de%20l'explorateur%20de%20m%C3%A9dia%20%C3%A0%200%20DB.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Énoncer la position du curseur d'édition et l'état du transport.lua" type="script" desc="énonce la position du curseur d'édition et l'état du transport">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20%C3%89noncer%20la%20position%20du%20curseur%20d'%C3%A9dition%20et%20l'%C3%A9tat%20du%20transport.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Fonctions">
+    <reapack name="Arc_Function_lua.lua" type="script" desc="Arc_Function_lua">
+      <version name="3.0.3" author="Archie" time="2024-04-01T17:35:00Z">
+        <source>https://github.com/leejul/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Fonctions/Arc_Function_lua.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Éditeur MIDI">
+    <reapack name="ReaperAccessible - Éditeur MIDI - Ajouter une note entre les 2 notes sélectionnées.lua" type="script" desc="Ajoute une note entre les 2 notes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="main">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Ajouter%20une%20note%20entre%20les%202%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la grille de division via un menu.lua" type="script" desc="Affiche un menu contextuel permettant de sélectionner la grille de division">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur la moitié.lua" type="script" desc="Définie la longueur des notes sélectionnées sur la moitié">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20la%20moiti%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur le double.lua" type="script" desc="Définie la longueur des notes sélectionnées sur le double">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20le%20double.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de blanche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur un triolet de blanche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20blanche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur un triolet de croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de double croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur un triolet de double croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20double%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de noire.lua" type="script" desc="Définie la longueur des notes sélectionnées sur un triolet de noire">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20noire.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de triple croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur un triolet de triple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20triple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une blanche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une blanche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20blanche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une double croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une double croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20double%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une noire.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une noire">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20noire.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une quadruple croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une quadruple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20quadruple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une quintuple croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une quintuple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20quintuple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une ronde.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une ronde">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20ronde.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une triple croche.lua" type="script" desc="Définie la longueur des notes sélectionnées sur une triple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20triple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur des notes sélectionnées via un menu.lua" type="script" desc="Définie la longueur des notes sélectionnées via un menu">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20des%20notes%20s%C3%A9lectionn%C3%A9es%20via%20un%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la vélocité des notes sélecttionnées.lua" type="script" desc="Définie la vélocité des notes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20v%C3%A9locit%C3%A9%20des%20notes%20s%C3%A9lecttionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir une vélocité aléatoire pour les notes sélectionnées, entre 2 bornes saisies par l'utilisateur.lua" type="script" desc="Définie une vélocité aléatoire pour les notes sélectionnées, entre 2 bornes saisies par l'utilisateur">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20une%20v%C3%A9locit%C3%A9%20al%C3%A9atoire%20pour%20les%20notes%20s%C3%A9lectionn%C3%A9es,%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début de la mesure actuelle.lua" type="script" desc="aller à la mesure précédente depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début de la prochaine mesure.lua" type="script" desc="déplace le curseur à la mesure suivante depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20prochaine%20mesure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début du battement actuel.eel" type="script" desc="Aller au début du temps précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début du prochain battement.eel" type="script" desc="Aller au début du temps suivant">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Humaniser la vélocité des notes sélectionnées.lua" type="script" desc="Humanise la vélocité des notes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Humaniser%20la%20v%C3%A9locit%C3%A9%20des%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Scinder les notes sélectionnées en parties égales.lua" type="script" desc="Scinde les notes sélectionnées en parties égales">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Scinder%20les%20notes%20s%C3%A9lectionn%C3%A9es%20en%20parties%20%C3%A9gales.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Supprimer les notes dont la vélocité est inférieure à la valeur saisie.lua" type="script" desc="Efface les notes dont la vélocité est inférieure à la saisie de l'utilisateur">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Supprimer%20les%20notes%20dont%20la%20v%C3%A9locit%C3%A9%20est%20inf%C3%A9rieure%20%C3%A0%20la%20valeur%20saisie.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner toutes les notes et les événements dans la sélection temporelle.lua" type="script" desc="Sélectionner toutes les notes et les événements dans la sélection temporelle">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20toutes%20les%20notes%20et%20les%20%C3%A9v%C3%A9nements%20dans%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Vélocité croissante ou décroissante entre 2 bornes saisies par l'utilisateur.lua" type="script" desc="Increase or decrease velocity between 2 limits entered by user with tension">
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible augmented by Chessel" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20V%C3%A9locit%C3%A9%20croissante%20ou%20d%C3%A9croissante%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Élaguer ou étirer la position des notes sélectionnées.lua" type="script" desc="Étirer la position des notes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89laguer%20ou%20%C3%A9tirer%20la%20position%20des%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Énoncer la grille de division courante.lua" type="script" desc="Énonce la grille de division courante">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Énoncer le nom de la piste sélectionnée.lua" type="script" desc="Énonce le nom de la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/leejul/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89noncer%20le%20nom%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
