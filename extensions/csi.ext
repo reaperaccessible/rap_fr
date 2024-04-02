@@ -1,0 +1,6 @@
+@description Control Surface Integrator pour Reaper
+@author ReaperAccessible
+@version 2.0
+@provides
+  [win64] reaper_csurf_integrator64.dll https://github.com/leejul/rap_fr/raw/main/dlls/reaper_csurf_integrator64.dll
+@link https://github.com/leejul/rap_fr/raw/main/dlls
