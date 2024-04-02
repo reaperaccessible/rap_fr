@@ -1,3 +1,7 @@
+#NAME:KeyMap ReaperAccessible
+;Version: 1.0
+;Author: Lee JULIEN et Ludovic SANSONE
+
 ACT 3 0 "6147697fe03f864580dc8b7ff1efc0b1" "Custom: fast forward" 1008 40522 40522 40522 40522 40522 40522 40522 40522 40522 40522 40522 40522 1007
 ACT 1 0 "3c84c2b855b9ea4eae559f8ea08f2cf6" "Custom: Select from cursor to start of project" 40626 40042 40625
 ACT 1 0 "81e481e67075f542868f31f94cde9bc7" "Custom: insert and name track" 40001 40696
@@ -7825,7 +7829,7 @@ KEY 9 223 _RS33c0e23afc05fab8779c7b10f516306a7a382417 0		 # Main : Ctrl+! : Scri
 KEY 1 13 _RS67fd0256b885730b2323fc9e9ebb6c8884e9eac2 0		 # Main : ENTREE : OVERRIDE DEFAULT : Script: ReaperAccessible - Principal - Sélectionner une piste à partir de son numéro ou de son nom.lua
 KEY 5 222 _RSc89a43c9219f9b071a1ace08e0fdb120f38eb06e 0		 # Main : Shift+² : Script: ReaperAccessible - Principal - Supprimer les point de sélection autopunch.lua
 KEY 57 32814 _RSd23839393b454790cbfaf31b535ec825749c8e26 0		 # Main : Ctrl+Alt+Win+SUPPR : Script: ReaperAccessible - Principal - Supprimer l'FX sélectionné sur la piste sélectionnée.lua
-KEY 33 97 _RSb47c5c222d8b923ef02b363eebb514c41f146b52 0		 # Main : Win+1 (PAVE NUM.) : Script: ReaperAccessible - Principal - Définir le point de début de sélection de la zone à supprimer des pistes sélectionn�
+KEY 33 97 _RSb47c5c222d8b923ef02b363eebb514c41f146b52 0		 # Main : Win+1 (PAVE NUM.) : Script: ReaperAccessible - Principal - Définir le point de début de sélection de la zone à supprimer des pistes sélectionn�
 KEY 9 97 _RS2c95f86e8a6bb23e0b11c9b70b39542e425f9ccf 0		 # Main : Ctrl+1 (PAVE NUM.) : Script: ReaperAccessible - Principal - Définir le point de début de sélection d'Objet à supprimer, ripple toute les pistes.l
 KEY 33 99 _RS28ecda335f344ae7a7777edb6bc5c1d13db68337 0		 # Main : Win+3 (PAVE NUM.) : Script: ReaperAccessible - Principal - Définir le point de fin de sélection de la zone à supprimer des pistes sélectionnées
 KEY 9 99 _RS1d9e4bc89cb4c3b5aabe0ef45bb4f0770eef8177 0		 # Main : Ctrl+3 (PAVE NUM.) : Script: ReaperAccessible - Principal - Définir le point de fin de sélection d'Objet à supprimer, ripple toute les pistes.lua
