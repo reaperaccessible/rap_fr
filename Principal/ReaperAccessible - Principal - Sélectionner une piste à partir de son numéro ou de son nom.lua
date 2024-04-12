@@ -1,10 +1,17 @@
--- @description amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur
+-- @version 1.3
+-- @author Ludovic SANSONE et Lee JULIEN pour Reaper Accessible
+-- @provides [main=main] .
 
--- Fonction pour annoncer le message d'ouverture de la fenêtre
-function announceOpeningMessage()
-    reaper.ShowConsoleMsg("Recherche de piste: Entrez une partie du nom ou le numéro de la piste et appuyez sur Entrée.\n")
+-- Fonction pour vérifier si une piste est un dossier
+function IsTrackFolder(track)
+    local trackDepth = reaper.GetMediaTrackInfo_Value(track, "I_FOLDERDEPTH")
+    return trackDepth == 1
+end
+
+-- Fonction pour ouvrir un dossier de piste
+function OpenTrackFolder(track)
+    reaper.SetMediaTrackInfo_Value(track, "I_FOLDERCOMPACT", 0)
 end
 
 -- Fonction pour sélectionner une piste en fonction du numéro
@@ -12,13 +19,26 @@ function selectTrackFromNumber(trackNumber)
     local trackIndex = tonumber(trackNumber) - 1
     local trackCount = reaper.CountTracks(0)
 
+    if trackCount == 0 then
+        reaper.osara_outputMessage("Aucune piste dans votre projet")
+        return
+    end
+
     if trackIndex and trackIndex >= 0 and trackIndex < trackCount then
         local track = reaper.GetTrack(0, trackIndex)
+
+        -- Ouvrir tous les dossiers de piste
+        for i = 0, reaper.CountTracks(0) - 1 do
+            local track = reaper.GetTrack(0, i)
+            if IsTrackFolder(track) then
+                OpenTrackFolder(track)
+            end
+        end
+
+        -- Sélectionner la piste
         reaper.SetOnlyTrackSelected(track)
-        reaper.ShowConsoleMsg("Piste n° " .. trackNumber .. " sélectionnée.\n")
         announceSelectedTrackName()
     else
-        reaper.ShowConsoleMsg("Numéro de piste invalide.\n")
         reaper.MB("Numéro de piste invalide.", "Erreur", 0)
     end
 end
@@ -53,8 +73,15 @@ function selectTrackFromPartialName(partialName)
         local _, name = reaper.GetTrackName(track)
 
         if string.find(string.lower(name), string.lower(partialName), 1, true) then
+            -- Ouvrir tous les dossiers de piste
+            for j = 0, reaper.CountTracks(0) - 1 do
+                local folderTrack = reaper.GetTrack(0, j)
+                if IsTrackFolder(folderTrack) then
+                    OpenTrackFolder(folderTrack)
+                end
+            end
+
             reaper.SetOnlyTrackSelected(track)
-            reaper.ShowConsoleMsg("Piste contenant '" .. partialName .. "' sélectionnée.\n")
             announceSelectedTrackName()
             found = true
             break
@@ -64,12 +91,19 @@ function selectTrackFromPartialName(partialName)
     -- Si aucune piste n'a été trouvée jusqu'à la fin, parcourir de 0 à l'index de départ
     if not found then
         for i = 0, startIndex - 1 do
-            track = reaper.GetTrack(0, i)
+            local track = reaper.GetTrack(0, i)
             local _, name = reaper.GetTrackName(track)
 
             if string.find(string.lower(name), string.lower(partialName), 1, true) then
+                -- Ouvrir tous les dossiers de piste
+                for j = 0, reaper.CountTracks(0) - 1 do
+                    local folderTrack = reaper.GetTrack(0, j)
+                    if IsTrackFolder(folderTrack) then
+                        OpenTrackFolder(folderTrack)
+                    end
+                end
+
                 reaper.SetOnlyTrackSelected(track)
-                reaper.ShowConsoleMsg("Piste contenant '" .. partialName .. "' sélectionnée.\n")
                 announceSelectedTrackName()
                 found = true
                 break
@@ -96,7 +130,7 @@ function announceSelectedTrackName()
     local trackNum = reaper.GetMediaTrackInfo_Value(track, 'IP_TRACKNUMBER')
 
     if trackNum > 0 then
-        local b, trackName = reaper.GetTrackName(track)
+        local _, trackName = reaper.GetTrackName(track)
         reaper.osara_outputMessage(trackName)
     else
         reaper.osara_outputMessage("Aucune piste dans votre projet")
@@ -105,15 +139,19 @@ end
 
 -- Fonction principale
 function main()
-    -- Appeler la fonction pour annoncer le message d'ouverture
-    announceOpeningMessage()
+    local trackCount = reaper.CountTracks(0)
+
+    -- Vérifier si le projet contient des pistes
+    if trackCount == 0 then
+        reaper.osara_outputMessage("Aucune piste dans votre projet")
+        return
+    end
 
     -- Récupérer la saisie de l'utilisateur
     local retval, userInput = reaper.GetUserInputs("Recherche de piste", 1, "Entrez une partie du nom ou le numéro de la piste et appuyez sur Entrée.:", "")
 
     -- Vérifier si l'utilisateur a annulé ou n'a rien entré
     if not retval or userInput == "" then
-        reaper.ShowConsoleMsg("Opération annulée par l'utilisateur ou entrée invalide.\n")
         return
     end
 
