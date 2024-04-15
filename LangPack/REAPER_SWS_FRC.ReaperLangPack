@@ -1,6 +1,6 @@
-#NAME: Français version 7.14
-#Version: 7.15
-#Author: Lee JULIEN et Pierre-Marie CURT
+-- @NAME: Français version 7.14
+-- @version: 7.14
+-- @Author: Lee JULIEN et Pierre-Marie CURT
 
 [about]
 0035F90FBE34516F=Nous affichons ce message, au lieu de bloquer cette version d'évaluation, car nous\nne pensons pas que le recours à la technologie pour faire respecter la politique en\nmatière de licence soit dans le plus grand intérêt de nos clients.
