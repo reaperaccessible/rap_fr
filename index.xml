@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible Scripts" commit="612812628271aea030e033eb2dfd2b4c67bb0750">
+<index version="1" name="ReaperAccessible Script" commit="ea22832c83e2468391c8e9b02e7ff466e56fc5a0">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="déplace le curseur au marqueur précédent">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
@@ -276,6 +276,11 @@
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Fermer%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
       </version>
     </reapack>
+    <reapack name="ReaperAccessible - Principal - Fermer tous les dossiers de pistes (parent et enfant) du projet.lua" type="script" desc="Ferme tous les dossiers de pistes (parent et enfant) du projet">
+      <version name="1.0" author="Lee JULIEN For Reaper Accessible" time="2024-04-12T16:44:30Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/ea22832c83e2468391c8e9b02e7ff466e56fc5a0/Principal/ReaperAccessible%20-%20Principal%20-%20Fermer%20tous%20les%20dossiers%20de%20pistes%20(parent%20et%20enfant)%20du%20projet.lua</source>
+      </version>
+    </reapack>
     <reapack name="ReaperAccessible - Principal - Insérer un espace vide au curseur via une zone d'édition.lua" type="script" desc="Permet à l'utilisateur d'insérer un espace vide en saisissant la durée">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20au%20curseur%20via%20une%20zone%20d'%C3%A9dition.lua</source>
@@ -299,6 +304,11 @@
     <reapack name="ReaperAccessible - Principal - Ouvrir le menu des répertoires.lua" type="script" desc="Ouvre des dossiers utiles via un menu">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20le%20menu%20des%20r%C3%A9pertoires.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Ouvrir tous les dossiers de pistes (parent et enfant) du projet.lua" type="script" desc="Ouvre tous les dossiers de pistes (parent et enfant) du projet">
+      <version name="1.0" author="Lee JULIEN For Reaper Accessible" time="2024-04-12T16:44:30Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/ea22832c83e2468391c8e9b02e7ff466e56fc5a0/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20tous%20les%20dossiers%20de%20pistes%20(parent%20et%20enfant)%20du%20projet.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Saisir le volume de toute les pistes sélectionnées.lua" type="script" desc="permet à l'utilisateur de saisir un volume pour toute les pistes sélectionnées">
@@ -341,9 +351,20 @@
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20tous%20les%20Objets%20d'automatisation%20de%20toutes%20les%20pistes.lua</source>
       </version>
     </reapack>
-    <reapack name="ReaperAccessible - Principal - Sélectionner une piste à partir de son numéro ou de son nom.lua" type="script" desc="amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur">
+    <reapack name="ReaperAccessible - Principal - Sélectionner une piste à partir de son numéro ou de son nom.lua" type="script" desc="Amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-12T01:46:33Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/45dcd7538fd475b2745cb16e463ee7cb23fbd6c2/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE et Lee JULIEN pour Reaper Accessible" time="2024-04-12T16:44:30Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/ea22832c83e2468391c8e9b02e7ff466e56fc5a0/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Tutoriels et Démos.lua" type="script" desc="Ouvre un menu contenant tous les tutoriels et Démos de ReaperAccessible">
+      <version name="1.0" author="Lee JULIEN For Reaper Accessible" time="2024-04-11T21:13:18Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/66fb489ee579a63ad3080d75851bbbbd878a7edf/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Énoncer la grille de division courante.lua" type="script" desc="Énonce la grille de division courante">
