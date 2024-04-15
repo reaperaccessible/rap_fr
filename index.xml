@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.1" encoding="utf-8"?>
 <index version="1" name="ReaperAccessible scripts" commit="ea22832c83e2468391c8e9b02e7ff466e56fc5a0">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="déplace le curseur au marqueur précédent">
