@@ -1,7 +1,6 @@
 -- @description Crée un dossier à partir des pistes sélectionnées, et renomme le dossier
 -- @version 1.0
 -- @author Ludovic SANSONE pour Reaper Accessible
--- @provides [main=main] .
 
 
 reaper.Undo_BeginBlock()

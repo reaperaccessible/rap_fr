@@ -1,7 +1,6 @@
 -- @Description Ouvre le dossier de piste sélectionné
 -- @version 1.0
 -- @author Ludovic SANSONE pour Reaper Accessible
--- @provides [main=main] .
 
 
 -- Fonction vérifiant si la piste  placée en paramètre est bien un dossier

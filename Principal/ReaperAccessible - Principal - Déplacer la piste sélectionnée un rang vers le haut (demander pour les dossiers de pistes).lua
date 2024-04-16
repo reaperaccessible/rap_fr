@@ -1,7 +1,6 @@
 -- @Description Déplace la piste un rang vers le haut, et demande à l'utilisateur s'il souhaite l'intégrer dans le dossier de pistes rencontré
 -- @version 1.0
 -- @author Ludovic SANSONE pour Reaper Accessible
--- @provides [main=main] .
 
 
 reaper.Undo_BeginBlock()

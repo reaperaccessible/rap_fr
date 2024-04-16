@@ -1,7 +1,6 @@
 -- @description Sélectionne la première piste du dossier
 -- @version 1.0
 -- @author Ludovic SANSONE pour Reaper Accessilbe
--- @provides [main=main] .
 
 
 reaper.Undo_BeginBlock()
