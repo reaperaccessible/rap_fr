@@ -1,5 +1,5 @@
--- @descriptionExporte chaque objet sélectionné vers une instance du RS5K
--- @version 1.0
+-- @description Exporte chaque objet sélectionné vers une instance du RS5K en mode clavier
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessilbe
 -- @provides [main=main] .
 

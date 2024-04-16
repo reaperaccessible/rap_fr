@@ -1,7 +1,8 @@
 -- @description Scinder les Objets d'automatisation sélectionnés aux marqueurs
 -- @version 1.0
--- @author Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible
+-- @author Erwin Goossen pour Reaper Accessible
 -- @provides [main=main] .
+
 
 local UNDO_STATE_TRACKCFG = 1
 local SCRIPT_NAME = ({reaper.get_action_context()})[2]:match("([^/\\_]+)%.lua$")

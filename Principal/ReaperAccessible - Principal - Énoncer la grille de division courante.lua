@@ -1,7 +1,8 @@
 -- @description Énonce la grille de division courante
--- @version 1.0
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
+
 
 local dict = {
     {1.0, 4, "à 4 mesures"},

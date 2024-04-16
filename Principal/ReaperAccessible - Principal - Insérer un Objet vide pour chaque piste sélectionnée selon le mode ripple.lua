@@ -1,6 +1,6 @@
--- Description: Insérer un Objet vide pour chaque piste sélectionnée selon le mode ripple
--- Version: 1.0
--- Author: Lee Julien pour ReaperAccessible
+-- @description: Insérer un Objet vide pour chaque piste sélectionnée selon le mode ripple
+-- @version: 1.1
+-- @author: Lee Julien pour ReaperAccessible
 -- @provides [main=main] .
 
 

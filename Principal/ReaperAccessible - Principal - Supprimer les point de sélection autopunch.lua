@@ -1,7 +1,8 @@
--- @Description Supprimer les point de sélection autopunch
--- @version 1.0
+-- @description Supprimer les point de sélection autopunch
+-- @version 1.1
 -- @author Lee JULIEN pour Reaper Accessible
 -- @provides [main=main] .
+
 
 -- Définir l'enregistrement en mode normal
 reaper.Main_OnCommand(40252, 0)

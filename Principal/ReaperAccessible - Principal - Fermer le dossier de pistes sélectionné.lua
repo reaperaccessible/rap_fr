@@ -1,6 +1,7 @@
--- @Description Ferme le dossier de pistes sélectionné
--- @version 1.0
--- @author Ludovic SANSONE pour Reaper Accessilbe
+-- @description Ferme le dossier de pistes sélectionné
+-- @version 1.1
+-- @author Ludovic SANSONE pour Reaper Accessible
+-- @provides [main=main] .
 
 
 reaper.Undo_BeginBlock()

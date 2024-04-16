@@ -1,7 +1,8 @@
 -- @description Amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur
--- @version 1.3
+-- @version 1.4
 -- @author Ludovic SANSONE et Lee JULIEN pour Reaper Accessible
 -- @provides [main=main] .
+
 
 -- Fonction pour vérifier si une piste est un dossier
 function IsTrackFolder(track)

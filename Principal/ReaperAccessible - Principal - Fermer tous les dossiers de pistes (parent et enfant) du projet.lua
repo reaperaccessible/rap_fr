@@ -1,7 +1,8 @@
--- @Description Ferme tous les dossiers de pistes (parent et enfant) du projet
--- @version 1.0
+-- @description Ferme tous les dossiers de pistes (parent et enfant) du projet
+-- @version 1.2
 -- @author Lee JULIEN For Reaper Accessible
 -- @provides [main=main] .
+
 
 -- Fonction vérifiant si la piste placée en paramètre est bien un dossier
 function IsTrackFolder(track)

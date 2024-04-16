@@ -1,9 +1,8 @@
--- @author "Ludovic SANSONE pour Reaper Accessible"
--- @Version 1.0
+-- @description Annonce la somme de tous les longueur d'objets sélectionnés
+-- @version 1.1
+-- @author Chris Goodwin, taking from a script by Pete Torpey 
 -- @provides [main=main] .
--- Speak Selected Items Length 
--- Announces the sum of all selected item lengths items
--- Chris Goodwin, taking from a script by Pete Torpey 
+
 
 function Speak( str )
  if reaper.osara_outputMessage then

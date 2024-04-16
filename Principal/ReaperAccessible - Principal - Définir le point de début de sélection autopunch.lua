@@ -1,5 +1,5 @@
--- @Description Point de début de sélection autopunch
--- @version 1.0
+-- @description Point de début de sélection autopunch
+-- @version 1.1
 -- @author Lee JULIEN pour Reaper Accessible
 -- @provides [main=main] .
 

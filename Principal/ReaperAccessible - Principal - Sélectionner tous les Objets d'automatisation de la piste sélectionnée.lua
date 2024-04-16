@@ -1,7 +1,8 @@
 -- @description Sélectionner tous les objets d'automatisation de la piste sélectionnée
 -- @version 1.0
--- @author Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible
+-- @author Erwin Goossen pour Reaper Accessible
 -- @provides [main=main] .
+
 
 local UNDO_STATE_TRACKCFG = 1
 

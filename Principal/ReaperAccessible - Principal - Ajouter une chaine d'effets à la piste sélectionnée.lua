@@ -1,5 +1,5 @@
 -- @description Ajoute une chaine d'effets à la piste sélectionnée
--- @version 1.0
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 

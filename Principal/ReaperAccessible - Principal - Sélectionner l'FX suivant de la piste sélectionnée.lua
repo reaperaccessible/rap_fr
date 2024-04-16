@@ -1,5 +1,5 @@
--- @Description Sélectionne l'FX suivant de la piste sélectionnée
--- @version 1.0
+-- @description Sélectionne l'FX suivant de la piste sélectionnée
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 

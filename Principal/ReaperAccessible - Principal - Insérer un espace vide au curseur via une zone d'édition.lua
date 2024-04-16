@@ -1,5 +1,5 @@
--- @Description Permet à l'utilisateur d'insérer un espace vide en saisissant la durée
--- @version 1.0
+-- @description Permet à l'utilisateur d'insérer un espace vide en saisissant la durée
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 

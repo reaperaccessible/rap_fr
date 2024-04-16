@@ -1,7 +1,8 @@
-﻿-- @description permet à l'utilisateur de saisir un volume pour toute les pistes sélectionnées
--- @version 1.0
+﻿-- @description Permet à l'utilisateur de saisir un volume pour toute les pistes sélectionnées
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessilbe
 -- @provides [main=main] .
+
 
 local CountSelTrack = reaper.CountSelectedTracks(0)
 

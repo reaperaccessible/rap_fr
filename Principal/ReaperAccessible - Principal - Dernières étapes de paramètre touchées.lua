@@ -1,6 +1,8 @@
+-- @description Dernières étapes de paramètre touchées
+-- @version 1.0
 -- @author "Ludovic SANSONE pour Reaper Accessible"
--- @version 0.0.2
 -- @provides [main=main] .
+
 
 local function round(number)
     local rest = number % 1;

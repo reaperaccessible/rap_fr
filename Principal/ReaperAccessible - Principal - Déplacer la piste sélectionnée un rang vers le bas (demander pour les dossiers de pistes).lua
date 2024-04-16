@@ -1,5 +1,5 @@
--- @Description Déplace la piste un rang vers le bas, et demande à l'utilisateur s'il souhaite l'intégrer dans le dossier de pistes rencontré
--- @version 1.0
+-- @description Déplace la piste un rang vers le bas, et demande à l'utilisateur s'il souhaite l'intégrer dans le dossier de pistes rencontré
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 

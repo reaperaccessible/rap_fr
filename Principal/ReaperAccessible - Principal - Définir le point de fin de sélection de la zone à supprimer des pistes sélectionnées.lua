@@ -1,5 +1,5 @@
--- @Description Définir le point de fin de sélection de la zone à supprimer des pistes sélectionnées
--- @version 1.0
+-- @description Définir le point de fin de sélection de la zone à supprimer des pistes sélectionnées
+-- @version 1.1
 -- @author Lee JULIEN pour Reaper Accessible
 -- @provides [main=main] .
 

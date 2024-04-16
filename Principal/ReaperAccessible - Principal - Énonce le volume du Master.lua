@@ -1,6 +1,8 @@
--- @description - Énonce le volume du Master
--- @version 1.0
+-- @description Énonce le volume du Master
+-- @version 1.1
 -- @author Lee JULIEN for Reaper Accessible
+-- @provides [main=main] .
+
 
 -- Récupère la piste Master
 local masterTrack = reaper.GetMasterTrack(0)

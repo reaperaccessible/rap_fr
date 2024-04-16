@@ -1,7 +1,8 @@
--- @Description Point de fin de sélection autopunch
--- @version 1.0
+-- @description Point de fin de sélection autopunch
+-- @version 1.1
 -- @author Lee JULIEN pour Reaper Accessible
 -- @provides [main=main] .
+
 
 -- Définir l'enregistrement en mode auto-punch sur la sélection temporelle
 reaper.Main_OnCommand(40076, 0)

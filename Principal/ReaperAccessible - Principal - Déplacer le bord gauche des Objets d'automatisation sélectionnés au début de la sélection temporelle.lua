@@ -1,7 +1,8 @@
 -- @description Déplacer le bord gauche des Objets d'automatisation sélectionnés au début de la sélection temporelle
 -- @version 1.0
--- @author Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible
+-- @author Erwin Goossen pour Reaper Accessible
 -- @provides [main=main] .
+
 
 local UNDO_STATE_TRACKCFG = 1
 

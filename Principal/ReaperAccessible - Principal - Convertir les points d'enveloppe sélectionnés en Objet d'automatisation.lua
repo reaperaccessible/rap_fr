@@ -1,7 +1,8 @@
 -- @description Convertir les points d'enveloppe sélectionnés en Objet d'automatisation
 -- @version 1.0
--- @author Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible
+-- @author Erwin Goossen pour Reaper Accessible
 -- @provides [main=main] .
+
 
 local function speak(str, showAlert)
   showAlert = showAlert or false;

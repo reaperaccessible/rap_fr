@@ -1,7 +1,8 @@
--- @Description Énonce le volume de la piste sélectionnée
--- @version 1.0
+-- @description Énonce le volume de la piste sélectionnée
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessilbe
 -- @provides [main=main] .
+
 
 local countSelTrack = reaper.CountSelectedTracks(0);
 

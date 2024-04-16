@@ -1,5 +1,5 @@
--- @Description Ouvre tous les dossiers de pistes (parent et enfant) du projet
--- @version 1.0
+-- @description Ouvre tous les dossiers de pistes (parent et enfant) du projet
+-- @version 1.1
 -- @author Lee JULIEN For Reaper Accessible
 -- @provides [main=main] .
 

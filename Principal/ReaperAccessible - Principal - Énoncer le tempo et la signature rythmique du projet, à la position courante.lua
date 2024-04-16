@@ -1,5 +1,5 @@
--- @Description Énonce le tempo et la signature rythmique du projet, à la position courante
--- @version 1.0
+-- @description Énonce le tempo et la signature rythmique du projet, à la position courante
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessilbe
 -- @provides [main=main] .
 

@@ -1,5 +1,5 @@
--- @description Ouvre des dossiers utiles via un menu
--- @version 1.0
+-- @description Ouvrir le menu des répertoires
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 
