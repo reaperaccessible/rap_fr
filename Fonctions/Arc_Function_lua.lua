@@ -1,11 +1,10 @@
-local VersionMod = "v.3.0.3";
-
 -- @category Function
 -- @description Arc_Function_lua
--- @author:      Archie
--- @version:     3.0.3
--- @Provides    [nomain] .
- * Function:    http://arc-website.github.io/Library_Function/Arc_Function_lua/index.html
+-- @author      Archie
+-- @version     3.0.3
+-- @provides    [nomain] .
+
+* Function:    http://arc-website.github.io/Library_Function/Arc_Function_lua/index.html
    * -----------------------
 
    * Changelog:   
@@ -130,7 +129,7 @@ local VersionMod = "v.3.0.3";
     -- Что бы в ундо не прописывалось "ReaScript:Run"
     --====End===============End===============End===============End===============End====
 
-
+local VersionMod = "v.3.0.3";
 
     --- 122 ---------- Action -----------------------------------------------------------
     function Arc_Module.Action(...);
