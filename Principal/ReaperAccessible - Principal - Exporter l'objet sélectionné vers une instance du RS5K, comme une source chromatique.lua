@@ -1,10 +1,10 @@
 -- @description Exporte l'objet sélectionné vers une instance du RS5K comme une source chromatique
--- @version 1.0
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessilbe
 -- @provides [main=main] .
 
 
-local script_title = "Exporter l'objet sélectionné vers une instance du RS5K comme une source chromatique"
+local script_title = "L'exportation de l'l'objet sélectionné vers une instance du RS5K comme une source chromatique"
   -------------------------------------------------------------------------------
   function F_SetFXName(track, fx, new_name)
     local edited_line,edited_line_id,segm
