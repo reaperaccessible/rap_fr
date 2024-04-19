@@ -1,5 +1,5 @@
--- @description Ferme tous les dossiers de pistes (parent et enfant) du projet
--- @version 1.2
+-- @description Ferme tous les dossiers de pistes du projet
+-- @version 1.3
 -- @author Lee JULIEN For Reaper Accessible
 -- @provides [main=main] .
 

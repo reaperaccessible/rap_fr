@@ -1,7 +1,8 @@
 -- @description Définie la vélocité des notes sélectionnées
--- @version 1.0
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=midi_editor] .
+
 
 local r = reaper; local function nothing() end; local function bla() r.defer(nothing) end
 

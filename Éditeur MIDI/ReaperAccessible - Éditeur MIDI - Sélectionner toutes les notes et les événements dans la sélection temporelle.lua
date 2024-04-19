@@ -1,7 +1,8 @@
--- @Description Sélectionner toutes les notes et les événements dans la sélection temporelle
--- @version 1.0
+-- @description Sélectionner toutes les notes et les événements dans la sélection temporelle
+-- @version 1.1
 -- @author Lee JULIEN pour Reaper Accessible
 -- @provides [main=midi_editor] .
+
 
 reaper.Undo_BeginBlock()
 

@@ -1,10 +1,10 @@
 -- @description Exporte chaque objet sélectionné vers une instance du RS5K en mode batterie
--- @version 1.1
+-- @version 1.2
 -- @author Ludovic SANSONE pour Reaper Accessilbe
 -- @provides [main=main] .
 
 
-  local script_title = 'ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode batterie)' 
+  local script_title = 'l'Exportation de chaque objet sélectionné vers une instance du RS5K (Mode batterie)' 
   
   -------------------------------------------------------------------------------
   function F_SetFXName(track, fx, new_name)

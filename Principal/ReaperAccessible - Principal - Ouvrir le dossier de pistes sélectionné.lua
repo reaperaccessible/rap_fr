@@ -1,10 +1,13 @@
 -- @description Ouvre le dossier de piste sélectionné
--- @version 1.1
+-- @version 1.2
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 
 
--- Fonction vérifiant si la piste  placée en paramètre est bien un dossier
+-- Début du bloc d'annulation
+reaper.Undo_BeginBlock()
+
+-- Fonction pour vérifier si une piste est un dossier de piste
 function IsTrackFolder(track)
     local trackDepth = reaper.GetMediaTrackInfo_Value(track, "I_FOLDERDEPTH")
 
@@ -15,28 +18,37 @@ function IsTrackFolder(track)
     end
 end
 
-if reaper.CountTracks() < 1 then
+-- Vérifie s'il y a des pistes dans le projet
+local numTracks = reaper.CountTracks()
+if numTracks < 1 then
     reaper.osara_outputMessage("Aucune piste dans votre projet")
     return
 end
 
--- On récupère la piste sélectionnée
-local tr = reaper.GetSelectedTrack2(0, 0, 1)
+-- Récupère la première piste sélectionnée
+local selectedTrack = reaper.GetSelectedTrack(0, 0)
+-- Vérifie si aucune piste n'est sélectionnée
+if selectedTrack == nil then
+    reaper.osara_outputMessage("Aucune piste sélectionnée")
+    return
+end
 
--- On récupère son status : S'agit-il d'un dossier ou non
-local status = IsTrackFolder(tr)
+-- Vérifie si la piste sélectionnée est un dossier
+local isFolder = IsTrackFolder(selectedTrack)
+-- Récupère le nom de la piste sélectionnée
+local success, trackName = reaper.GetTrackName(selectedTrack)
 
--- On récupère son nom pour pouvoir le faire énoncer par Osara
-local b, name = reaper.GetTrackName(tr)
-
--- S'il s'agit d'un dossier, on exécute le code
-if status then
-    if reaper.GetMediaTrackInfo_Value(tr, "I_FOLDERCOMPACT") ~= 0 then
-        reaper.SetMediaTrackInfo_Value(tr, "I_FOLDERCOMPACT", 0)
-        reaper.osara_outputMessage("Dossier "..name.." ouvert")
+-- Si la piste est un dossier, vérifie si elle est compacte (fermée) ou non
+if isFolder then
+    if reaper.GetMediaTrackInfo_Value(selectedTrack, "I_FOLDERCOMPACT") ~= 0 then
+        reaper.SetMediaTrackInfo_Value(selectedTrack, "I_FOLDERCOMPACT", 0)
+        reaper.osara_outputMessage("Dossier "..trackName.." ouvert")
     else
-        reaper.osara_outputMessage(name.." est déjà ouvert")
+        reaper.osara_outputMessage(trackName.." est déjà ouvert")
     end
 else
-    reaper.osara_outputMessage(name.." n'est pas un dossier")
+    reaper.osara_outputMessage(trackName.." n'est pas un dossier")
 end
+
+-- Fin du bloc d'annulation avec le message spécifié
+reaper.Undo_EndBlock("L'ouverture du dossier", -1)

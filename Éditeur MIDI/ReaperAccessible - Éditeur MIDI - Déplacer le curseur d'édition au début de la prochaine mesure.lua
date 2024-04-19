@@ -1,5 +1,5 @@
--- @description déplace le curseur à la mesure suivante depuis l'explorateur de média
--- @version 1.0
+-- @description Déplacer le curseur d'édition au début de la prochaine mesure
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=midi_editor] .
 

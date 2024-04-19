@@ -1,54 +1,58 @@
 -- @description Ferme le dossier de pistes sélectionné
--- @version 1.1
+-- @version 1.2
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 
 
+-- Début du bloc d'annulation
 reaper.Undo_BeginBlock()
 
--- Fonction vérifiant si la piste  placée en paramètre est bien un dossier
+-- Fonction vérifiant si la piste placée en paramètre est bien un dossier
 function IsTrackFolder(track)
-    local trackDepth = reaper.GetMediaTrackInfo_Value(track, "I_FOLDERDEPTH")
-
-    if trackDepth == 1 then
-        return true
-    else
-        return false
+    if track then
+        local trackDepth = reaper.GetMediaTrackInfo_Value(track, "I_FOLDERDEPTH")
+        if trackDepth == 1 then
+            return true
+        end
     end
+    return false
 end
 
 -- Fonction vérifiant si la piste sélectionnée se trouve bien à l'intérieur d'un dossier
 function isInTrackFolder(track)
-    local trackLevel = reaper.GetTrackDepth(track)
-    if trackLevel > 0 then
-        return true
-    else
-        return false
+    if track then
+        local trackLevel = reaper.GetTrackDepth(track)
+        if trackLevel > 0 then
+            return true
+        end
     end
+    return false
 end
 
 -- Fonction sélectionnant le dossier de pistes courant
 function selectCurrentTrackFolder(track)
-    local trackDepth = reaper.GetTrackDepth(track)
-    local folderDepth = trackDepth - 1
-    local trackNumber = reaper.GetMediaTrackInfo_Value(track, "IP_TRACKNUMBER")
-    
-    if trackDepth <= 0 then
-        reaper.osara_outputMessage("Cette piste n'est pas dans un dossier")
-        return
-    else
-        for i = trackNumber, 1, -1 do
-           newTrack = reaper.GetTrack(0, i - 1)
-           newDepth = reaper.GetTrackDepth(newTrack)
-           if newDepth == folderDepth then
-               reaper.SetOnlyTrackSelected(newTrack)
-               return newTrack
-           end
+    if track then
+        local trackDepth = reaper.GetTrackDepth(track)
+        local folderDepth = trackDepth - 1
+        local trackNumber = reaper.GetMediaTrackInfo_Value(track, "IP_TRACKNUMBER")
+        
+        if trackDepth <= 0 then
+            reaper.osara_outputMessage("Cette piste n'est pas dans un dossier")
+            return
+        else
+            for i = trackNumber, 1, -1 do
+               local newTrack = reaper.GetTrack(0, i - 1)
+               local newDepth = reaper.GetTrackDepth(newTrack)
+               if newDepth == folderDepth then
+                   reaper.SetOnlyTrackSelected(newTrack)
+                   return newTrack
+               end
+            end
         end
     end
 end
 
-if reaper.CountTracks() < 1 then
+if reaper.CountTracks(0) < 1 then
     reaper.osara_outputMessage("Aucune piste dans votre projet")
     return
 end
@@ -56,36 +60,43 @@ end
 -- On récupère la piste sélectionnée
 local tr = reaper.GetSelectedTrack2(0, 0, 1)
 
--- On récupère son status : S'agit-il d'un dossier ou non
-local status = IsTrackFolder(tr)
+-- Si aucune piste n'est sélectionnée, on informe l'utilisateur
+if not tr then
+    reaper.osara_outputMessage("Aucune piste sélectionnée")
+    return
+end
 
--- On récupère son nom pour pouvoir le faire énoncer par Osara
+-- On récupère son statut : S'agit-il d'un dossier ou non
+local status = IsTrackFolder(tr)
 
 -- S'il s'agit d'un dossier, ou d'une piste enfant d'un dossier, on exécute le code
 if status then
     if reaper.GetMediaTrackInfo_Value(tr, "I_FOLDERCOMPACT") ~= 2 then
         reaper.SetMediaTrackInfo_Value(tr, "I_FOLDERCOMPACT", 2)
-        local b, name = reaper.GetTrackName(tr)
+        local _, name = reaper.GetTrackName(tr)
         reaper.osara_outputMessage("Dossier "..name.." fermé")
     else
-        local b, name = reaper.GetTrackName(tr)
+        local _, name = reaper.GetTrackName(tr)
         reaper.osara_outputMessage(name.." est déjà fermé")
         return
     end
 elseif reaper.GetTrackDepth(tr) > 0 then
     tr = selectCurrentTrackFolder(tr)
-    local b, name = reaper.GetTrackName(tr)
-    if reaper.GetMediaTrackInfo_Value(tr, "I_FOLDERCOMPACT") ~= 2 then
-        reaper.SetMediaTrackInfo_Value(tr, "I_FOLDERCOMPACT", 2)
-        reaper.osara_outputMessage("Dossier "..name.." fermé")
-    else
-        local b, name = reaper.GetTrackName(tr)
-        reaper.osara_outputMessage(name.." est déjà fermé")
-        return
+    if tr then
+        if reaper.GetMediaTrackInfo_Value(tr, "I_FOLDERCOMPACT") ~= 2 then
+            reaper.SetMediaTrackInfo_Value(tr, "I_FOLDERCOMPACT", 2)
+            local _, name = reaper.GetTrackName(tr)
+            reaper.osara_outputMessage("Dossier "..name.." fermé")
+        else
+            local _, name = reaper.GetTrackName(tr)
+            reaper.osara_outputMessage(name.." est déjà fermé")
+            return
+        end
     end
 else
-    local b, name = reaper.GetTrackName(tr)
+    local _, name = reaper.GetTrackName(tr)
     reaper.osara_outputMessage(name.." n'est pas un dossier")
 end
 
-reaper.Undo_EndBlock("La fermeture du dossier", 0) 
+-- Fin du bloc d'annulation avec le message spécifié
+reaper.Undo_EndBlock("La fermeture du dossier", -1)

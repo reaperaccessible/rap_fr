@@ -1,6 +1,6 @@
 -- @description Énonce le nom de la piste sélectionnée
--- @version 1.0
--- @author Ludovic SANSONE pour Reaper Accessilbe
+-- @version 1.1
+-- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=midi_editor] .
 
 
