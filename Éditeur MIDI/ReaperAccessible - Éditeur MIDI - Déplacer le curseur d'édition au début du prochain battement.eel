@@ -1,8 +1,8 @@
 /*
-   * ReaScript Name: Aller au début du temps suivant
+   * ReaScript Name: Aller au début du battement suivant
    * Author: Ludovic SANSONE pour Reaper Accessible
    * Licence: GPL v3
-   * Version: 1.0
+   * Version: 1.1
    * Provides: [main=midi_editor] .
 */
 

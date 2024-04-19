@@ -1,7 +1,8 @@
 -- @description Étirer la position des notes sélectionnées
--- @version 1.0
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=midi_editor] .
+
 
   local script_title = "Étirer la position des notes sélectionnées"  
   for key in pairs(reaper) do _G[key]=reaper[key]  end

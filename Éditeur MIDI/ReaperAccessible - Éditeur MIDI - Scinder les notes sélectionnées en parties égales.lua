@@ -1,6 +1,6 @@
 -- @description Scinde les notes sélectionnées en parties égales
 -- @version 1.0
--- @author Ludovic SANSONE pour Reaper Accessilbe
+-- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=midi_editor] .
 
 

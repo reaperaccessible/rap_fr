@@ -1,6 +1,6 @@
 -- @description Annonce la somme de tous les longueur d'objets sélectionnés
--- @version 1.1
--- @author Chris Goodwin, taking from a script by Pete Torpey 
+-- @version 1.2
+-- @author Chris Goodwin
 -- @provides [main=main] .
 
 

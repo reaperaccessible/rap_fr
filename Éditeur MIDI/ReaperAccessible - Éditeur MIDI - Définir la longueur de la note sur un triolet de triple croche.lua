@@ -1,5 +1,5 @@
 -- @description Définie la longueur des notes sélectionnées sur un triolet de triple croche
--- @version 1.0
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=midi_editor] .
 
