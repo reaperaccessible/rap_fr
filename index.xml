@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="8caf436fa4ee0139511f5d7d89c0456d95331584">
+<index version="1" name="ReaperAccessible scripts" commit="62e7ae9c2c85d0411195dd223a3067af6300093b">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="Aller au marqueur précédent">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
@@ -135,6 +135,21 @@
       </version>
       <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Ajouter%20une%20chaine%20d'effets%20%C3%A0%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Ajuster la vitesse de lecture des objets sélectionnés.lua" type="script" desc="Ajuste la vitesse de lecture des objet sélectionnés">
+      <version name="1.1" author="Lo-lo for ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20Ajuster%20la%20vitesse%20de%20lecture%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Aller au dernier objet de la piste sélectionnée.lua" type="script" desc="Aller au dernier objet de la piste sélectionnée">
+      <version name="1.0" author="Lo-lo for ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20au%20dernier%20objet%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Aller au premier objet de la piste sélectionnée.lua" type="script" desc="Aller au premier objet de la piste sélectionnée">
+      <version name="1.0" author="Lo-lo for ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20au%20premier%20objet%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Aller à la dernière piste du dossier.lua" type="script" desc="Sélectionne la dernière piste du dossier">
@@ -492,6 +507,11 @@
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20tous%20les%20Objets%20d'automatisation%20de%20toutes%20les%20pistes.lua</source>
       </version>
     </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner un objet à partir de son numéro.lua" type="script" desc="S�lectionner un objet � partir de son num�ro">
+      <version name="1.0" author="Lo-lo pour ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20un%20objet%20%C3%A0%20partir%20de%20son%20num%C3%A9ro.lua</source>
+      </version>
+    </reapack>
     <reapack name="ReaperAccessible - Principal - Sélectionner une piste à partir de son numéro ou de son nom.lua" type="script" desc="Amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
@@ -512,14 +532,6 @@
       </version>
       <version name="1.1" author="Lee JULIEN For Reaper Accessible" time="2024-04-16T01:02:09Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
-      </version>
-    </reapack>
-    <reapack name="ReaperAccessible - Principal - Énonce le volume du Master.lua" type="script" desc="Énonce le volume du Master">
-      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-04-15T15:46:01Z">
-        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/71f3c868c6cce9ca2fb7c764b4e4757fa572436d/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89nonce%20le%20volume%20du%20Master.lua</source>
-      </version>
-      <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-04-16T01:02:09Z">
-        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89nonce%20le%20volume%20du%20Master.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Énoncer la grille de division courante.lua" type="script" desc="Énonce la grille de division courante">
@@ -557,6 +569,11 @@
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
       </version>
     </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le numéro et le nom de l'objet sélectionné.lua" type="script" desc="Énonce le numéro et le nom de l'objet sélectionné">
+      <version name="1.0" author="Lo-lo for ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20num%C3%A9ro%20et%20le%20nom%20de%20l'objet%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+    </reapack>
     <reapack name="ReaperAccessible - Principal - Énoncer le tempo et la signature rythmique du projet, à la position courante.lua" type="script" desc="Énonce le tempo et la signature rythmique du projet, à la position courante">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20tempo%20et%20la%20signature%20rythmique%20du%20projet,%20%C3%A0%20la%20position%20courante.lua</source>
@@ -571,6 +588,14 @@
       </version>
       <version name="1.1" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-16T01:02:09Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le volume du Master.lua" type="script" desc="Énoncer le volume du Master">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20du%20Master.lua</source>
       </version>
     </reapack>
   </category>
