@@ -1,8 +1,7 @@
--- @description Ouvre un menu contenant tous les tutoriels et Démos de ReaperAccessible
+-- @Description Ouvre un menu contenant tous les tutoriels et Démos de ReaperAccessible
 -- @version 1.1
 -- @author Lee JULIEN For Reaper Accessible
 -- @provides [main=main] .
-
 
 -- Fonction pour ouvrir une page web
 local function openURL(url)
@@ -347,6 +346,8 @@ local subMenus = {
    {name = "28.21 DrumAccess - Q Drum Co. - Copper Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-q-drum-co-copper-kit-fr"},
    {name = "28.22 DrumAccess - Slingerland - Radio King 1940s Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-slingerland-radio-king-1940s-kit-fr"},
    {name = "28.23 DrumAccess - Tama - Starclassic Performer Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess-tama-starclassic-performer-kit-fr"},
+   {name = "28.24 DrumAccess - Gretsch - Broadkaster Kit Damped", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/da-gretsch-broadkaster-kit-damped-fr"},
+   {name = "28.25 DrumAccess - Yamaha - Recording Custom Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-yamaha-recording-custom-kit-fr"},
   }
  },
 

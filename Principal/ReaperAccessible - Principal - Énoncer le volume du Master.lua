@@ -1,5 +1,5 @@
--- @description Énonce le volume du Master
--- @version 1.1
+-- @description Énoncer le volume du Master
+-- @version 1.0
 -- @author Lee JULIEN for Reaper Accessible
 -- @provides [main=main] .
 
