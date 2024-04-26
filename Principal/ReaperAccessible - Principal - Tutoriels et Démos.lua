@@ -1,5 +1,5 @@
 -- @Description Ouvre un menu contenant tous les tutoriels et Démos de ReaperAccessible
--- @version 1.1
+-- @version 1.2
 -- @author Lee JULIEN For Reaper Accessible
 -- @provides [main=main] .
 

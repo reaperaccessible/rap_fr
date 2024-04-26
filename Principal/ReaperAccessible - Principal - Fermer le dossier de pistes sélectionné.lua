@@ -1,11 +1,15 @@
 -- @description Ferme le dossier de pistes sélectionné
--- @version 1.2
+-- @version 1.3
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 
 
 -- Début du bloc d'annulation
 reaper.Undo_BeginBlock()
+
+-- OSARA: Ignorer le prochain message d'OSARA
+   reaper.Main_OnCommandEx(reaper.NamedCommandLookup("_OSARA_MUTENEXTMESSAGE"), 0, 0)
+   reaper.Main_OnCommandEx(reaper.NamedCommandLookup("_OSARA_CONFIG_reportSurfaceChanges_DISABLE"), 0, 0)
 
 -- Fonction vérifiant si la piste placée en paramètre est bien un dossier
 function IsTrackFolder(track)
