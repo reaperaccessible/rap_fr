@@ -1,0 +1,106 @@
+Principal et Main
+ReaperAccessible - Principal - Afficher le menu des actions d'automatisation
+ReaperAccessible - Main - Show automation actions menu
+
+ReaperAccessible - Principal - Afficher le menu du RS5K
+ReaperAccessible - Main - Display RS5K menu
+
+ReaperAccessible - Principal - Ajouter une chaine d'effets à la piste sélectionnée
+ReaperAccessible - Main - Add FX chain to selected track
+
+ReaperAccessible - Principal - Ajuster la vitesse de lecture des objets sélectionnés
+ReaperAccessible - Main - Adjust Playback Rate for Selected Items
+
+ReaperAccessible - Principal - Aller à la dernière piste du dossier
+ReaperAccessible - Main - Go to last track in folder
+
+ReaperAccessible - Principal - Aller à la première piste du dossier
+ReaperAccessible - Main - Go to first track in folder
+
+ReaperAccessible - Principal - Aller au dernier objet de la piste sélectionnée
+ReaperAccessible - Main - Go to last item of selected track
+
+ReaperAccessible - Principal - Aller au premier objet de la piste sélectionnée
+ReaperAccessible - Main - Go to first item of selected track
+
+ReaperAccessible - Principal - Basculer le contournement de l'FX sélectionné sur la piste sélectionnée
+ReaperAccessible - Main - Toggle bypass selected FX on selected track
+
+ReaperAccessible - Principal - Basculer le contournement des FX de la piste sélectionnée, sauf les instruments
+ReaperAccessible - Main - Toggle bypass all FX of selected tracks, except instruments
+
+ReaperAccessible - Principal - Basculer le contournement des FX de toutes les pistes, sauf les instruments
+ReaperAccessible - Main - Toggle bypass all FX on all tracks except instruments
+
+ReaperAccessible - Principal - Basculer, boucler la source des objets sélectionnés
+ReaperAccessible - Main - Toggle, loop source of selected items
+
+ReaperAccessible - Principal - Basculer, lier les points de boucles à la sélection temporelle
+ReaperAccessible - Main - Toggle, bind loop points to time selection
+
+ReaperAccessible - Principal - Convertir les points d'enveloppe sélectionnés en Objet d'automatisation
+ReaperAccessible - Main - Convert selected envelope Points to automation item
+
+ReaperAccessible - Principal - Créer un dossier à partir des pistes sélectionnées, et renommer le dossier
+ReaperAccessible - Main - Create folder from selected tracks, name folder
+
+ReaperAccessible - Principal - Déclancher le préréglage précédent de l'FX sélectionné, sur la piste sélectionnée
+ReaperAccessible - Main - Trigger previous preset from selected FX on selected track
+
+ReaperAccessible - Principal - Déclancher le préréglage suivant de l'FX sélectionné, sur la piste sélectionnée
+ReaperAccessible - Main - Trigger next preset from selected FX on selected track
+
+ReaperAccessible - Principal - Définir la grille de division à la valeur inférieure
+ReaperAccessible - Main - Select previous grid division from grid menu
+
+ReaperAccessible - Main - Select next grid division from grid menu
+ReaperAccessible - Main - Select next grid division from grid menu
+
+ReaperAccessible - Principal - Définir la grille de division via un menu
+ReaperAccessible - Main - Set grid division via a menu
+
+ReaperAccessible - Principal - Définir le point de début de sélection autopunch
+ReaperAccessible - Main - Set autopunch selection start point
+
+ReaperAccessible - Principal - Définir le point de début de sélection de la zone à supprimer des pistes sélectionnées
+ReaperAccessible - Main - Set selection start point of area to remove from selected tracks
+
+ReaperAccessible - Principal - Définir le point de début de sélection d'Objet à supprimer, ripple toute les pistes
+ReaperAccessible - Main - Set item selection start point to delete, ripple all tracks
+
+ReaperAccessible - Principal - Définir le point de fin de sélection autopunch
+ReaperAccessible - Main - Set autopunch selection end point
+
+ReaperAccessible - Principal - Définir le point de fin de sélection de la zone à supprimer des pistes sélectionnées
+ReaperAccessible - Main - Set selection end point of area to remove from selected tracks
+
+ReaperAccessible - Principal - Définir le point de fin de sélection d'Objet à supprimer, ripple toute les pistes
+ReaperAccessible - Main - Set item selection end point to delete, ripple all tracks
+
+ReaperAccessible - Principal - Déplacer la piste sélectionnée un rang vers le bas (demander pour les dossiers de pistes)
+ReaperAccessible - Main - Move selected tracks down one row (if there is a folder, prompt to skip or includes)
+
+ReaperAccessible - Principal - Déplacer la piste sélectionnée un rang vers le haut (demander pour les dossiers de pistes)
+ReaperAccessible - Main - Move selected tracks up one row (if there is a folder, prompt to skip or includes)
+
+ReaperAccessible - Principal - Déplacer le bord droit des Objets d'automatisation sélectionnés à la fin de la sélection temporelle
+ReaperAccessible - Main - Move right edge of selected automation items to end of time selection
+
+ReaperAccessible - Principal - Déplacer le bord gauche des Objets d'automatisation sélectionnés au début de la sélection temporelle
+ReaperAccessible - Main - Move left edge of selected automation items to start of time selection
+
+ReaperAccessible - Principal - Déplacer le curseur d'édition au début du battement actuel
+ReaperAccessible - Main - Move edit cursor to start of current beat
+
+ReaperAccessible - Principal - Déplacer le curseur d'édition au début du prochain battement
+ReaperAccessible - Main - Move edit cursor to start of next beat
+
+ReaperAccessible - Principal - Déplacer l'FX sélectionné d'une position vers le bas
+ReaperAccessible - Main - Move selected FX one position down
+
+ReaperAccessible - Principal - Déplacer l'FX sélectionné d'une position vers le haut
+ReaperAccessible - Main - Move selected FX one position up
+
+ReaperAccessible - Principal - Dernières étapes de paramètre touchées
+ReaperAccessible - Main - Last touched parameter step
+

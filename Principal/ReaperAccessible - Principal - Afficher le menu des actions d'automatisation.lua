@@ -1,5 +1,5 @@
 -- @description Affiche un menu permettant d'accéder à différentes actions d'automatisation
--- @version 1.0
+-- @version 1.1
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 
