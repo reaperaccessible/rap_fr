@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="rap_fr" commit="548322defdd4970027e70ec5a203f0f272c39aef">
+<index version="1" name="rap_fr" commit="6d43134ce8026f26363802697a07b8e802c57d3f">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="Aller au marqueur précédent">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
@@ -128,6 +128,9 @@
       </version>
       <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T16:08:07Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/548322defdd4970027e70ec5a203f0f272c39aef/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20des%20actions%20d'automatisation.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T16:37:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6d43134ce8026f26363802697a07b8e802c57d3f/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20des%20actions%20d'automatisation.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Afficher le menu du RS5K.lua" type="script" desc="Affiche un menu permettant d'accéder à différentes fonctions du RS5K">
