@@ -9,10 +9,9 @@ if os.getcwd() == "rap_fr":
 elif os.getcwd() == "rap_en":
     repository_name = "ReaperAccessible scripts US"
 
-script = f"""git add -A & \
-git rm index.xml & \
+script = f"""git rm index.xml & \
 reapack-index -w -n {repository_name} --no-commit & \
-git add index.xml & \
+git add -A & \
 git commit -m \"MAJ de l'index\" & \
 git push
 """
