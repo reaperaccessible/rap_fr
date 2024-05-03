@@ -1,6 +1,6 @@
 -- @description Exporte l'objet sélectionné vers une instance du RS5K comme une source chromatique
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessilbe
+-- @version 1.2
+-- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 
 

@@ -1,10 +1,10 @@
 -- @description Exporte chaque objet sélectionné vers une instance du RS5K en mode boucle
--- @version 1.2
--- @author Ludovic SANSONE pour Reaper Accessilbe
+-- @version 1.3
+-- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 
 
-local script_title = 'l'exportation de chaque objet sélectionné vers une instance du RS5K (Mode boucle)'
+local script_title = "l'exportation de chaque objet sélectionné vers une instance du RS5K (Mode boucle)"
   
 -------------------------------------------------------------------------------
 function F_SetFXName(track, fx, new_name)
