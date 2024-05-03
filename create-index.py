@@ -12,7 +12,6 @@ elif os.getcwd() == "rap_en":
 
 subprocess.run('git rm index.xml', shell=True)
 subprocess.run(f'reapack-index -w -n {repository_name} --no-commit', shell=True)
-subprocess.run('', shell=True)
 subprocess.run('git add -A', shell=True)
 subprocess.run('git commit -m "MAJ du fichier index"', shell=True)
 subprocess.run('git push', shell=True)
