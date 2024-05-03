@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="rap_fr" commit="548322defdd4970027e70ec5a203f0f272c39aef">
+<index version="1" name="{repository_name}" commit="548322defdd4970027e70ec5a203f0f272c39aef">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="Aller au marqueur précédent">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
