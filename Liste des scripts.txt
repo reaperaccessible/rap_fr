@@ -1,4 +1,4 @@
-Principal et Main
+# Principal ou Main
 ReaperAccessible - Principal - Afficher le menu des actions d'automatisation
 ReaperAccessible - Main - Show automation actions menu
 
@@ -104,3 +104,115 @@ ReaperAccessible - Main - Move selected FX one position up
 ReaperAccessible - Principal - Dernières étapes de paramètre touchées
 ReaperAccessible - Main - Last touched parameter step
 
+ReaperAccessible - Principal - Énoncer la grille de division courante
+ReaperAccessible - Main - Speak current grid division
+
+ReaperAccessible - Principal - Énoncer la longueur des objets sélectionnés
+ReaperAccessible - Main - Speak selected items length
+
+ReaperAccessible - Principal - Énoncer le nom de la piste sélectionnée
+ReaperAccessible - Main - Speak name of selected track
+
+ReaperAccessible - Principal - Énoncer le nom de l'FX sélectionné sur la piste sélectionnée
+ReaperAccessible - Main - Speak name of selected FX on selected track
+
+ReaperAccessible - Principal - Énoncer le numéro et le nom de l'objet sélectionné
+ReaperAccessible - Main - Speak selected item number and name
+
+ReaperAccessible - Principal - Énoncer le tempo et la signature rythmique du projet, à la position courante
+ReaperAccessible - Main - Speak project tempo and time signature, at current position
+
+ReaperAccessible - Principal - Énoncer le volume de la piste sélectionnée
+ReaperAccessible - Main - Speak volume of selected track
+
+ReaperAccessible - Principal - Énoncer le volume du Master
+ReaperAccessible - Main - Speak Master track volume
+
+ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode batterie)
+ReaperAccessible - Main - Export each selected items to RS5K instances, (Drum mode)
+
+ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode boucle)
+ReaperAccessible - Main - Export each selected items to RS5K instances, (Loop mode)
+
+ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode clavier)
+ReaperAccessible - Main - Export each selected items to RS5K instances, (Keyboard mode)
+
+ReaperAccessible - Principal - Exporter l'objet sélectionné vers une instance du RS5K, avec le même échantillon sur l'ensemble du clavier
+ReaperAccessible - Main - Export selected item to RS5K instance, with same sample on all notes
+
+
+ReaperAccessible - Principal - Exporter l'objet sélectionné vers une instance du RS5K, comme une source chromatique
+ReaperAccessible - Main - Export selected item to RS5K instance, as chromatic source
+
+ReaperAccessible - Principal - Fermer le dossier de pistes sélectionné
+ReaperAccessible - Main - Close selected track folder from any its tracks
+
+
+ReaperAccessible - Principal - Fermer tous les dossiers de pistes du projet
+ReaperAccessible - Main - Close all track folders in project
+
+ReaperAccessible - Principal - Insérer un espace vide au curseur via une zone d'édition
+ReaperAccessible - Main - Insert empty space at cursor via edit box
+
+ReaperAccessible - Principal - Insérer un Objet vide pour chaque piste sélectionnée selon le mode ripple
+ReaperAccessible - Main - Insert empty item for each selected track depending ripple mode
+
+ReaperAccessible - Principal - Lancer un enregistrement en fonction du mode Ripple
+ReaperAccessible - Main - Start recording based on Ripple mode
+
+ReaperAccessible - Principal - Ouvrir le dossier de pistes sélectionné
+ReaperAccessible - Main - Open selected track folder
+
+ReaperAccessible - Principal - Ouvrir le menu des répertoires
+ReaperAccessible - Main - Open directories menu
+
+ReaperAccessible - Principal - Ouvrir tous les dossiers de pistes du projet
+ReaperAccessible - Main - Open all track folders in project
+
+ReaperAccessible - Principal - Saisir le volume de toute les pistes sélectionnées
+ReaperAccessible - Main - Edit volume of all selected tracks
+
+ReaperAccessible - Principal - Scinder les Objets d'automatisation sélectionnés aux marqueurs
+ReaperAccessible - Main - Split selected automation items at markers
+
+ReaperAccessible - Principal - Sélectionner l'FX précédent de la piste sélectionnée
+ReaperAccessible - Main - Select previous FX of selected track
+
+ReaperAccessible - Principal - Sélectionner l'FX suivant de la piste sélectionnée
+ReaperAccessible - Main - Select next FX of selected track
+
+ReaperAccessible - Principal - Sélectionner tous les Objets d'automatisation de la piste sélectionnée
+ReaperAccessible - Main - Select all automation items on selected track
+
+ReaperAccessible - Principal - Sélectionner tous les Objets d'automatisation de toutes les pistes
+ReaperAccessible - Main - Select all automation items of all tracks
+
+ReaperAccessible - Principal - Sélectionner un objet à partir de son numéro
+ReaperAccessible - Main - Select item from its number
+
+ReaperAccessible - Principal - Sélectionner une piste à partir de son numéro ou de son nom
+ReaperAccessible - Main - Select track from its number or name
+
+ReaperAccessible - Principal - Supprimer les point de sélection autopunch
+ReaperAccessible - Main - Remove autopunch selection points
+
+ReaperAccessible - Principal - Supprimer l'FX sélectionné sur la piste sélectionnée
+ReaperAccessible - Main - Delete selected FX of selected track
+
+ReaperAccessible - Principal - Tutoriels et Démos
+ReaperAccessible - Main - ReaperAccessible Ressources Menu
+
+# Éditeur MIDI ou MIDI Editor
+ReaperAccessible - Éditeur MIDI - Ajouter une note entre les 2 notes sélectionnées
+ReaperAccessible - MIDI Editor - Add note between 2 selected notes
+
+ReaperAccessible - Éditeur MIDI - Définir la grille de division via un menu
+ReaperAccessible - MIDI Editor - Set grid division via menu
+
+ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur la moitié
+ReaperAccessible - MIDI Editor - Set Note Length to half current value
+
+ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur le double
+ReaperAccessible - MIDI Editor - Set Note Length to double current value
+
+ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de blanche (1/3)
