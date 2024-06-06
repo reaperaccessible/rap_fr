@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="dbd5855826338ac402c28ffc716c40fabac73df7">
+<index version="1" name="ReaperAccessible scripts" commit="1b2cfd15dd587e912ca1910115850e201525e50b">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="Aller au marqueur précédent">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
@@ -577,6 +577,9 @@
       </version>
       <version name="1.3" author="Lee JULIEN For Reaper Accessible" time="2024-06-06T15:40:38Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/dbd5855826338ac402c28ffc716c40fabac73df7/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
+      </version>
+      <version name="1.4" author="Lee JULIEN For Reaper Accessible" time="2024-06-06T18:36:19Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/1b2cfd15dd587e912ca1910115850e201525e50b/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Énoncer la grille de division courante.lua" type="script" desc="Énonce la grille de division courante">
