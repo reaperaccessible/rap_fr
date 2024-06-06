@@ -1,5 +1,5 @@
--- @Description Ouvre un menu contenant tous les tutoriels et Démos de ReaperAccessible
--- @version 1.3
+-- @description Ouvre un menu contenant tous les tutoriels et Démos de ReaperAccessible
+-- @version 1.4
 -- @author Lee JULIEN For Reaper Accessible
 -- @provides [main=main] .
 
@@ -25,7 +25,7 @@ local subMenus = {
    {name = "01.05 L'installation de Reaper et Osara", url = "https://reaperaccessible.fr/tutoriels/01.5%20Installation%20et%20Configuration%20-%20Installation%20de%20Reaper%20et%20Osara.mp3"},
    {name = "01.06 Les réglages de l'interface audio", url = "https://reaperaccessible.fr/tutoriels/01.6%20Installation%20et%20Configuration%20-%20Les%20r%C3%A9glages%20de%20l'interface%20audio.mp3"},
    {name = "01.07 Installation du LangPack, de S W S et les scripts ReaperAccessible avec ReaPack", url = "https://reaperaccessible.fr/tutoriels/01.7%20Installation%20et%20Configuration%20-%20Installation%20de%20S%20W%20S%20et%20les%20scripts%20ReaperAccessible%20avec%20ReaPack.mp3"},
-   {name = "01.08 L'installation du "Keymap" ReaperAccessible", url = "https://reaperaccessible.fr/tutoriels/01.8%20Installation%20et%20Configuration%20-%20Installation%20du%20keymap%20Reaper%20Accessible.mp3"},
+   {name = "01.08 L'installation du Keymap ReaperAccessible", url = "https://reaperaccessible.fr/tutoriels/01.8%20Installation%20et%20Configuration%20-%20Installation%20du%20keymap%20Reaper%20Accessible.mp3"},
    {name = "01.09 Configuration d'Osara", url = "https://reaperaccessible.fr/tutoriels/01.9%20Installation%20et%20Configuration%20-%20Configuration%20d'Osara.mp3"},
    {name = "01.10 La gestion des fichiers dans Reaper", url = "https://reaperaccessible.fr/tutoriels/01.10%20Installation%20et%20Configuration%20-%20La%20gestion%20des%20fichiers%20dans%20Reaper.mp3"},
    {name = "01.11 Les paramètres du projet", url = "https://reaperaccessible.fr/tutoriels/01.11%20Installation%20et%20Configuration%20-%20Les%20param%C3%A8tres%20du%20projet.mp3"},
