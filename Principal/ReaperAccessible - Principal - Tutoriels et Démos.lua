@@ -1,5 +1,5 @@
 -- @Description Ouvre un menu contenant tous les tutoriels et Démos de ReaperAccessible
--- @version 1.2
+-- @version 1.3
 -- @author Lee JULIEN For Reaper Accessible
 -- @provides [main=main] .
 
@@ -23,18 +23,14 @@ local subMenus = {
    {name = "01.03 L'installation et les réglages de NVDA", url = "https://reaperaccessible.fr/tutoriels/01.3%20Installation%20et%20Configuration%20-%20Installation%20et%20r%C3%A9glage%20de%20NVDA.mp3"},
    {name = "01.04 L'installation de l'extension LBL pour NVDA", url = "https://reaperaccessible.fr/tutoriels/01.4%20Installation%20et%20Configuration%20-%20Installation%20de%20LBL.mp3"},
    {name = "01.05 L'installation de Reaper et Osara", url = "https://reaperaccessible.fr/tutoriels/01.5%20Installation%20et%20Configuration%20-%20Installation%20de%20Reaper%20et%20Osara.mp3"},
-   {name = "01.06 L'installation du LangPack francophone", url = "https://reaperaccessible.fr/tutoriels/01.6%20Installation%20et%20Configuration%20-%20Installation%20du%20langpack%20francophone.mp3"},
-   {name = "01.07 Les réglages de l'interface audio.mp3", url = "https://reaperaccessible.fr/tutoriels/01.7%20Installation%20et%20Configuration%20-%20Les%20r%C3%A9glages%20de%20l'interface%20audio.mp3"},
-   {name = "01.08 Installation de S W S et les scripts ReaperAccessible", url = "https://reaperaccessible.fr/tutoriels/01.8%20Installation%20et%20Configuration%20-%20Installation%20de%20S%20W%20S%20et%20les%20scripts%20ReaperAccessible.mp3"},
-   {name = "01.09 L'installation du Keymap ReaperAccessible", url = "https://reaperaccessible.fr/tutoriels/01.9%20Installation%20et%20Configuration%20-%20Installation%20du%20keymap%20Reaper%20Accessible.mp3"},
-   {name = "01.10 Comment mettre à jour les Scripts Reaper Accessible", url = "https://reaperaccessible.fr/tutoriels/01.10%20Installation%20et%20Configuration%20-%20Comment%20mettre%20%C3%A0%20jour%20les%20scripts%20ReaperAccessible.mp3"},
-   {name = "01.11 Configuration d'Osara", url = "https://reaperaccessible.fr/tutoriels/01.11%20Installation%20et%20Configuration%20-%20Configuration%20d'Osara.mp3"},
-   {name = "01.12 La gestion des fichiers dans Reaper", url = "https://reaperaccessible.fr/tutoriels/01.12%20Installation%20et%20Configuration%20-%20La%20gestion%20des%20fichiers%20dans%20Reaper.mp3"},
-   {name = "01.13 Les réglages de Reaper pour LBL", url = "https://reaperaccessible.fr/tutoriels/01.13%20Installation%20et%20Configuration%20-%20Les%20r%C3%A9glages%20de%20Reaper%20pour%20LBL.mp3"},
-   {name = "01.14 Les paramètres du projet", url = "https://reaperaccessible.fr/tutoriels/01.14%20Installation%20et%20Configuration%20-%20Les%20param%C3%A8tres%20du%20projet.mp3"},
-   {name = "01.15 Comment utiliser votre license de Reaper sur tous vos ordinateurs", url = "https://reaperaccessible.fr/tutoriels/01.15%20Installation%20et%20Configuration%20-%20Comment%20utiliser%20votre%20license%20de%20Reaper%20sur%20tous%20vos%20ordinateurs.mp3"},
-   {name = "01.16 Comment installer ReaPack", url = "https://reaperaccessible.fr/tutoriels/01.16%20Installation%20et%20Configuration%20-%20Comment%20installer%20ReaPack.mp3"},
-   {name = "01.17 Comment accéder rapidement au volume des Applications et des Périphériques", url = "https://reaperaccessible.fr/tutoriels/01.17%20Installation%20et%20Configuration%20-%20Comment%20acc%C3%A9der%20rapidement%20aux%20volumes%20des%20applications%20et%20des%20p%C3%A9riph%C3%A9riques.mp3"}
+   {name = "01.06 Les réglages de l'interface audio", url = "https://reaperaccessible.fr/tutoriels/01.6%20Installation%20et%20Configuration%20-%20Les%20r%C3%A9glages%20de%20l'interface%20audio.mp3"},
+   {name = "01.07 Installation du LangPack, de S W S et les scripts ReaperAccessible avec ReaPack", url = "https://reaperaccessible.fr/tutoriels/01.7%20Installation%20et%20Configuration%20-%20Installation%20de%20S%20W%20S%20et%20les%20scripts%20ReaperAccessible%20avec%20ReaPack.mp3"},
+   {name = "01.08 L'installation du "Keymap" ReaperAccessible", url = "https://reaperaccessible.fr/tutoriels/01.8%20Installation%20et%20Configuration%20-%20Installation%20du%20keymap%20Reaper%20Accessible.mp3"},
+   {name = "01.09 Configuration d'Osara", url = "https://reaperaccessible.fr/tutoriels/01.9%20Installation%20et%20Configuration%20-%20Configuration%20d'Osara.mp3"},
+   {name = "01.10 La gestion des fichiers dans Reaper", url = "https://reaperaccessible.fr/tutoriels/01.10%20Installation%20et%20Configuration%20-%20La%20gestion%20des%20fichiers%20dans%20Reaper.mp3"},
+   {name = "01.11 Les paramètres du projet", url = "https://reaperaccessible.fr/tutoriels/01.11%20Installation%20et%20Configuration%20-%20Les%20param%C3%A8tres%20du%20projet.mp3"},
+   {name = "01.12 Comment utiliser votre license de Reaper sur tous vos ordinateurs", url = "https://reaperaccessible.fr/tutoriels/01.12%20Installation%20et%20Configuration%20-%20Comment%20utiliser%20ma%20licence%20Reaper%20sur%20tous%20mes%20PC.mp3"},
+   {name = "01.13 Comment accéder rapidement au volume des Applications et des Périphériques", url = "https://reaperaccessible.fr/tutoriels/01.13%20Installation%20et%20Configuration%20-%20Comment%20acc%C3%A9der%20rapidement%20aux%20volumes%20des%20applications%20et%20des%20p%C3%A9riph%C3%A9riques.mp3"}
   }
  },
  {
@@ -42,15 +38,16 @@ local subMenus = {
   actions = {
    {name = "02.01 L'onglet général", url = "https://reaperaccessible.fr/tutoriels/02.1%20Onglet%20G%C3%A9n%C3%A9ral.mp3"},
    {name = "02.02 L'onglet projet", url = "https://reaperaccessible.fr/tutoriels/02.2%20Onglet%20Projet.mp3"},
-   {name = "02.03 Le sous-onglet pistes et envois par défaut", url = "https://reaperaccessible.fr/tutoriels/02.2%20Onglet%20Projet.mp3"},
-   {name = "02.04 Le sous-onglet Valeur par défaut des Objets Média", url = "https://reaperaccessible.fr/tutoriels/02.2%20Onglet%20Projet.mp3"},
-   {name = "02.05 L'onglet Audio", url = "https://reaperaccessible.fr/tutoriels/02.2%20Onglet%20Projet.mp3"},
-   {name = "02.06 Le sous-onglet Périphérique", url = "https://reaperaccessible.fr/tutoriels/02.2%20Onglet%20Projet.mp3"},
-   {name = "02.07 Le sous-onglet Périphérique Midi", url = "https://reaperaccessible.fr/tutoriels/02.2%20Onglet%20Projet.mp3"},
-   {name = "02.08 Le sous-onglet Sourdine et Solo", url = "https://reaperaccessible.fr/tutoriels/02.2%20Onglet%20Projet.mp3"},
-   {name = "02.09 Le sous-onglet Lecture", url = "https://reaperaccessible.fr/tutoriels/02.2%20Onglet%20Projet.mp3"},
-   {name = "02.10 L'onglet Comportement d'édition", url = "https://reaperaccessible.fr/tutoriels/02.2%20Onglet%20Projet.mp3"},
-   {name = "02.11 Le sous-onglet VST de l'onglet Plug-ins", url = "https://reaperaccessible.fr/tutoriels/02.2%20Onglet%20Projet.mp3"}
+   {name = "02.03 Le sous-onglet Copie de sauvegarde et Valeurs par défaut des pistes et envois", url = "https://reaperaccessible.fr/tutoriels/02.3%20Les%20pr%C3%A9f%C3%A9rences%20de%20Reaper%20-%20Le%20sous-onglet%20Copie%20de%20sauvegarde%20et%20Valeurs%20par%20d%C3%A9faut%20des%20pistes%20et%20envois.mp3"},
+   {name = "02.04 L'onglet Audio", url = "https://reaperaccessible.fr/tutoriels/02.4%20Les%20pr%C3%A9f%C3%A9rences%20de%20Reaper%20-%20L'onglet%20Audio.mp3"},
+   {name = "02.05 Le sous-onglet Périphérique", url = "https://reaperaccessible.fr/tutoriels/02.5%20Les%20pr%C3%A9f%C3%A9rences%20de%20Reaper%20-%20Le%20sous-onglet%20P%C3%A9riph%C3%A9rique.mp3"},
+   {name = "02.06 Le sous-onglet Périphérique Midi", url = "https://reaperaccessible.fr/tutoriels/02.6%20Les%20pr%C3%A9f%C3%A9rences%20de%20Reaper%20-%20Le%20sous-onglet%20P%C3%A9riph%C3%A9rique%20MIDI.mp3"},
+   {name = "02.07 Le sous-onglet Mutage/Solotage", url = "https://reaperaccessible.fr/tutoriels/02.7%20Les%20pr%C3%A9f%C3%A9rences%20de%20Reaper%20-%20Le%20sous-onglet%20Mutage%20et%20solotage.mp3"},
+   {name = "02.08 Le sous-onglet Lecture", url = "https://reaperaccessible.fr/tutoriels/02.8%20Les%20pr%C3%A9f%C3%A9rences%20de%20Reaper%20-%20Le%20sous-onglet%20Lecture.mp3"},
+   {name = "02.09 Le sous-onglet Scrub/Jog", url = "https://reaperaccessible.fr/tutoriels/02.9%20Les%20pr%C3%A9f%C3%A9rences%20de%20Reaper%20-%20Scrub%20et%20Jog.mp3"},
+   {name = "02.10 Le sous-onglet Enregistrement", url = "https://reaperaccessible.fr/tutoriels/02.10%20Les%20pr%C3%A9f%C3%A9rences%20de%20Reaper%20-%20Le%20sous-onglet%20Enregistrement.mp3"},
+   {name = "02.11 L'onglet Comportement d'édition", url = "https://reaperaccessible.fr/tutoriels/02.11%20Les%20pr%C3%A9f%C3%A9rences%20de%20Reaper%20-%20L'onglet%20Comportement%20d'%C3%A9dition.mp3"},
+   {name = "02.12 Le sous-onglet VST de l'onglet Plug-ins", url = "https://reaperaccessible.fr/tutoriels/02.12%20Les%20pr%C3%A9f%C3%A9rences%20de%20Reaper%20-%20Le%20sous-onglet%20VST.mp3"}
   }
  },
  {
@@ -348,6 +345,9 @@ local subMenus = {
    {name = "28.23 DrumAccess - Tama - Starclassic Performer Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess-tama-starclassic-performer-kit-fr"},
    {name = "28.24 DrumAccess - Gretsch - Broadkaster Kit Damped", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/da-gretsch-broadkaster-kit-damped-fr"},
    {name = "28.25 DrumAccess - Yamaha - Recording Custom Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-yamaha-recording-custom-kit-fr"},
+   {name = "28.26 DrumAccess - Gretsch - 60s Round Badge Kit Damped", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-gretsch-60s-round-badge-kit-damped-fr"},
+   {name = "28.27 DrumAccess - DW - Deep Blue Oyster Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-dw-deep-blue-oyster-kit-fr"},
+   {name = "28.28 DrumAccess - Gretsch - USA Custom Kit - Damped", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-gretsch-usa-custom-kit-damped-fr"},
   }
  },
 
