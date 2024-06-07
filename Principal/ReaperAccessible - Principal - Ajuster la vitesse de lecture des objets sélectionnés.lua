@@ -1,5 +1,5 @@
 -- @description Ajuste la vitesse de lecture des objet sélectionnés
--- @version 1.1
+-- @version 1.2
 -- @author Lo-lo for ReaperAccessible. 
 -- @provides [main=main] .
 
@@ -19,7 +19,7 @@ if num_selected_items > 0 then
         playrate = tostring(playrate)
 
         -- Ask the user to input a new playback rate
-        local retval, user_input = reaper.GetUserInputs("Playback Rate", 1, "Playback Rate:", playrate)
+        local retval, user_input = reaper.GetUserInputs("Playback Rate", 1, "Vitesse de lecture:", playrate)
         
         -- Check if the user confirmed the input
         if retval then

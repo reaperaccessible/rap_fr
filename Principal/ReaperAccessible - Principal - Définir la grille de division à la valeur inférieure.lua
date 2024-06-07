@@ -1,5 +1,5 @@
 -- @description Définie la grille de division inférieure
--- @version 1.0
+-- @version 1.2
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 
@@ -12,7 +12,7 @@ local dict = {
     {4, "4 mesures"},
     {3, "3 mesures"},
     {2, "2 mesures"},    
-    {1, "Une mesure "},
+    {1, "Une mesure"},
     {1/2, "Blanche (1/2)"},
     {1/4, "Noire (1/4)"},
     {1/8, "Croche (1/8,)"},
@@ -28,9 +28,9 @@ local dict = {
     {1/48, "Triolet de triple croche (1/48)"},
     {1/5, "Quintolet de noire (1/5)"},
     {1/7, "Septolet de noire (1/7)"},
-    {1/9, "1/9"},
+    {1/9, "Nonuplet, 1/9"},
     {1/10, "Quintolet de croche (1/10)"},
-    {1/18, "1/18"}
+    {1/18, "Dix-huitième, 1/18"}
 }
 
 function getNextDivision(g, d)

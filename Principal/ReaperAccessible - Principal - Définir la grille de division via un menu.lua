@@ -1,5 +1,5 @@
 -- @description Affiche un menu contextuel permettant de sélectionner la grille de division
--- @version 1.0
+-- @version 1.2
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 
@@ -26,9 +26,9 @@ local dict = {
     {17.0, 1/48, "Triolet de triple croche, 1/48"},
     {18.0, 1/5, "Quintolet de noire, 1/5"},
     {19.0, 1/7, "Septolet de noire, 1/7"},
-    {20.0, 1/9, "1/9"},
+    {20.0, 1/9, "Nonuplet, 1/9"},
     {21.0, 1/10, "Quintolet de croche, 1/10"},
-    {22.0, 1/18, "1/18"}
+    {22.0, 1/18, "Dix-huitième, 1/18"}
 }
 
 function buildMenu(d, g)
