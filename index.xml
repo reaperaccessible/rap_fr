@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="1b2cfd15dd587e912ca1910115850e201525e50b">
+<index version="1" name="ReaperAccessible scripts" commit="306f69d5b520441584cdbb9a6b2da333820b16a7">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="Aller au marqueur précédent">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
@@ -165,6 +165,9 @@
       <version name="1.1" author="Lo-lo for ReaperAccessible." time="2024-04-22T12:58:51Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20Ajuster%20la%20vitesse%20de%20lecture%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
       </version>
+      <version name="1.2" author="Lo-lo for ReaperAccessible." time="2024-06-07T00:19:46Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6df257011f843f9cc356528cc2023c6dad308e5e/Principal/ReaperAccessible%20-%20Principal%20-%20Ajuster%20la%20vitesse%20de%20lecture%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Aller au dernier objet de la piste sélectionnée.lua" type="script" desc="Aller au dernier objet de la piste sélectionnée">
       <version name="1.0" author="Lo-lo for ReaperAccessible." time="2024-04-22T12:58:51Z">
@@ -255,15 +258,33 @@
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
       </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:19:46Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6df257011f843f9cc356528cc2023c6dad308e5e/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:27:55Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/306f69d5b520441584cdbb9a6b2da333820b16a7/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Définir la grille de division à la valeur inférieure.lua" type="script" desc="Définie la grille de division inférieure">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20inf%C3%A9rieure.lua</source>
       </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:19:46Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6df257011f843f9cc356528cc2023c6dad308e5e/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20inf%C3%A9rieure.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:27:55Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/306f69d5b520441584cdbb9a6b2da333820b16a7/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20inf%C3%A9rieure.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Définir la grille de division à la valeur suppérieure.lua" type="script" desc="Définie la grille de division suppérieure">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20supp%C3%A9rieure.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:19:46Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6df257011f843f9cc356528cc2023c6dad308e5e/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20supp%C3%A9rieure.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:27:55Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/306f69d5b520441584cdbb9a6b2da333820b16a7/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20supp%C3%A9rieure.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Définir le point de début de sélection autopunch.lua" type="script" desc="Point de début de sélection autopunch">
@@ -588,6 +609,12 @@
       </version>
       <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:19:46Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6df257011f843f9cc356528cc2023c6dad308e5e/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:27:55Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/306f69d5b520441584cdbb9a6b2da333820b16a7/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Énoncer la longueur des objets sélectionnés.lua" type="script" desc="Annonce la somme de tous les longueur d'objets sélectionnés">
