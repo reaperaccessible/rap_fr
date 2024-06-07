@@ -1,5 +1,5 @@
 -- @description Définie la grille de division suppérieure
--- @version 1.2
+-- @version 1.3
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 

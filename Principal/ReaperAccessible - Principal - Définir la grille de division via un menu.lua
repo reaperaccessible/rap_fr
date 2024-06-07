@@ -1,5 +1,5 @@
 -- @description Affiche un menu contextuel permettant de sélectionner la grille de division
--- @version 1.2
+-- @version 1.3
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 
