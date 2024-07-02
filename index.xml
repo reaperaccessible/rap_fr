@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="306f69d5b520441584cdbb9a6b2da333820b16a7">
+<index version="1" name="ReaperAccessible scripts" commit="d5c4fb1d3895ef53ed8cb2fe3273add5df32f670">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="Aller au marqueur précédent">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
@@ -647,14 +647,6 @@
     <reapack name="ReaperAccessible - Principal - Énoncer le numéro et le nom de l'objet sélectionné.lua" type="script" desc="Énonce le numéro et le nom de l'objet sélectionné">
       <version name="1.0" author="Lo-lo for ReaperAccessible." time="2024-04-22T12:58:51Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20num%C3%A9ro%20et%20le%20nom%20de%20l'objet%20s%C3%A9lectionn%C3%A9.lua</source>
-      </version>
-    </reapack>
-    <reapack name="ReaperAccessible - Principal - Énoncer le tempo et la signature rythmique du projet, à la position courante.lua" type="script" desc="Énonce le tempo et la signature rythmique du projet, à la position courante">
-      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
-        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20tempo%20et%20la%20signature%20rythmique%20du%20projet,%20%C3%A0%20la%20position%20courante.lua</source>
-      </version>
-      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-16T01:02:09Z">
-        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20tempo%20et%20la%20signature%20rythmique%20du%20projet,%20%C3%A0%20la%20position%20courante.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Énoncer le volume de la piste sélectionnée.lua" type="script" desc="Énonce le volume de la piste sélectionnée">
