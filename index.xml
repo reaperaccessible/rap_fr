@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="632364fae6a0172331e5ce27bab6492497dc92fb">
+<index version="1" name="ReaperAccessible scripts" commit="9793ae4a59564e2347d2eab4cf49ecc0d8c1e3ec">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="Aller au marqueur précédent">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
@@ -100,7 +100,7 @@
     </reapack>
   </category>
   <category name="LangPack">
-    <reapack name="REAPER_SWS_FRC.ReaperLangPack" type="langpack" desc="Français V7.20.2 par ReaperAccessible">
+    <reapack name="REAPER_SWS_FRC.ReaperLangPack" type="langpack" desc="Français V7.22.2 par ReaperAccessible">
       <version name="7.05" author="Lee JULIEN et Pierre-Marie CURT" time="2024-04-02T07:43:02Z">
         <source>https://github.com/reaperaccessible/rap_fr/raw/4f11ad4b4f522f4b2670635a9b51f163695d61c3/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
       </version>
@@ -139,6 +139,9 @@
       </version>
       <version name="7.20.2" author="Lee JULIEN et Pierre-Marie CURT" time="2024-08-15T13:07:47Z">
         <source>https://github.com/reaperaccessible/rap_fr/raw/632364fae6a0172331e5ce27bab6492497dc92fb/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.22.2" author="ReaperAccessible" time="2024-09-04T12:42:13Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/9793ae4a59564e2347d2eab4cf49ecc0d8c1e3ec/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
       </version>
     </reapack>
   </category>
