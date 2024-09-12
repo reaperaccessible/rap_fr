@@ -1,10 +1,10 @@
 -- @description Exporte chaque objet sélectionné vers une instance du RS5K en mode batterie
--- @version 1.3
+-- @version 1.4
 -- @author Ludovic SANSONE pour Reaper Accessible
 -- @provides [main=main] .
 
 
-  local script_title = "l'Exportation de chaque objet sélectionné vers une instance du RS5K (Mode batterie)" 
+local script_title = "Exporter chaque objet sélectionné vers une instance du RS5K (Mode batterie)" 
   
   -------------------------------------------------------------------------------
   function F_SetFXName(track, fx, new_name)
@@ -176,7 +176,7 @@
       if not item then return true end        
     
     -- get base pitch
-      local ret, base_pitch = reaper.GetUserInputs( script_title, 1, 'Set base pitch', 60 )
+      local ret, base_pitch = reaper.GetUserInputs( script_title, 1, 'Définir la note de base', 60 )
       if not ret 
         or not tonumber(base_pitch) 
         or tonumber(base_pitch) < 0 
