@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="b4d575b99178216e532b48d338eaf877cb3e1824">
+<index version="1" name="ReaperAccessible scripts" commit="c2bb57978f2a2adc6b1af52eee69efc640eb02a2">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="Aller au marqueur précédent">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
@@ -146,6 +146,36 @@
     </reapack>
   </category>
   <category name="Principal">
+    <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Close.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones OverHead.lua" type="script" desc="Désactiver les microphones OverHead pour DrumAccess">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20OverHead.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Room B1.lua" type="script" desc="Désactiver les microphones de la Room B1 pour DrumAccess">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20B1.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Room Mono.lua" type="script" desc="Désactiver les microphones Room Mono pour DrumAccess">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20Mono.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Room uniquement ou Room A1.lua" type="script" desc="Désactiver les microphones Room uniquement ou Room A1 pour DrumAccess">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20uniquement%20ou%20Room%20A1.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - DrumAccess - Rendre les paramètres du kit de batterie disponibles.lua" type="script" desc="Rendre les paramètres du kit de batterie disponibles pour DrumAccess">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20DrumAccess%20-%20Rendre%20les%20param%C3%A8tres%20du%20kit%20de%20batterie%20disponibles.lua</source>
+      </version>
+    </reapack>
     <reapack name="ReaperAccessible - Principal - Afficher le menu des actions d'automatisation.lua" type="script" desc="Affiche un menu permettant d'accéder à différentes actions d'automatisation">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20des%20actions%20d'automatisation.lua</source>
@@ -421,6 +451,9 @@
       <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T13:32:03Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5174e15e73b0893b295a44ad7d3859faf1a80027/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20batterie).lua</source>
       </version>
+      <version name="1.4" author="Ludovic SANSONE pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20batterie).lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode boucle).lua" type="script" desc="Exporte chaque objet sélectionné vers une instance du RS5K en mode boucle">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
@@ -434,6 +467,9 @@
       </version>
       <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T13:32:03Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5174e15e73b0893b295a44ad7d3859faf1a80027/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20boucle).lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20boucle).lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode clavier).lua" type="script" desc="Exporte chaque objet sélectionné vers une instance du RS5K en mode clavier">
@@ -449,10 +485,16 @@
       <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T13:32:03Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5174e15e73b0893b295a44ad7d3859faf1a80027/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20clavier).lua</source>
       </version>
+      <version name="1.4" author="Ludovic SANSONE pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20clavier).lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K, sur la piste sélectionnée (mode Round robin).lua" type="script" desc="Exporter l'objet sélectionné vers une instance du RS5K, sur la piste sélectionnée (mode Round robin)">
       <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-09-04T18:25:04Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b4d575b99178216e532b48d338eaf877cb3e1824/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e%20(mode%20Round%20robin).lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e%20(mode%20Round%20robin).lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Exporter l'objet sélectionné vers une instance du RS5K, avec le même échantillon sur l'ensemble du clavier.lua" type="script" desc="Exporte l'objet sélectionné vers une instance du RS5K avec la même note sur l'ensemble du clavier">
@@ -464,6 +506,9 @@
       </version>
       <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-18T15:40:31Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20avec%20le%20m%C3%AAme%20%C3%A9chantillon%20sur%20l'ensemble%20du%20clavier.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20avec%20le%20m%C3%AAme%20%C3%A9chantillon%20sur%20l'ensemble%20du%20clavier.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Exporter l'objet sélectionné vers une instance du RS5K, comme une source chromatique.lua" type="script" desc="Exporte l'objet sélectionné vers une instance du RS5K comme une source chromatique">
@@ -496,12 +541,14 @@
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/Principal/ReaperAccessible%20-%20Principal%20-%20Fermer%20tous%20les%20dossiers%20de%20pistes%20du%20projet.lua</source>
       </version>
     </reapack>
-    <reapack name="ReaperAccessible - Principal - Insérer un espace vide au curseur via une zone d'édition.lua" type="script" desc="Permet à l'utilisateur d'insérer un espace vide en saisissant la durée">
-      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
-        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20au%20curseur%20via%20une%20zone%20d'%C3%A9dition.lua</source>
+    <reapack name="ReaperAccessible - Principal - Insérer un espace vide au curseur d'édition via une boîte de dialogue (respectant le mode ripple).lua" type="script" desc="Insérer un espace vide au curseur d'édition via une boîte de dialogue (respectant le mode ripple)">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20au%20curseur%20d'%C3%A9dition%20via%20une%20bo%C3%AEte%20de%20dialogue%20(respectant%20le%20mode%20ripple).lua</source>
       </version>
-      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
-        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20au%20curseur%20via%20une%20zone%20d'%C3%A9dition.lua</source>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Insérer un espace vide selon la sélection temporelle (respectant le mode ripple.lua" type="script" desc="Insérer un espace vide selon la sélection temporelle (respectant le mode ripple">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20selon%20la%20s%C3%A9lection%20temporelle%20(respectant%20le%20mode%20ripple.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Insérer un Objet vide pour chaque piste sélectionnée selon le mode ripple.lua" type="script" desc="Insérer un Objet vide pour chaque piste sélectionnée selon le mode ripple">
@@ -567,6 +614,11 @@
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20les%20point%20de%20s%C3%A9lection%20autopunch.lua</source>
       </version>
     </reapack>
+    <reapack name="ReaperAccessible - Principal - Supprimer les scripts non existants de la liste d'actions.lua" type="script" desc="Supprimer les scripts non existants de la liste d'actions">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20les%20scripts%20non%20existants%20de%20la%20liste%20d'actions.lua</source>
+      </version>
+    </reapack>
     <reapack name="ReaperAccessible - Principal - Sélectionner l'FX précédent de la piste sélectionnée.lua" type="script" desc="Sélectionne l'FX précédent de la piste sélectionnée">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20l'FX%20pr%C3%A9c%C3%A9dent%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
@@ -629,6 +681,11 @@
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/1b2cfd15dd587e912ca1910115850e201525e50b/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
       </version>
     </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer la base temporelle du projet en cours.lua" type="script" desc="Énoncer la base temporelle du projet en cours">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20base%20temporelle%20du%20projet%20en%20cours.lua</source>
+      </version>
+    </reapack>
     <reapack name="ReaperAccessible - Principal - Énoncer la grille de division courante.lua" type="script" desc="Énonce la grille de division courante">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
@@ -668,6 +725,11 @@
       </version>
       <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le nom des envoies et retours de la piste sélectionnée.lua" type="script" desc="Énoncer le nom des envoies et retours de la piste sélectionnée">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20des%20envoies%20et%20retours%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Énoncer le numéro et le nom de l'objet sélectionné.lua" type="script" desc="Énonce le numéro et le nom de l'objet sélectionné">
