@@ -1,5 +1,5 @@
 -- @description Désactiver les microphones Room B1 pour DrumAccess
--- @version 1.1
+-- @version 1.3
 -- @author Lee JULIEN for Reaper Accessible
 -- @provides [main=main] .
 

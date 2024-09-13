@@ -34,7 +34,7 @@ end
 
 if keywordDetected then
     reaper.defer(function()
-        reaper.osara_outputMessage("Les microphones Room ou Room A1 sont désactivées.")
+        reaper.osara_outputMessage("Le microphone Room ou Room A1 est désactivé.")
     end)
 else
     reaper.osara_outputMessage("Aucun paramètre n'est disponible, la piste sélectionnée ne contient pas d'FX DrumAccess, ou cette pièce du kit ne propose pas de microphone Room ou Room A1. Veuillez sélectionner la piste dossier DrumAccess, déclencher le script ReaperAccessible - DrumAccess - Rendre les paramètres du kit de batterie disponibles, sélectionner une piste contenant un FX DrumAccess et déclencher à nouveau ce script.")

@@ -1,5 +1,5 @@
 -- @description Désactiver les microphones Close pour DrumAccess
--- @version 1.1
+-- @version 1.3
 -- @author Lee JULIEN for Reaper Accessible
 -- @provides [main=main] .
 
@@ -60,6 +60,6 @@ if not keywordDetected then
     reaper.osara_outputMessage("Aucun paramètre n'est disponible, la piste sélectionnée ne contient pas d'FX DrumAccess, ou cette pièce du kit ne propose pas de microphone Close. Veuillez sélectionner la piste dossier DrumAccess, déclencher le script ReaperAccessible - DrumAccess - Rendre les paramètres du kit de batterie disponibles, sélectionner une piste contenant un FX DrumAccess et déclencher à nouveau ce script.")
 else
     reaper.defer(function()
-        reaper.osara_outputMessage("Tous les microphones Close sont désactivés.")
+        reaper.osara_outputMessage("Les microphones Close sont désactivés.")
     end)
 end
