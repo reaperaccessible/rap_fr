@@ -1,5 +1,5 @@
 -- @description Tutoriels et Démos
--- @version 1.5
+-- @version 1.6
 -- @author Lee JULIEN For ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
@@ -351,6 +351,10 @@ local subMenus = {
    {name = "28.26 DrumAccess - Gretsch - 60s Round Badge Kit Damped", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-gretsch-60s-round-badge-kit-damped-fr"},
    {name = "28.27 DrumAccess - DW - Deep Blue Oyster Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-dw-deep-blue-oyster-kit-fr"},
    {name = "28.28 DrumAccess - Gretsch - USA Custom Kit - Damped", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-gretsch-usa-custom-kit-damped-fr"},
+   {name = "28.29 DrumAccess - Mapex - Velvetone Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=438:drumaccess-mapex-velvetone-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.30 DrumAccess - Mapex - Mars Birtch Shell Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=443:drumaccess-mapex-mars-birch-shell-kit&catid=58&lang=fr&Itemid=213"},
+   {name = "28.31 DrumAccess - Ludwig - 1950s Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=521:drumaccess-ludwig-1950s-kit&catid=58&lang=fr&Itemid=213"},
+  }
   }
  },
 
