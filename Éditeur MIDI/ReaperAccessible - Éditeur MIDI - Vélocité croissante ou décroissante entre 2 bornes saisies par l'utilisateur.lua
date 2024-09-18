@@ -1,7 +1,9 @@
 -- @description Vélocité croissante ou décroissante entre 2 bornes saisies par l'utilisateur
--- @version 1.2
--- @author Lee JULIEN pour Reaper Accessible augmented by Chessel
+-- @version 1.3
+-- @author Lee JULIEN pour ReaperAccessible augmented by Chessel
 -- @provides [main=midi_editor] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 function Msg(param)

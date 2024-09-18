@@ -1,7 +1,9 @@
--- @description Définie la grille de division suppérieure
--- @version 1.3
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Définir la grille de division à la valeur suppérieure
+-- @version 1.4
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 reaper.Undo_BeginBlock()

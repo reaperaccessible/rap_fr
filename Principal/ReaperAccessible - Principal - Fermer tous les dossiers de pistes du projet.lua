@@ -1,7 +1,9 @@
--- @description Ferme tous les dossiers de pistes du projet
--- @version 1.3
--- @author Lee JULIEN For Reaper Accessible
+-- @description Fermer tous les dossiers de pistes du projet
+-- @version 1.4
+-- @author Lee JULIEN For ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Fonction vérifiant si la piste placée en paramètre est bien un dossier

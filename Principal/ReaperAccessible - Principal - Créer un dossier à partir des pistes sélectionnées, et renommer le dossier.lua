@@ -1,7 +1,9 @@
--- @description Crée un dossier à partir des pistes sélectionnées, et renomme le dossier
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Créer un dossier à partir des pistes sélectionnées, et renommer le dossier
+-- @version 1.2
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 reaper.Undo_BeginBlock()

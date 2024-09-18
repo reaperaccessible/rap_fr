@@ -1,7 +1,10 @@
--- @description Ouvre un menu contenant tous les tutoriels et Démos de ReaperAccessible
--- @version 1.4
--- @author Lee JULIEN For Reaper Accessible
+-- @description Tutoriels et Démos
+-- @version 1.5
+-- @author Lee JULIEN For ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
+
 
 -- Fonction pour ouvrir une page web
 local function openURL(url)

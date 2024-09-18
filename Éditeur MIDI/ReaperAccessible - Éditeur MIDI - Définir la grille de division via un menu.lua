@@ -1,7 +1,9 @@
--- @description Affiche un menu contextuel permettant de sélectionner la grille de division
--- @version 1.0
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Définir la grille de division via un menu
+-- @version 1.1
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=midi_editor] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 local ret, grid = reaper.GetSetProjectGrid(0, 0)

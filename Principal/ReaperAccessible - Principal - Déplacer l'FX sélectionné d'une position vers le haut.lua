@@ -1,7 +1,9 @@
 -- @description Déplacer l'FX sélectionné d'une position vers le haut
--- @version 1.1
--- @author Lee JULIEN pour Reaper Accessible
+-- @version 1.2
+-- @author Lee JULIEN pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Move selected FX up in chain for selected tracks

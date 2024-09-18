@@ -1,7 +1,9 @@
 -- @description Supprimer les scripts non existants de la liste d'actions
--- @version 1.0
+-- @version 1.1
 -- @author Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Fonction pour supprimer les espaces au début d'une chaîne

@@ -1,7 +1,9 @@
--- @description Réinitialise le volume de l'explorateur de média à 0 DB
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Réinitialiser le volume de l'explorateur de média à 0 DB
+-- @version 1.2
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=mediaexplorer] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 function GetMediaExplorer()

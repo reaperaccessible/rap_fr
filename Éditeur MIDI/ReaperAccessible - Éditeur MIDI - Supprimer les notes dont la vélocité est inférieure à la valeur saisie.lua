@@ -1,7 +1,9 @@
--- @description Efface les notes dont la vélocité est inférieure à la saisie de l'utilisateur
--- @version 1.0
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Supprimer les notes dont la vélocité est inférieure à la valeur saisie
+-- @version 1.1
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=midi_editor] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 local r = reaper; local function nothing() end; local function bla() r.defer(nothing) end

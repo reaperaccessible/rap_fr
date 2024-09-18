@@ -1,11 +1,15 @@
--- @description Affiche un menu permettant d'accéder à différentes actions d'automatisation
--- @version 1.5
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Afficher le menu des actions d'automatisation
+-- @version 1.6
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
+-- Initialise l'interface graphique
 gfx.init()
 
+-- Affiche un menu et stocke la sélection de l'utilisateur
 local selection = gfx.showmenu(
     "Charger un Objet d'Automatisation\
     |Sauvegarder l'Objet d'Automatisation\
@@ -19,6 +23,7 @@ local selection = gfx.showmenu(
     |Définir les points d'enveloppe sélectionnés sur la valeur du premier point sélectionné\
     |Toujours créer de nouveaux Objets d'automatisation lors de l'écriture de l'automatisation")
 
+-- Définit un dictionnaire associant des numéros à des identifiants de commande
 local dict = {
     {1.0, "42093"},
     {2.0, "42092"},
@@ -33,6 +38,7 @@ local dict = {
     {11.0, "42212"}
 }
 
+-- Fonction pour obtenir l'identifiant de commande correspondant à la sélection
 function getCoommandID(sel, d)
     for i = 1, #d do
         if sel == d[i][1] then
@@ -42,14 +48,19 @@ function getCoommandID(sel, d)
     return ""
 end
 
+-- Obtient l'identifiant de commande correspondant à la sélection de l'utilisateur
 local commandID = getCoommandID(selection, dict)
 
+-- Vérifie si un identifiant de commande valide a été trouvé
 if commandID == "" then
     return
 else
+    -- Convertit l'identifiant de commande en identifiant Reaper
     local reaperCommandID = reaper.NamedCommandLookup(commandID)
+    -- Exécute la commande Reaper correspondante
     reaper.Main_OnCommand(reaperCommandID, 0)
     return
 end
 
-gfx.quit()  
+-- Ferme l'interface graphique
+gfx.quit()

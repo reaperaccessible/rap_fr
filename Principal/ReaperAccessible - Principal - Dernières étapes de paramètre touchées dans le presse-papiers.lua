@@ -1,7 +1,9 @@
--- @description Dernières étapes de paramètre touchées
--- @version 1.0
--- @author "Ludovic SANSONE pour Reaper Accessible"
+-- @description Dernières étapes de paramètre touchées dans le presse-papiers
+-- @version 1.1
+-- @author "Ludovic SANSONE pour ReaperAccessible"
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 local function round(number)

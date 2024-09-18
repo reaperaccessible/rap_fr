@@ -1,7 +1,9 @@
--- @description Affiche un menu permettant d'accéder à différentes fonctions du RS5K
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Afficher le menu du RS5K
+-- @version 1.2
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 gfx.init()

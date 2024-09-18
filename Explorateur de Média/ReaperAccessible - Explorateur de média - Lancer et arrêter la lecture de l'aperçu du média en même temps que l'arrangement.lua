@@ -1,7 +1,9 @@
--- @description Lance symultanément la lecture du projet, et l'aperçu du média sélectionné
--- @version 1.0
--- @author Ludovic SANSONE pour Reaper Accessilbe
+-- @description Lancer et arrêter la lecture de l'aperçu du média en même temps que l'arrangement
+-- @version 1.1
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=mediaexplorer] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 function GetMediaExplorer()

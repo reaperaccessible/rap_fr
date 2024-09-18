@@ -1,7 +1,9 @@
 -- @description Sélectionner un objet à partir de son numéro
--- @version 1.0
--- @author Lo-lo pour ReaperAccessible. 
+-- @version 1.1
+-- @author Lo-lo pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- OSARA: Ignorer le prochain message d'OSARA

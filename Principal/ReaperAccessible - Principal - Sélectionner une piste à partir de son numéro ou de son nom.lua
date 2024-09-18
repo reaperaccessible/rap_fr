@@ -1,7 +1,9 @@
--- @description Amène le focus sur la piste dont le numéro ou le nom est saisi par l'utilisateur
--- @version 1.4
--- @author Ludovic SANSONE et Lee JULIEN pour Reaper Accessible
+-- @description Sélectionner une piste à partir de son numéro ou de son nom
+-- @version 1.5
+-- @author Ludovic SANSONE et Lee JULIEN pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Fonction pour vérifier si une piste est un dossier

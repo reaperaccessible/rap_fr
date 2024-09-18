@@ -1,7 +1,9 @@
--- @description Ajoute une note entre les 2 notes sélectionnées
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Ajouter une note entre les 2 notes sélectionnées
+-- @version 1.2
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=midi_editor] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 reaper.Undo_BeginBlock()  

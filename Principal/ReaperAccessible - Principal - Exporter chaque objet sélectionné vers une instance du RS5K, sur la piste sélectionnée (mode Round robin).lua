@@ -1,7 +1,9 @@
 -- @description Exporter l'objet sélectionné vers une instance du RS5K, sur la piste sélectionnée (mode Round robin)
--- @version 1.1
--- @author Lee JULIEN pour Reaper Accessible
+-- @version 1.2
+-- @author Lee JULIEN pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 local script_title = 'Exporter chaque objet sélectionné vers une instance du RS5K, sur la piste sélectionnée (mode Round robin)'

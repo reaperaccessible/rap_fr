@@ -1,7 +1,9 @@
 -- @description Ouvrir le menu des répertoires
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @version 1.2
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 if not reaper.APIExists( "JS_Window_Find" ) then

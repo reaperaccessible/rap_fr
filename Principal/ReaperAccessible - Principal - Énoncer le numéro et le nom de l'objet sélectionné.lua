@@ -1,7 +1,9 @@
--- @description Énonce le numéro et le nom de l'objet sélectionné
--- @version 1.0
--- @author Lo-lo for ReaperAccessible. 
+-- @description Énoncer le numéro et le nom de l'objet sélectionné
+-- @version 1.1
+-- @author Lo-lo for ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Get the selected item

@@ -1,7 +1,9 @@
 -- @description Aller au premier objet de la piste sélectionnée
--- @version 1.0
--- @author Lo-lo for ReaperAccessible. 
+-- @version 1.1
+-- @author Lo-lo for ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Get the selected track

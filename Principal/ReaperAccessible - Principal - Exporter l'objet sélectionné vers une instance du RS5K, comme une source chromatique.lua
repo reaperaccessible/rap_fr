@@ -1,7 +1,9 @@
--- @description Exporte l'objet sélectionné vers une instance du RS5K comme une source chromatique
--- @version 1.2
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Exporter l'objet sélectionné vers une instance du RS5K, comme une source chromatique
+-- @version 1.3
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 local script_title = "L'exportation de l'l'objet sélectionné vers une instance du RS5K comme une source chromatique"

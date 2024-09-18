@@ -1,7 +1,9 @@
--- @description Définie la longueur des notes sélectionnées sur un triolet de croche
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Définir la longueur de la note sur un triolet de croche
+-- @version 1.2
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=midi_editor] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 reaper.Undo_BeginBlock()

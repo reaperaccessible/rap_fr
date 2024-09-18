@@ -1,7 +1,9 @@
--- @description Bascule entre l'état activé et désactivé pour l'fx sélectionné
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Basculer le contournement de l'FX sélectionné sur la piste sélectionnée
+-- @version 1.2
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 local countSelTrack = reaper.CountSelectedTracks(0);

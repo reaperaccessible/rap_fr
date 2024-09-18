@@ -1,7 +1,9 @@
 -- @description Énoncer la base temporelle du projet en cours
--- @version 1.0
--- @author Lee JULIEN for Reaper Accessible
+-- @version 1.1
+-- @author Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 local function getCommandState(command)

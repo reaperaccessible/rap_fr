@@ -1,7 +1,9 @@
--- @description Ouvre le dossier de piste sélectionné
--- @version 1.2
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Ouvrir le dossier de piste sélectionné
+-- @version 1.3
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Début du bloc d'annulation

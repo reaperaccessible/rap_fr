@@ -1,7 +1,9 @@
 -- @description Définir le point de fin de sélection d'Objet à supprimer, ripple toute les pistes
--- @version 1.1
--- @author Lee JULIEN pour Reaper Accessible
+-- @version 1.2
+-- @author Lee JULIEN pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Sélection temporelle: Définir le point de fin

@@ -1,7 +1,9 @@
--- @description Exporte chaque objet sélectionné vers une instance du RS5K en mode boucle
--- @version 1.4
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Exporter chaque objet sélectionné vers une instance du RS5K (mode boucle)
+-- @version 1.5
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 local script_title = "Exporter chaque objet sélectionné vers une instance du RS5K (Mode boucle)"

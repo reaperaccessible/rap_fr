@@ -1,7 +1,9 @@
 -- @description Ajuste la vitesse de lecture des objet sélectionnés
--- @version 1.2
--- @author Lo-lo for ReaperAccessible. 
+-- @version 1.3
+-- @author Lo-lo for ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Retrieve the number of selected items in the project

@@ -1,7 +1,9 @@
--- @description Étirer la position des notes sélectionnées
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Élaguer ou étirer la position des notes sélectionnées
+-- @version 1.2
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=midi_editor] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
   local script_title = "Étirer la position des notes sélectionnées"  

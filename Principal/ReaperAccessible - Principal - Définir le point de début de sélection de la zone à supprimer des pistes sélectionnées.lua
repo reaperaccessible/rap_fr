@@ -1,7 +1,9 @@
--- @description ReaperAccessible - Principal - Définir le point de début de sélection de la zone à supprimer des pistes sélectionnées
--- @version 1.1
--- @author Lee JULIEN pour Reaper Accessible
+-- @description Définir le point de début de sélection de la zone à supprimer des pistes sélectionnées
+-- @version 1.2
+-- @author Lee JULIEN pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Sélection temporelle: Définir le point de début

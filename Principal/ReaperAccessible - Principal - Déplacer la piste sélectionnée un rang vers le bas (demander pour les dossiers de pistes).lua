@@ -1,7 +1,9 @@
--- @description Déplace la piste un rang vers le bas, et demande à l'utilisateur s'il souhaite l'intégrer dans le dossier de pistes rencontré
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Déplacer la piste sélectionnée un rang vers le bas (demander pour les dossiers de pistes)
+-- @version 1.2
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 reaper.Undo_BeginBlock()

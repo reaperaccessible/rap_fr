@@ -1,7 +1,9 @@
 -- @description Énonce le volume de la piste sélectionnée
--- @version 1.3
--- @author Lee JULIEN pour ReaperAccessible. 
+-- @version 1.4
+-- @author Lee JULIEN pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Récupère la piste sélectionnée

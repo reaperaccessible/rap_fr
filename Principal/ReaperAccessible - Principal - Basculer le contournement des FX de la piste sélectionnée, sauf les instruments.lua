@@ -1,7 +1,9 @@
--- @description Contourne les FX de la piste sélectionnée, sauf les instruments virtuels
--- @version 1.0
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Basculer le contournement des FX de la piste sélectionnée, sauf les instruments
+-- @version 1.1
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 reaper.Undo_BeginBlock()

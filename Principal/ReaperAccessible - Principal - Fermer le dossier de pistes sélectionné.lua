@@ -1,7 +1,9 @@
--- @description Ferme le dossier de pistes sélectionné
--- @version 1.3
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Fermer le dossier de pistes sélectionné
+-- @version 1.4
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Début du bloc d'annulation

@@ -1,7 +1,9 @@
--- @description Lance un enregistrement en tenant compte du mode Ripple
--- @version 1.0
--- @author Ludovic SANSONE pour Reaper Accessible
+-- @description Lancer un enregistrement en fonction du mode Ripple
+-- @version 1.1
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- 0: off

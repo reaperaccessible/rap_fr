@@ -1,7 +1,9 @@
--- @description Sélectionne la dernière piste du dossier
--- @version 1.1
--- @author Ludovic SANSONE pour Reaper Accessilbe
+-- @description Aller à la dernière piste du dossier
+-- @version 1.2
+-- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 reaper.Undo_BeginBlock()

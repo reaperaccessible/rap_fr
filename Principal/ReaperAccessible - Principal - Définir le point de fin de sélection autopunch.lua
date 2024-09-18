@@ -1,7 +1,9 @@
--- @description Point de fin de sélection autopunch
--- @version 1.1
--- @author Lee JULIEN pour Reaper Accessible
+-- @description Définir le point de fin de sélection autopunch
+-- @version 1.2
+-- @author Lee JULIEN pour ReaperAccessible
 -- @provides [main=main] .
+-- @changelog
+--   # 2024-09-18 - Ajout d'un log
 
 
 -- Définir l'enregistrement en mode auto-punch sur la sélection temporelle
