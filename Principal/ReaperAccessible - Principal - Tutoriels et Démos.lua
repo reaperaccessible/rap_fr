@@ -1,9 +1,10 @@
 -- @description Tutoriels et Démos
--- @version 1.7
+-- @version 1.8
 -- @author Lee JULIEN For ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
 --   # 2024-09-18 - Ajout d'un log
+--   # 2024-09-18 - Ajout de 3 kits DrumAccess
 
 
 -- Fonction pour ouvrir une page web
