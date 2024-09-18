@@ -1,5 +1,5 @@
 -- @description Tutoriels et Démos
--- @version 1.6
+-- @version 1.7
 -- @author Lee JULIEN For ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
@@ -354,7 +354,6 @@ local subMenus = {
    {name = "28.29 DrumAccess - Mapex - Velvetone Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=438:drumaccess-mapex-velvetone-kit-fr&catid=58&lang=fr&Itemid=213"},
    {name = "28.30 DrumAccess - Mapex - Mars Birtch Shell Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=443:drumaccess-mapex-mars-birch-shell-kit&catid=58&lang=fr&Itemid=213"},
    {name = "28.31 DrumAccess - Ludwig - 1950s Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=521:drumaccess-ludwig-1950s-kit&catid=58&lang=fr&Itemid=213"},
-  }
   }
  },
 
