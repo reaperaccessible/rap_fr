@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="392983297a8b131dc96c3e880eb47022e835f3b6">
+<index version="1" name="ReaperAccessible scripts" commit="b15b8936c8f7331bc36bb2eda9d61713bb68033f">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1006,6 +1006,11 @@
       <version name="1.7" author="Lee JULIEN For ReaperAccessible" time="2024-09-18T15:43:17Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/392983297a8b131dc96c3e880eb47022e835f3b6/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
+      </version>
+      <version name="1.8" author="Lee JULIEN For ReaperAccessible" time="2024-09-18T16:00:20Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log
+# 2024-09-18 - Ajout de 3 kits DrumAccess]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b15b8936c8f7331bc36bb2eda9d61713bb68033f/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Énoncer la base temporelle du projet en cours.lua" type="script" desc="Énoncer la base temporelle du projet en cours">
