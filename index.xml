@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="d80cbfc78247483597c314d161c54e9f80ea2e0d">
+<index version="1" name="ReaperAccessible scripts" commit="16070dd0c8ea2b8eac2e9add0937fdc1c32ba728">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -305,6 +305,10 @@
       <version name="1.4" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-19T19:22:28Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/d80cbfc78247483597c314d161c54e9f80ea2e0d/Principal/ReaperAccessible%20-%20Principal%20-%20Ajouter%20une%20chaine%20d'effets%20%C3%A0%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.5" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-20T16:52:08Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/16070dd0c8ea2b8eac2e9add0937fdc1c32ba728/Principal/ReaperAccessible%20-%20Principal%20-%20Ajouter%20une%20chaine%20d'effets%20%C3%A0%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Ajuster la vitesse de lecture des objets sélectionnés.lua" type="script" desc="Ajuste la vitesse de lecture des objet sélectionnés">
