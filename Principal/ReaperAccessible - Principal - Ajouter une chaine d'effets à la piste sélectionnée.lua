@@ -1,5 +1,5 @@
 -- @description Ajouter une chaine d'FX à la piste sélectionnée
--- @version 1.4
+-- @version 1.5
 -- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
