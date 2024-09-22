@@ -1,78 +1,82 @@
 -- @description Dernières étapes de paramètre touchées dans le presse-papiers
--- @version 1.1
+-- @version 1.2
 -- @author "Ludovic SANSONE pour ReaperAccessible"
 -- @provides [main=main] .
 -- @changelog
 --   # 2024-09-18 - Ajout d'un log
+--   # 2024-09-22 - Traduction en français des messages
+--   # 2024-09-22 - Le code est maintenant commenté
 
 
-local function round(number)
-    local rest = number % 1;
-    if (rest < 0.5) then
-        return math.floor(number);
+-- Fonction pour arrondir un nombre
+local function arrondir(nombre)
+    local reste = nombre % 1
+    if (reste < 0.5) then
+        return math.floor(nombre)
     else
-        return math.ceil(number);
+        return math.ceil(nombre)
     end
 end
 
-local function speak(str, showAlert)
-    showAlert = showAlert or false;
+-- Fonction pour parler ou afficher un message
+local function parler(str, afficherAlerte)
+    afficherAlerte = afficherAlerte or false
     if reaper.osara_outputMessage then
-        reaper.osara_outputMessage(str);
-    elseif (showAlert) then
-        reaper.MB(str, 'Script message', 0);
+        reaper.osara_outputMessage(str)
+    elseif (afficherAlerte) then
+        reaper.MB(str, 'Message du script', 0)
     end
 end
 
-local function getFxData(trackId, fxId, paramId)
-    trackId = trackId or 0;
-    fxId = fxId or 0;
-    paramId = paramId or 9;
-
-    local track = reaper.GetTrack(0, trackId);
-    local _, fxName = reaper.TrackFX_GetFXName(track, fxId);
-    local _, paramName = reaper.TrackFX_GetParamName(track, fxId, paramId);
-    local _, step, smallstep, largestep, istoggle = reaper.TrackFX_GetParameterStepSizes(
-        track,
-        fxId,
-        paramId
-    );
-    local nbSteps = round(1 / step);
-    local stepslist = '';
-    local result = string.format('Fx-Name: %s\nParam: %s\nParamId: %s\n', fxName, paramName, paramId);
-
-    if (istoggle) then
-        result = result .. 'Param is a toggle';
-        stepslist = stepslist .. '[ 0.0 1.0 ]';
-
-        local action = reaper.MB(result, 'Steps for' .. fxName, 1);
+-- Fonction pour obtenir les données d'un effet (FX)
+local function obtenirDonneesFx(idPiste, idFx, idParam)
+    idPiste = idPiste or 0
+    idFx = idFx or 0
+    idParam = idParam or 9
+    local piste = reaper.GetTrack(0, idPiste)
+    local _, nomFx = reaper.TrackFX_GetFXName(piste, idFx)
+    local _, nomParam = reaper.TrackFX_GetParamName(piste, idFx, idParam)
+    local _, etape, petiteEtape, grandeEtape, estBascule = reaper.TrackFX_GetParameterStepSizes(
+        piste,
+        idFx,
+        idParam
+    )
+    local nbEtapes = arrondir(1 / etape)
+    local listeEtapes = ''
+    local resultat = string.format('Nom-Fx: %s\nParamètre: %s\nIdParam: %s\n', nomFx, nomParam, idParam)
+    
+    if (estBascule) then
+        resultat = resultat .. 'Le paramètre est une bascule'
+        listeEtapes = listeEtapes .. '[ 0.0 1.0 ]'
+        local action = reaper.MB(resultat, 'Étapes pour ' .. nomFx, 1)
         if (action == 1) then
-            reaper.CF_SetClipboard(stepslist);
+            reaper.CF_SetClipboard(listeEtapes)
         end
-    elseif (nbSteps > 1 and nbSteps .. '' ~= 'inf' and nbSteps .. '' ~= '1.#INF') then
-        result = result .. string.format('Number of Steps: %s', nbSteps);
-        stepslist = stepslist .. '[ 0.0'
-        for i = 1, nbSteps - 1 do
-            stepslist = stepslist .. ' ' .. string.sub((i * step) .. '', 1, 6)
+    elseif (nbEtapes > 1 and nbEtapes .. '' ~= 'inf' and nbEtapes .. '' ~= '1.#INF') then
+        resultat = resultat .. string.format('Nombre d\'étapes: %s', nbEtapes)
+        listeEtapes = listeEtapes .. '[ 0.0'
+        for i = 1, nbEtapes - 1 do
+            listeEtapes = listeEtapes .. ' ' .. string.sub((i * etape) .. '', 1, 6)
         end
-        stepslist = stepslist .. ' 1.0 ]';
-
-        local action = reaper.MB(result, 'Steps for' .. fxName, 1);
+        listeEtapes = listeEtapes .. ' 1.0 ]'
+        local action = reaper.MB(resultat, 'Étapes pour ' .. nomFx, 1)
         if (action == 1) then
-            reaper.CF_SetClipboard(stepslist);
+            reaper.CF_SetClipboard(listeEtapes)
         end
     else
-        speak('Param has no steps', true);
+        parler('Le paramètre n\'a pas d\'étapes', true)
     end
 end
 
+-- Fonction principale
 local function main()
-    local retval, tracknumber, fxnumber, paramnumber = reaper.GetLastTouchedFX();
+    local retval, numeroPiste, numeroFx, numeroParam = reaper.GetLastTouchedFX()
     if (retval) then
-        getFxData(tracknumber - 1, fxnumber, paramnumber);
+        obtenirDonneesFx(numeroPiste - 1, numeroFx, numeroParam)
     else
-        speak('No parameter selected', true);
+        parler('Aucun paramètre sélectionné', true)
     end
 end
 
+-- Exécution de la fonction principale
 main()
