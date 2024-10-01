@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="217b1e9d4f49369ed55193bce3e675f89241037d">
+<index version="1" name="ReaperAccessible scripts" commit="b7c7c5158668d4c8819df25d548714fbacfef2c9">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1423,6 +1423,12 @@
         <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Humaniser%20la%20v%C3%A9locit%C3%A9%20des%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
       </version>
     </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Outil de suppression de notes MIDI basé sur la vélocité.lua" type="script" desc="Outil de suppression de notes MIDI basé sur la vélocité">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2024-10-01T15:31:39Z">
+        <changelog><![CDATA[# 2024-09-24 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b7c7c5158668d4c8819df25d548714fbacfef2c9/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Outil%20de%20suppression%20de%20notes%20MIDI%20bas%C3%A9%20sur%20la%20v%C3%A9locit%C3%A9.lua</source>
+      </version>
+    </reapack>
     <reapack name="ReaperAccessible - Éditeur MIDI - Scinder les notes sélectionnées en parties égales.lua" type="script" desc="Scinder les notes sélectionnées en parties égales">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:04:50Z">
         <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Scinder%20les%20notes%20s%C3%A9lectionn%C3%A9es%20en%20parties%20%C3%A9gales.lua</source>
@@ -1432,13 +1438,22 @@
         <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Scinder%20les%20notes%20s%C3%A9lectionn%C3%A9es%20en%20parties%20%C3%A9gales.lua</source>
       </version>
     </reapack>
-    <reapack name="ReaperAccessible - Éditeur MIDI - Supprimer les notes dont la vélocité est inférieure à la valeur saisie.lua" type="script" desc="Supprimer les notes dont la vélocité est inférieure à la valeur saisie">
-      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
-        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Supprimer%20les%20notes%20dont%20la%20v%C3%A9locit%C3%A9%20est%20inf%C3%A9rieure%20%C3%A0%20la%20valeur%20saisie.lua</source>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner tous les événements MIDI CC spécifiés par l'utilisateur des objets sélectionnés.lua" type="script" desc="Sélectionner tous les événements MIDI CC spécifiés par l'utilisateur des objets sélectionnés">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2024-10-01T15:31:39Z">
+        <changelog><![CDATA[# 2024-09-24 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b7c7c5158668d4c8819df25d548714fbacfef2c9/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20tous%20les%20%C3%A9v%C3%A9nements%20MIDI%20CC%20sp%C3%A9cifi%C3%A9s%20par%20l'utilisateur%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
       </version>
-      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
-        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
-        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Supprimer%20les%20notes%20dont%20la%20v%C3%A9locit%C3%A9%20est%20inf%C3%A9rieure%20%C3%A0%20la%20valeur%20saisie.lua</source>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner toutes les notes dont la hauteur tonale est inférieure à la note sélectionnée de l'objet sélectionné.lua" type="script" desc="Sélectionner toutes les notes dont la hauteur tonale est inférieure à la note sélectionnée de l'objet sélectionné">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2024-10-01T15:31:39Z">
+        <changelog><![CDATA[# 2024-09-24 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b7c7c5158668d4c8819df25d548714fbacfef2c9/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20toutes%20les%20notes%20dont%20la%20hauteur%20tonale%20est%20inf%C3%A9rieure%20%C3%A0%20la%20note%20s%C3%A9lectionn%C3%A9e%20de%20l'objet%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner toutes les notes dont la hauteur tonale est supérieure à la note sélectionnée de l'objet sélectionné.lua" type="script" desc="Sélectionner toutes les notes dont la hauteur tonale est supérieure à la note sélectionnée de l'objet sélectionné">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2024-10-01T15:31:39Z">
+        <changelog><![CDATA[# 2024-09-24 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b7c7c5158668d4c8819df25d548714fbacfef2c9/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20toutes%20les%20notes%20dont%20la%20hauteur%20tonale%20est%20sup%C3%A9rieure%20%C3%A0%20la%20note%20s%C3%A9lectionn%C3%A9e%20de%20l'objet%20s%C3%A9lectionn%C3%A9.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner toutes les notes et les événements dans la sélection temporelle.lua" type="script" desc="Sélectionner toutes les notes et les événements dans la sélection temporelle">
@@ -1451,6 +1466,12 @@
       <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20toutes%20les%20notes%20et%20les%20%C3%A9v%C3%A9nements%20dans%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner une note sur deux de la même auteure tonale des objets sélectionnés.lua" type="script" desc="Sélectionner une note sur deux de la même auteure tonale des objets sélectionnés">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2024-10-01T15:31:39Z">
+        <changelog><![CDATA[# 2024-09-24 - New script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b7c7c5158668d4c8819df25d548714fbacfef2c9/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20une%20note%20sur%20deux%20de%20la%20m%C3%AAme%20auteure%20tonale%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Éditeur MIDI - Vélocité croissante ou décroissante entre 2 bornes saisies par l'utilisateur.lua" type="script" desc="Vélocité croissante ou décroissante entre 2 bornes saisies par l'utilisateur">
