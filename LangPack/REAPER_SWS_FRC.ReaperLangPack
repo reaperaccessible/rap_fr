@@ -1,5 +1,5 @@
-#NAME: Français V7.29.1 par ReaperAccessible
-;Version: 7.29.1
+#NAME: Français V7.29.2 par ReaperAccessible
+;Version: 7.29.2
 ;Author: ReaperAccessible
 
 [about]
@@ -10063,8 +10063,8 @@ F02292DEDC398A37=Répertoires des plug-ins LV2 (il peut s'agir de plusieurs chem
 20451A71D2935DE3=Ajuster les médias mono de -3 dB supplémentaires
 254542EBFE1FED8E=Post-traitement du rendu
 29982009A22AB713=Fondu entrant:
-31BA7CCBBE5D5619=Supprimer le silence en aval, seuil (crête):
-3D5ECCAA89D4CBAD=Supprimer le silence en amont, seuil (crête):
+31BA7CCBBE5D5619=Redimensionner le silence en aval, seuil (crête):
+3D5ECCAA89D4CBAD=Redimensionner le silence en amont, seuil (crête):
 5C5AA3B6F896FC32=Le tampon se termine par un silence:
 5CA1E00000000000=1.4 1.0
 A2596B858F081DFB=Normaliser à:
@@ -14487,7 +14487,7 @@ FD0DBFE94A64C757=Renommer...\tDouble Clic
 4E2D82320C595F53=Définir le filtre par défaut pour les enveloppes de prise selon le filtre actuel
 5B40C77635302F65=Restaurer les largeurs de colonnes par défaut
 65DFBD0DEC11D7E9=Fichier d'entrée
-6650ACE8FE9BB205=Supprimer les objets sélectionnés\tDel
+6650ACE8FE9BB205=Supprimer les objets sélectionnés\tSuppr
 6F5C63E22C167AAD=Réduire tous les paramètres d'FX
 72077083EF1BFBD4=Afficher les propriétés de la source média
 7509EED0B172F435=Ouvrir dans l'Explorateur de média
@@ -19557,7 +19557,7 @@ FA14F6695C42A6BE=La résolution des crêtes la plus élevée générés dans les
 B92E810D41B634FC=Affiche un bouton de propriétés (qui ouvre la boîte de dialogue Propriétés d'objet) pour tous les objets média. Le bouton s'allumera si l'objet est rééchantillonné.
 C4374BAFE6B178BE=Affiche un bouton de pool lorsqu'un objet a une prise active qui partage des données source MIDI poolées avec d'autres objets média.
 C7A0771EAD80FCC6=Affiche un bouton d'FX éteint lorsque les objets n'ont pas d'FX par prise.
-DFF7B5859424545D=Lorsque les étiquettes sont dessinées à l'intérieur de l'objet média plutôt qu'au-dessus, masquer les boutons des objets média (sauf le bouton de verrouillage) lorsque l'objet média est trop petit.
+DFF7B5859424545D=Lorsque les étiquettes sont dessinées à l'intérieur de l'objet média plutôt qu'au-dessus, masque les boutons des objets média (sauf le bouton de verrouillage) lorsque l'objet média est trop petit.
 F486A9DA400E2436=Les objets média peuvent avoir une poignée de volume avec +0 dB comme étant le sommet ou le centre de l'objet, ou un bouton de volume, ou les deux.
 
 [prefs_mediafades_help]
