@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="ReaperAccessible scripts" commit="401cd8141a36b14f00cf3d14fc37d31b3774ac21">
+  <category name="DrumAccess">
+    <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
+      <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/14ac7dc6c448e0f9ac8d718647ef26de21cfa063/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Close.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T02:17:34Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/81b48e71e66395e28ac9939f18be66d8e07bb258/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Close.lua</source>
+      </version>
+      <version name="1.4" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Close.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones OverHead.lua" type="script" desc="Désactiver les microphones OverHead pour DrumAccess">
+      <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/14ac7dc6c448e0f9ac8d718647ef26de21cfa063/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20OverHead.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T02:17:34Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/81b48e71e66395e28ac9939f18be66d8e07bb258/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20OverHead.lua</source>
+      </version>
+      <version name="1.4" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20OverHead.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Room B1.lua" type="script" desc="Désactiver les microphones Room B1 pour DrumAccess">
+      <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/14ac7dc6c448e0f9ac8d718647ef26de21cfa063/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20B1.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T02:17:34Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/81b48e71e66395e28ac9939f18be66d8e07bb258/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20B1.lua</source>
+      </version>
+      <version name="1.4" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20B1.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Room Mono.lua" type="script" desc="Désactiver les microphones Room Mono pour DrumAccess">
+      <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/14ac7dc6c448e0f9ac8d718647ef26de21cfa063/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20Mono.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T02:17:34Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/81b48e71e66395e28ac9939f18be66d8e07bb258/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20Mono.lua</source>
+      </version>
+      <version name="1.4" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20Mono.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Room ou Room A1.lua" type="script" desc="Désactiver les microphones Room ou Room A1 pour DrumAccess">
+      <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/14ac7dc6c448e0f9ac8d718647ef26de21cfa063/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20ou%20Room%20A1.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:58:05Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/4faba6afeb92b3af6bc2d7a3147f3072b531e80d/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20ou%20Room%20A1.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20ou%20Room%20A1.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - DrumAccess - Rendre les paramètres du kit de batterie disponibles.lua" type="script" desc="Rendre les paramètres du kit de batterie disponibles pour DrumAccess">
+      <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/14ac7dc6c448e0f9ac8d718647ef26de21cfa063/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20Rendre%20les%20param%C3%A8tres%20du%20kit%20de%20batterie%20disponibles.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20Rendre%20les%20param%C3%A8tres%20du%20kit%20de%20batterie%20disponibles.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Explorateur de Média">
+    <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="Aller au marqueur précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/f97ba5b6ee268b241d02004b45f69aa2466fb943/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20pr%C3%A9c%C3%A9dent.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:52:24Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/5c7a4741308110b9f3be1d6e7ed0784a30f9312a/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20pr%C3%A9c%C3%A9dent.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20pr%C3%A9c%C3%A9dent.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20pr%C3%A9c%C3%A9dent.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur suivant.lua" type="script" desc="Aller au marqueur suivant">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20suivant.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20suivant.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Aller%20au%20marqueur%20suivant.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début de la mesure actuelle.lua" type="script" desc="Déplacer le curseur d'édition au début de la mesure actuelle">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début de la prochaine mesure.lua" type="script" desc="Déplace le curseur à la mesure suivante depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20prochaine%20mesure.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20prochaine%20mesure.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20prochaine%20mesure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début du battement actuel ou précédent.lua" type="script" desc="Déplacer le curseur d'édition au début du battement actuel ou précédent">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-02-28T21:20:42Z">
+        <changelog><![CDATA[# 2025-02-27 - Changement de code]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/401cd8141a36b14f00cf3d14fc37d31b3774ac21/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel%20ou%20pr%C3%A9c%C3%A9dent.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur d'édition au début du battement suivant.lua" type="script" desc="Déplacer le curseur d'édition au début du prochain battement">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-02-28T21:20:42Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log
+# 2025-02-27 - Changement de code]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/401cd8141a36b14f00cf3d14fc37d31b3774ac21/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20suivant.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur vers la droite sur une division de la grille.lua" type="script" desc="Déplacer le curseur vers la droite sur une division de la grille">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-02-28T21:20:42Z">
+        <changelog><![CDATA[# 2025-02-27 - New script]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/401cd8141a36b14f00cf3d14fc37d31b3774ac21/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20vers%20la%20droite%20sur%20une%20division%20de%20la%20grille.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Déplacer le curseur vers la gauche sur une division de la grille.lua" type="script" desc="Déplacer le curseur vers la gauche sur une division de la grille">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-02-28T21:20:42Z">
+        <changelog><![CDATA[# 2025-02-27 - New script]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/401cd8141a36b14f00cf3d14fc37d31b3774ac21/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20D%C3%A9placer%20le%20curseur%20vers%20la%20gauche%20sur%20une%20division%20de%20la%20grille.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Lancer et arrêter la lecture de l'aperçu du média en même temps que l'arrangement.lua" type="script" desc="Lancer et arrêter la lecture de l'aperçu du média en même temps que l'arrangement">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Lancer%20et%20arr%C3%AAter%20la%20lecture%20de%20l'aper%C3%A7u%20du%20m%C3%A9dia%20en%20m%C3%AAme%20temps%20que%20l'arrangement.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Lancer%20et%20arr%C3%AAter%20la%20lecture%20de%20l'aper%C3%A7u%20du%20m%C3%A9dia%20en%20m%C3%AAme%20temps%20que%20l'arrangement.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Lancer et arrêter la lecture depuis l'explorateur de média.lua" type="script" desc="Lancer et arrêter la lecture depuis l'explorateur de média">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Lancer%20et%20arr%C3%AAter%20la%20lecture%20depuis%20l'explorateur%20de%20m%C3%A9dia.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20Lancer%20et%20arr%C3%AAter%20la%20lecture%20depuis%20l'explorateur%20de%20m%C3%A9dia.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Réinitialiser le volume de l'explorateur de média à 0 DB.lua" type="script" desc="Réinitialiser le volume de l'explorateur de média à 0 DB">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20R%C3%A9initialiser%20le%20volume%20de%20l'explorateur%20de%20m%C3%A9dia%20%C3%A0%200%20DB.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20R%C3%A9initialiser%20le%20volume%20de%20l'explorateur%20de%20m%C3%A9dia%20%C3%A0%200%20DB.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20R%C3%A9initialiser%20le%20volume%20de%20l'explorateur%20de%20m%C3%A9dia%20%C3%A0%200%20DB.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Explorateur de média - Énoncer la position du curseur d'édition et l'état du transport.lua" type="script" desc="Énoncer la position du curseur d'édition et l'état du transport">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T17:35:00Z">
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20%C3%89noncer%20la%20position%20du%20curseur%20d'%C3%A9dition%20et%20l'%C3%A9tat%20du%20transport.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="mediaexplorer">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Explorateur%20de%20M%C3%A9dia/ReaperAccessible%20-%20Explorateur%20de%20m%C3%A9dia%20-%20%C3%89noncer%20la%20position%20du%20curseur%20d'%C3%A9dition%20et%20l'%C3%A9tat%20du%20transport.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="extensions">
+    <reapack name="js_api_reascript.ext" type="extension" desc="API complémentaire pour ReaScript">
+      <metadata>
+        <link rel="website">https://github.com/leejul/rap_fr/raw/main/dlls</link>
+      </metadata>
+      <version name="1.0" author="ReaperAccessible" time="2024-04-02T17:01:15Z">
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/leejul/rap_fr/raw/main/dlls/reaper_js_ReaScriptAPI64.dll</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Fonctions">
+    <reapack name="Arc_Function_lua.lua" type="script" desc="Arc_Function_lua">
+      <version name="3.0.3" author="Archie" time="2024-04-01T17:35:00Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/d57c4bd859e6459887dffb41aae539d6a133b201/Fonctions/Arc_Function_lua.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="LangPack">
+    <reapack name="REAPER_SWS_FRC.ReaperLangPack" type="langpack" desc="Français V7.33.1 par ReaperAccessible">
+      <version name="7.05" author="Lee JULIEN et Pierre-Marie CURT" time="2024-04-02T07:43:02Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/4f11ad4b4f522f4b2670635a9b51f163695d61c3/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.14" author="Lee JULIEN et Pierre-Marie CURT" time="2024-04-15T17:29:30Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/453be16ebfd323711983ec0f4643b417a5a35bbd/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.14.1" author="Lee JULIEN et Pierre-Marie CURT" time="2024-04-15T18:43:49Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/4090edcde910c81817c6574cd204fbcbdfb69af8/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.15" author="Lee JULIEN et Pierre-Marie CURT" time="2024-04-15T18:48:03Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/7113afd593f670e3e4e1f20e36b129bcf76ea269/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.15.1" author="Lee JULIEN et Pierre-Marie CURT" time="2024-04-18T15:40:31Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.15.2" author="Lee JULIEN et Pierre-Marie CURT" time="2024-04-26T14:24:48Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/19b66f16ad0a8790b92e3a621c3622ca4c97a3fe/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.16.1" author="Lee JULIEN et Pierre-Marie CURT" time="2024-05-22T22:25:29Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/62cef6f94bfb8a32af9f952a6e717185f2e8bb48/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.16.2" author="Lee JULIEN et Pierre-Marie CURT" time="2024-06-06T15:40:38Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/dbd5855826338ac402c28ffc716c40fabac73df7/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.17.1" author="Lee JULIEN et Pierre-Marie CURT" time="2024-07-02T14:08:11Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/bf0c9f42cd1af2c26909d08643ae1ab71f9d45f5/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.19.1" author="Lee JULIEN et Pierre-Marie CURT" time="2024-07-29T12:36:01Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/8b35716e572be8cff7e67994bb2da82878481133/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.19.2" author="Lee JULIEN et Pierre-Marie CURT" time="2024-07-29T12:44:31Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/5f9e227ccd69d431b4a1c5c2b5f2e2b80ad964bb/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.20.1" author="Lee JULIEN et Pierre-Marie CURT" time="2024-08-15T12:58:25Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/5d779ef5120a2a7abebcd576a70e2c908dcbf5a7/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.20.2" author="Lee JULIEN et Pierre-Marie CURT" time="2024-08-15T13:07:47Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/632364fae6a0172331e5ce27bab6492497dc92fb/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.22.2" author="ReaperAccessible" time="2024-09-04T12:42:13Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/9793ae4a59564e2347d2eab4cf49ecc0d8c1e3ec/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.24.3" author="ReaperAccessible" time="2024-10-12T12:57:19Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/10ca8fe3a8845dcc2102877d8c9b40469694731e/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.29.1" author="ReaperAccessible" time="2025-01-06T14:58:28Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/80555eb2bc1f039d1a08ef28a9e8edc97124f510/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.29.2" author="ReaperAccessible" time="2025-01-06T19:06:19Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/7ee2928b3a8b97bfedcf9d79a19da045a73da23a/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.33.1" author="ReaperAccessible" time="2025-02-13T12:44:35Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/6649758290e117d621d865e9385d8de809458307/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Principal">
+    <reapack name="ReaperAccessible - Principal - Adapter la longueur de l'objet d'automatisation selon la sélection temporelle.lua" type="script" desc="Adapter la longueur de l'objet d'automatisation selon la sélection temporelle">
+      <version name="1.1" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Adapter%20la%20longueur%20de%20l'objet%20d'automatisation%20selon%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Afficher le menu des actions d'automatisation.lua" type="script" desc="Afficher le menu des actions d'automatisation">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20des%20actions%20d'automatisation.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T16:08:07Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/548322defdd4970027e70ec5a203f0f272c39aef/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20des%20actions%20d'automatisation.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T16:37:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6d43134ce8026f26363802697a07b8e802c57d3f/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20des%20actions%20d'automatisation.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T16:53:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/94b186e0a62822e4c6807b430069f6a8bc28e2c8/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20des%20actions%20d'automatisation.lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T17:09:38Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c56b156f40f6194696a502883b461b401fc593bc/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20des%20actions%20d'automatisation.lua</source>
+      </version>
+      <version name="1.5" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T17:19:38Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/e866395fea7592dd9fe2a4570e0dfab4e58487ac/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20des%20actions%20d'automatisation.lua</source>
+      </version>
+      <version name="1.6" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20des%20actions%20d'automatisation.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Afficher le menu du RS5K.lua" type="script" desc="Afficher le menu du RS5K">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20du%20RS5K.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-09-04T18:25:04Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b4d575b99178216e532b48d338eaf877cb3e1824/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20du%20RS5K.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Afficher%20le%20menu%20du%20RS5K.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Ajouter une chaine d'effets à la piste sélectionnée.lua" type="script" desc="Ajouter une chaine d'FX à la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ajouter%20une%20chaine%20d'effets%20%C3%A0%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Ajouter%20une%20chaine%20d'effets%20%C3%A0%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Le code est maintenant commenté.]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ajouter%20une%20chaine%20d'effets%20%C3%A0%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-19T19:22:28Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/d80cbfc78247483597c314d161c54e9f80ea2e0d/Principal/ReaperAccessible%20-%20Principal%20-%20Ajouter%20une%20chaine%20d'effets%20%C3%A0%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.5" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-20T16:52:08Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/16070dd0c8ea2b8eac2e9add0937fdc1c32ba728/Principal/ReaperAccessible%20-%20Principal%20-%20Ajouter%20une%20chaine%20d'effets%20%C3%A0%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Ajuster la vitesse de lecture des objets sélectionnés.lua" type="script" desc="Ajuste la vitesse de lecture des objet sélectionnés">
+      <version name="1.1" author="Lo-lo for ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20Ajuster%20la%20vitesse%20de%20lecture%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+      <version name="1.2" author="Lo-lo for ReaperAccessible." time="2024-06-07T00:19:46Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6df257011f843f9cc356528cc2023c6dad308e5e/Principal/ReaperAccessible%20-%20Principal%20-%20Ajuster%20la%20vitesse%20de%20lecture%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+      <version name="1.3" author="Lo-lo for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ajuster%20la%20vitesse%20de%20lecture%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Aller au dernier objet de la piste sélectionnée.lua" type="script" desc="Aller au dernier objet de la piste sélectionnée">
+      <version name="1.0" author="Lo-lo for ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20au%20dernier%20objet%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Lo-lo for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20au%20dernier%20objet%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Aller au premier objet de la piste sélectionnée.lua" type="script" desc="Aller au premier objet de la piste sélectionnée">
+      <version name="1.0" author="Lo-lo for ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20au%20premier%20objet%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Lo-lo for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20au%20premier%20objet%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Aller à la dernière piste du dossier.lua" type="script" desc="Aller à la dernière piste du dossier">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20%C3%A0%20la%20derni%C3%A8re%20piste%20du%20dossier.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20%C3%A0%20la%20derni%C3%A8re%20piste%20du%20dossier.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20%C3%A0%20la%20derni%C3%A8re%20piste%20du%20dossier.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Aller à la première piste du dossier.lua" type="script" desc="Aller à la première piste du dossier">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20%C3%A0%20la%20premi%C3%A8re%20piste%20du%20dossier.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20%C3%A0%20la%20premi%C3%A8re%20piste%20du%20dossier.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Aller%20%C3%A0%20la%20premi%C3%A8re%20piste%20du%20dossier.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Basculer le contournement de l'FX sélectionné sur la piste sélectionnée.lua" type="script" desc="Basculer le contournement de l'FX sélectionné sur la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer%20le%20contournement%20de%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer%20le%20contournement%20de%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer%20le%20contournement%20de%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Basculer le contournement des FX de la piste sélectionnée, sauf les instruments.lua" type="script" desc="Basculer le contournement des FX de la piste sélectionnée, sauf les instruments">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer%20le%20contournement%20des%20FX%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e,%20sauf%20les%20instruments.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer%20le%20contournement%20des%20FX%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e,%20sauf%20les%20instruments.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Basculer le contournement des FX de toutes les pistes, sauf les instruments.lua" type="script" desc="Basculer le contournement des FX de toutes les pistes, sauf les instruments">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer%20le%20contournement%20des%20FX%20de%20toutes%20les%20pistes,%20sauf%20les%20instruments.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer%20le%20contournement%20des%20FX%20de%20toutes%20les%20pistes,%20sauf%20les%20instruments.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Basculer, boucler la source des objets sélectionnés.lua" type="script" desc="Basculer, boucler la source des objets sélectionnés">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer,%20boucler%20la%20source%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer,%20boucler%20la%20source%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Basculer, lier les points de boucles à la sélection temporelle.lua" type="script" desc="Basculer, lier les points de boucle et les points de sélection temporelle">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer,%20lier%20les%20points%20de%20boucles%20%C3%A0%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Basculer,%20lier%20les%20points%20de%20boucles%20%C3%A0%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Convertir les points d'enveloppe sélectionnés en Objet d'automatisation.lua" type="script" desc="Convertir les points d'enveloppe sélectionnés en Objet d'automatisation">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Convertir%20les%20points%20d'enveloppe%20s%C3%A9lectionn%C3%A9s%20en%20Objet%20d'automatisation.lua</source>
+      </version>
+      <version name="1.2" author="Erwin Goossen pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Le code est maintenant commenté.]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Convertir%20les%20points%20d'enveloppe%20s%C3%A9lectionn%C3%A9s%20en%20Objet%20d'automatisation.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Créer un dossier à partir des pistes sélectionnées, et renommer le dossier.lua" type="script" desc="Créer un dossier à partir des pistes sélectionnées, et renommer le dossier">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Cr%C3%A9er%20un%20dossier%20%C3%A0%20partir%20des%20pistes%20s%C3%A9lectionn%C3%A9es,%20et%20renommer%20le%20dossier.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Cr%C3%A9er%20un%20dossier%20%C3%A0%20partir%20des%20pistes%20s%C3%A9lectionn%C3%A9es,%20et%20renommer%20le%20dossier.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Cr%C3%A9er%20un%20dossier%20%C3%A0%20partir%20des%20pistes%20s%C3%A9lectionn%C3%A9es,%20et%20renommer%20le%20dossier.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Dernières étapes de paramètre touchées dans le presse-papiers.lua" type="script" desc="Dernières étapes de paramètre touchées dans le presse-papiers">
+      <version name="1.1" author="&quot;Ludovic SANSONE pour ReaperAccessible&quot;" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Derni%C3%A8res%20%C3%A9tapes%20de%20param%C3%A8tre%20touch%C3%A9es%20dans%20le%20presse-papiers.lua</source>
+      </version>
+      <version name="1.2" author="&quot;Ludovic SANSONE pour ReaperAccessible&quot;" time="2024-09-22T14:34:54Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log
+# 2024-09-22 - Traduction en français des messages
+# 2024-09-22 - Le code est maintenant commenté]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/217b1e9d4f49369ed55193bce3e675f89241037d/Principal/ReaperAccessible%20-%20Principal%20-%20Derni%C3%A8res%20%C3%A9tapes%20de%20param%C3%A8tre%20touch%C3%A9es%20dans%20le%20presse-papiers.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déclancher le préréglage précédent de l'FX sélectionné, sur la piste sélectionnée.lua" type="script" desc="Déclancher le préréglage précédent de l'FX sélectionné, sur la piste sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9clancher%20le%20pr%C3%A9r%C3%A9glage%20pr%C3%A9c%C3%A9dent%20de%20l'FX%20s%C3%A9lectionn%C3%A9,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9clancher%20le%20pr%C3%A9r%C3%A9glage%20pr%C3%A9c%C3%A9dent%20de%20l'FX%20s%C3%A9lectionn%C3%A9,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déclancher le préréglage suivant de l'FX sélectionné, sur la piste sélectionnée.lua" type="script" desc="Déclancher le préréglage suivant de l'effet sélectionné, sur la piste sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9clancher%20le%20pr%C3%A9r%C3%A9glage%20suivant%20de%20l'FX%20s%C3%A9lectionn%C3%A9,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9clancher%20le%20pr%C3%A9r%C3%A9glage%20suivant%20de%20l'FX%20s%C3%A9lectionn%C3%A9,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir la grille de division via un menu.lua" type="script" desc="Définir la grille de division via un menu">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:19:46Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6df257011f843f9cc356528cc2023c6dad308e5e/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:27:55Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/306f69d5b520441584cdbb9a6b2da333820b16a7/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir la grille de division à la valeur inférieure.lua" type="script" desc="Définir la grille de division à la valeur inférieure">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20inf%C3%A9rieure.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:19:46Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6df257011f843f9cc356528cc2023c6dad308e5e/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20inf%C3%A9rieure.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:27:55Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/306f69d5b520441584cdbb9a6b2da333820b16a7/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20inf%C3%A9rieure.lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20inf%C3%A9rieure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir la grille de division à la valeur suppérieure.lua" type="script" desc="Définir la grille de division à la valeur suppérieure">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20supp%C3%A9rieure.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:19:46Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6df257011f843f9cc356528cc2023c6dad308e5e/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20supp%C3%A9rieure.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:27:55Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/306f69d5b520441584cdbb9a6b2da333820b16a7/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20supp%C3%A9rieure.lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20la%20grille%20de%20division%20%C3%A0%20la%20valeur%20supp%C3%A9rieure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de début de sélection autopunch.lua" type="script" desc="Définir le point de début de sélection autopunch">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de début de sélection d'Objet à supprimer, ripple toute les pistes.lua" type="script" desc="Définir le point de début de sélection d'Objet à supprimer, ripple toute les pistes">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20d'Objet%20%C3%A0%20supprimer,%20ripple%20toute%20les%20pistes.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20d'Objet%20%C3%A0%20supprimer,%20ripple%20toute%20les%20pistes.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20d'Objet%20%C3%A0%20supprimer,%20ripple%20toute%20les%20pistes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de début de sélection de la zone à supprimer des pistes sélectionnées.lua" type="script" desc="Définir le point de début de sélection de la zone à supprimer des pistes sélectionnées">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20de%20la%20zone%20%C3%A0%20supprimer%20des%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20de%20la%20zone%20%C3%A0%20supprimer%20des%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20d%C3%A9but%20de%20s%C3%A9lection%20de%20la%20zone%20%C3%A0%20supprimer%20des%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de fin de sélection autopunch.lua" type="script" desc="Définir le point de fin de sélection autopunch">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de fin de sélection d'Objet à supprimer, ripple toute les pistes.lua" type="script" desc="Définir le point de fin de sélection d'Objet à supprimer, ripple toute les pistes">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20d'Objet%20%C3%A0%20supprimer,%20ripple%20toute%20les%20pistes.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20d'Objet%20%C3%A0%20supprimer,%20ripple%20toute%20les%20pistes.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20d'Objet%20%C3%A0%20supprimer,%20ripple%20toute%20les%20pistes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Définir le point de fin de sélection de la zone à supprimer des pistes sélectionnées.lua" type="script" desc="Définir le point de fin de sélection de la zone à supprimer des pistes sélectionnées">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20de%20la%20zone%20%C3%A0%20supprimer%20des%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20de%20la%20zone%20%C3%A0%20supprimer%20des%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9finir%20le%20point%20de%20fin%20de%20s%C3%A9lection%20de%20la%20zone%20%C3%A0%20supprimer%20des%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer l'FX sélectionné d'une position vers le bas.lua" type="script" desc="Déplacer l'FX sélectionné d'une position vers le bas">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20l'FX%20s%C3%A9lectionn%C3%A9%20d'une%20position%20vers%20le%20bas.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20l'FX%20s%C3%A9lectionn%C3%A9%20d'une%20position%20vers%20le%20bas.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer l'FX sélectionné d'une position vers le haut.lua" type="script" desc="Déplacer l'FX sélectionné d'une position vers le haut">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20l'FX%20s%C3%A9lectionn%C3%A9%20d'une%20position%20vers%20le%20haut.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20l'FX%20s%C3%A9lectionn%C3%A9%20d'une%20position%20vers%20le%20haut.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20l'FX%20s%C3%A9lectionn%C3%A9%20d'une%20position%20vers%20le%20haut.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer la piste sélectionnée un rang vers le bas (demander pour les dossiers de pistes).lua" type="script" desc="Déplacer la piste sélectionnée un rang vers le bas (demander pour les dossiers de pistes)">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20bas%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20bas%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20bas%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer la piste sélectionnée un rang vers le haut (demander pour les dossiers de pistes).lua" type="script" desc="Déplacer la piste sélectionnée un rang vers le haut (demander pour les dossiers de pistes)">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20haut%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20haut%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20haut%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer le bord droit des Objets d'automatisation sélectionnés à la fin de la sélection temporelle.lua" type="script" desc="Déplacer le bord droit des Objets d'automatisation sélectionnés à la fin de la sélection temporelle">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20bord%20droit%20des%20Objets%20d'automatisation%20s%C3%A9lectionn%C3%A9s%20%C3%A0%20la%20fin%20de%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+      <version name="1.1" author="Erwin Goossen pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20bord%20droit%20des%20Objets%20d'automatisation%20s%C3%A9lectionn%C3%A9s%20%C3%A0%20la%20fin%20de%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20bord%20droit%20des%20Objets%20d'automatisation%20s%C3%A9lectionn%C3%A9s%20%C3%A0%20la%20fin%20de%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer le bord gauche des Objets d'automatisation sélectionnés au début de la sélection temporelle.lua" type="script" desc="Déplacer le bord gauche des Objets d'automatisation sélectionnés au début de la sélection temporelle">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20bord%20gauche%20des%20Objets%20d'automatisation%20s%C3%A9lectionn%C3%A9s%20au%20d%C3%A9but%20de%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20bord%20gauche%20des%20Objets%20d'automatisation%20s%C3%A9lectionn%C3%A9s%20au%20d%C3%A9but%20de%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer le curseur d'édition au début du battement actuel.eel" type="script" desc="Aller au début du temps précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Déplacer le curseur d'édition au début du prochain battement.eel" type="script" desc="Aller au début du temps suivant">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode batterie).lua" type="script" desc="Exporter chaque objet sélectionné vers une instance du RS5K (Mode batterie)">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20batterie).lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20batterie).lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-18T15:40:31Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20batterie).lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T13:32:03Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5174e15e73b0893b295a44ad7d3859faf1a80027/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20batterie).lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20batterie).lua</source>
+      </version>
+      <version name="1.5" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20batterie).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode boucle).lua" type="script" desc="Exporter chaque objet sélectionné vers une instance du RS5K (mode boucle)">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20boucle).lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20boucle).lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-18T15:40:31Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20boucle).lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T13:32:03Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5174e15e73b0893b295a44ad7d3859faf1a80027/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20boucle).lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20boucle).lua</source>
+      </version>
+      <version name="1.5" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20boucle).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode clavier).lua" type="script" desc="Exporter chaque objet sélectionné vers une instance du RS5K (mode clavier)">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20clavier).lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20clavier).lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-18T15:40:31Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20clavier).lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T13:32:03Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5174e15e73b0893b295a44ad7d3859faf1a80027/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20clavier).lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20clavier).lua</source>
+      </version>
+      <version name="1.5" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20clavier).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K, sur la piste sélectionnée (mode Round robin).lua" type="script" desc="Exporter l'objet sélectionné vers une instance du RS5K, sur la piste sélectionnée (mode Round robin)">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-09-04T18:25:04Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b4d575b99178216e532b48d338eaf877cb3e1824/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e%20(mode%20Round%20robin).lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e%20(mode%20Round%20robin).lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e%20(mode%20Round%20robin).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Exporter l'objet sélectionné vers une instance du RS5K, avec le même échantillon sur l'ensemble du clavier.lua" type="script" desc="Exporter l'objet sélectionné vers une instance du RS5K, avec le même échantillon sur l'ensemble du clavier">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20avec%20le%20m%C3%AAme%20%C3%A9chantillon%20sur%20l'ensemble%20du%20clavier.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20avec%20le%20m%C3%AAme%20%C3%A9chantillon%20sur%20l'ensemble%20du%20clavier.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-18T15:40:31Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20avec%20le%20m%C3%AAme%20%C3%A9chantillon%20sur%20l'ensemble%20du%20clavier.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20avec%20le%20m%C3%AAme%20%C3%A9chantillon%20sur%20l'ensemble%20du%20clavier.lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20avec%20le%20m%C3%AAme%20%C3%A9chantillon%20sur%20l'ensemble%20du%20clavier.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Exporter l'objet sélectionné vers une instance du RS5K, comme une source chromatique.lua" type="script" desc="Exporter l'objet sélectionné vers une instance du RS5K, comme une source chromatique">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20comme%20une%20source%20chromatique.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-18T15:40:31Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20comme%20une%20source%20chromatique.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-05-03T13:32:03Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5174e15e73b0893b295a44ad7d3859faf1a80027/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20comme%20une%20source%20chromatique.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20comme%20une%20source%20chromatique.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Fermer le dossier de pistes sélectionné.lua" type="script" desc="Fermer le dossier de pistes sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Fermer%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Fermer%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-18T15:40:31Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/Principal/ReaperAccessible%20-%20Principal%20-%20Fermer%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-26T14:24:48Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/19b66f16ad0a8790b92e3a621c3622ca4c97a3fe/Principal/ReaperAccessible%20-%20Principal%20-%20Fermer%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Fermer%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Fermer tous les dossiers de pistes du projet.lua" type="script" desc="Fermer tous les dossiers de pistes du projet">
+      <version name="1.3" author="Lee JULIEN For Reaper Accessible" time="2024-04-18T15:40:31Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/Principal/ReaperAccessible%20-%20Principal%20-%20Fermer%20tous%20les%20dossiers%20de%20pistes%20du%20projet.lua</source>
+      </version>
+      <version name="1.4" author="Lee JULIEN For ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Fermer%20tous%20les%20dossiers%20de%20pistes%20du%20projet.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Insérer 1 objet d'automatisation d'une mesure pour le dernier paramètre d'FX touché sur la piste sélectionnée.lua" type="script" desc="Insérer 1 objet d'automatisation d'une mesure pour le dernier paramètre d'FX touché sur la piste sélectionnée">
+      <version name="1.2" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# Prend en charge les enveloppes de volume et de panoramiques de la piste]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%201%20objet%20d'automatisation%20d'une%20mesure%20pour%20le%20dernier%20param%C3%A8tre%20d'FX%20touch%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Insérer un espace vide au curseur d'édition via une boîte de dialogue (respectant le mode ripple).lua" type="script" desc="Insérer un espace vide au curseur d'édition via une boîte de dialogue (respectant le mode ripple)">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20au%20curseur%20d'%C3%A9dition%20via%20une%20bo%C3%AEte%20de%20dialogue%20(respectant%20le%20mode%20ripple).lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20au%20curseur%20d'%C3%A9dition%20via%20une%20bo%C3%AEte%20de%20dialogue%20(respectant%20le%20mode%20ripple).lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Insérer un espace vide selon la sélection temporelle (respectant le mode ripple.lua" type="script" desc="Insérer un espace vide selon la sélection temporelle (respectant le mode ripple">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20selon%20la%20s%C3%A9lection%20temporelle%20(respectant%20le%20mode%20ripple.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20selon%20la%20s%C3%A9lection%20temporelle%20(respectant%20le%20mode%20ripple.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Insérer un Objet vide pour chaque piste sélectionnée selon le mode ripple.lua" type="script" desc="Insérer un Objet vide pour chaque piste sélectionnée selon le mode ripple">
+      <version name="1.0" author="Lee Julien pour ReaperAccessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20Objet%20vide%20pour%20chaque%20piste%20s%C3%A9lectionn%C3%A9e%20selon%20le%20mode%20ripple.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20Objet%20vide%20pour%20chaque%20piste%20s%C3%A9lectionn%C3%A9e%20selon%20le%20mode%20ripple.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Lancer un enregistrement en fonction du mode Ripple.lua" type="script" desc="Lancer un enregistrement en fonction du mode Ripple">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Lancer%20un%20enregistrement%20en%20fonction%20du%20mode%20Ripple.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Lancer%20un%20enregistrement%20en%20fonction%20du%20mode%20Ripple.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Ouvrir le dossier de pistes sélectionné.lua" type="script" desc="Ouvrir le dossier de piste sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-18T15:40:31Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20le%20dossier%20de%20pistes%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Ouvrir le menu des répertoires.lua" type="script" desc="Ouvrir le menu des répertoires">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20le%20menu%20des%20r%C3%A9pertoires.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20le%20menu%20des%20r%C3%A9pertoires.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20le%20menu%20des%20r%C3%A9pertoires.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Ouvrir tous les dossiers de pistes du projet.lua" type="script" desc="Ouvrir tous les dossiers de pistes du projet">
+      <version name="1.2" author="Lee JULIEN For Reaper Accessible" time="2024-04-18T15:40:31Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0688ae81cffb891332e8baef14138cee883c6349/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20tous%20les%20dossiers%20de%20pistes%20du%20projet.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN For ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20tous%20les%20dossiers%20de%20pistes%20du%20projet.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Saisir le volume de toute les pistes sélectionnées.lua" type="script" desc="Saisir le volume de toute les pistes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Saisir%20le%20volume%20de%20toute%20les%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Saisir%20le%20volume%20de%20toute%20les%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessilbe" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Saisir%20le%20volume%20de%20toute%20les%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN pour ReaperAccessible" time="2025-02-13T12:44:35Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log
+# 2025-02-13 - Ajout de plusieurs fonction]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6649758290e117d621d865e9385d8de809458307/Principal/ReaperAccessible%20-%20Principal%20-%20Saisir%20le%20volume%20de%20toute%20les%20pistes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Scinder les Objets d'automatisation sélectionnés aux marqueurs.lua" type="script" desc="Scinder les Objets d'automatisation sélectionnés aux marqueurs">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Scinder%20les%20Objets%20d'automatisation%20s%C3%A9lectionn%C3%A9s%20aux%20marqueurs.lua</source>
+      </version>
+      <version name="1.1" author="Erwin Goossen pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Scinder%20les%20Objets%20d'automatisation%20s%C3%A9lectionn%C3%A9s%20aux%20marqueurs.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Supprimer l'FX sélectionné sur la piste sélectionnée.lua" type="script" desc="Supprimer l'fx sélectionné sur la piste sélectionné">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Supprimer les point de sélection autopunch.lua" type="script" desc="Supprimer les point de sélection autopunch">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20les%20point%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20les%20point%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20les%20point%20de%20s%C3%A9lection%20autopunch.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Supprimer les scripts non existants de la liste d'actions.lua" type="script" desc="Supprimer les scripts non existants de la liste d'actions">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20les%20scripts%20non%20existants%20de%20la%20liste%20d'actions.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Supprimer%20les%20scripts%20non%20existants%20de%20la%20liste%20d'actions.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner l'FX précédent de la piste sélectionnée.lua" type="script" desc="Sélectionner l'FX précédent de la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20l'FX%20pr%C3%A9c%C3%A9dent%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20l'FX%20pr%C3%A9c%C3%A9dent%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20l'FX%20pr%C3%A9c%C3%A9dent%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner l'FX suivant de la piste sélectionnée.lua" type="script" desc="Sélectionner l'FX suivant de la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20l'FX%20suivant%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20l'FX%20suivant%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20l'FX%20suivant%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner tous les Objets d'automatisation de la piste sélectionnée.lua" type="script" desc="Sélectionner tous les objets d'automatisation de la piste sélectionnée">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20tous%20les%20Objets%20d'automatisation%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20tous%20les%20Objets%20d'automatisation%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner tous les Objets d'automatisation de toutes les pistes.lua" type="script" desc="Sélectionner tous les Objets d'automatisation de toutes les pistes">
+      <version name="1.0" author="Erwin Goossen (erwin@navelpluisje.nl) pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20tous%20les%20Objets%20d'automatisation%20de%20toutes%20les%20pistes.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20tous%20les%20Objets%20d'automatisation%20de%20toutes%20les%20pistes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner un objet à partir de son numéro.lua" type="script" desc="S�lectionner un objet � partir de son num�ro">
+      <version name="1.0" author="Lo-lo pour ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20un%20objet%20%C3%A0%20partir%20de%20son%20num%C3%A9ro.lua</source>
+      </version>
+      <version name="1.1" author="Lo-lo pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20un%20objet%20%C3%A0%20partir%20de%20son%20num%C3%A9ro.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Sélectionner une piste à partir de son numéro ou de son nom.lua" type="script" desc="Sélectionner une piste à partir de son numéro ou de son nom">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-12T01:46:33Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/45dcd7538fd475b2745cb16e463ee7cb23fbd6c2/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE et Lee JULIEN pour Reaper Accessible" time="2024-04-12T16:44:30Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/ea22832c83e2468391c8e9b02e7ff466e56fc5a0/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE et Lee JULIEN pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
+      </version>
+      <version name="1.5" author="Ludovic SANSONE et Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20une%20piste%20%C3%A0%20partir%20de%20son%20num%C3%A9ro%20ou%20de%20son%20nom.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Tutoriels et Démos.lua" type="script" desc="Tutoriels et Démos">
+      <version name="1.0" author="Lee JULIEN For Reaper Accessible" time="2024-04-11T21:13:18Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/66fb489ee579a63ad3080d75851bbbbd878a7edf/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN For Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN For Reaper Accessible" time="2024-04-26T14:24:48Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/19b66f16ad0a8790b92e3a621c3622ca4c97a3fe/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN For Reaper Accessible" time="2024-06-06T15:40:38Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/dbd5855826338ac402c28ffc716c40fabac73df7/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
+      </version>
+      <version name="1.4" author="Lee JULIEN For Reaper Accessible" time="2024-06-06T18:36:19Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/1b2cfd15dd587e912ca1910115850e201525e50b/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
+      </version>
+      <version name="1.5" author="Lee JULIEN For ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
+      </version>
+      <version name="1.6" author="Lee JULIEN For ReaperAccessible" time="2024-09-18T15:26:32Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c6513f71c7c7563b7590d6b7f9c3cf6c8d7df685/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
+      </version>
+      <version name="1.7" author="Lee JULIEN For ReaperAccessible" time="2024-09-18T15:43:17Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/392983297a8b131dc96c3e880eb47022e835f3b6/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
+      </version>
+      <version name="1.8" author="Lee JULIEN For ReaperAccessible" time="2024-09-18T16:00:20Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log
+# 2024-09-18 - Ajout de 3 kits DrumAccess]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b15b8936c8f7331bc36bb2eda9d61713bb68033f/Principal/ReaperAccessible%20-%20Principal%20-%20Tutoriels%20et%20D%C3%A9mos.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer la base temporelle du projet en cours.lua" type="script" desc="Énoncer la base temporelle du projet en cours">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20base%20temporelle%20du%20projet%20en%20cours.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20base%20temporelle%20du%20projet%20en%20cours.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer la grille de division courante.lua" type="script" desc="Énoncer la grille de division courante">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:19:46Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/6df257011f843f9cc356528cc2023c6dad308e5e/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour Reaper Accessible" time="2024-06-07T00:27:55Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/306f69d5b520441584cdbb9a6b2da333820b16a7/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer la longueur des objets sélectionnés.lua" type="script" desc="Énoncer la longueur des objets sélectionnés">
+      <version name="1.0" author="&quot;Ludovic SANSONE pour Reaper Accessible&quot;" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20longueur%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+      <version name="1.1" author="Chris Goodwin, taking from a script by Pete Torpey" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20longueur%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+      <version name="1.2" author="Chris Goodwin" time="2024-04-19T14:25:18Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20longueur%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+      <version name="1.3" author="Chris Goodwin pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-17 - Le code est maintenant commenté]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20la%20longueur%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le nom de l'FX sélectionné sur la piste sélectionnée.lua" type="script" desc="Énoncer le nom de l'FX sélectionné sur la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20de%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20de%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20de%20l'FX%20s%C3%A9lectionn%C3%A9%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le nom de la piste sélectionnée.lua" type="script" desc="Énoncer le nom de la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le nom des envoies et retours de la piste sélectionnée.lua" type="script" desc="Énoncer le nom des envoies et retours de la piste sélectionnée">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-09-12T18:56:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/c2bb57978f2a2adc6b1af52eee69efc640eb02a2/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20des%20envoies%20et%20retours%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20nom%20des%20envoies%20et%20retours%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le numéro et le nom de l'objet sélectionné.lua" type="script" desc="Énoncer le numéro et le nom de l'objet sélectionné">
+      <version name="1.0" author="Lo-lo for ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20num%C3%A9ro%20et%20le%20nom%20de%20l'objet%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+      <version name="1.1" author="Lo-lo for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20num%C3%A9ro%20et%20le%20nom%20de%20l'objet%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le volume de la piste sélectionnée.lua" type="script" desc="Énonce le volume de la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-16T01:02:09Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible." time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN pour ReaperAccessible." time="2024-09-04T15:12:05Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/eed053318d4d1f57898aaf9ab13c1e5c11bb31c5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.4" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Énoncer le volume du Master.lua" type="script" desc="Énoncer le volume du Master">
+      <version name="1.0" author="Lee JULIEN for Reaper Accessible" time="2024-04-22T12:58:51Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20du%20Master.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-04T15:12:05Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/eed053318d4d1f57898aaf9ab13c1e5c11bb31c5/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20du%20Master.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20du%20Master.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Éditeur MIDI">
+    <reapack name="ReaperAccessible - Éditeur MIDI - Ajouter une note entre les 2 notes sélectionnées.lua" type="script" desc="Ajouter une note entre les 2 notes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Ajouter%20une%20note%20entre%20les%202%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-16T01:02:09Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b515c9c996e39d4f293654c5aa247edf7a1f2f37/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Ajouter%20une%20note%20entre%20les%202%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Ajouter%20une%20note%20entre%20les%202%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la grille de division via un menu.lua" type="script" desc="Définir la grille de division via un menu">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20grille%20de%20division%20via%20un%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur la moitié.lua" type="script" desc="Définie la longueur des notes sélectionnées sur la moitié">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20la%20moiti%C3%A9.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20la%20moiti%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur le double.lua" type="script" desc="Définir la longueur de la note sur le double">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20le%20double.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20le%20double.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de blanche.lua" type="script" desc="Définir la longueur de la note sur un triolet de blanche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20blanche.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20blanche.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20blanche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de croche.lua" type="script" desc="Définir la longueur de la note sur un triolet de croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20croche.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20croche.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de double croche.lua" type="script" desc="Définir la longueur de la note sur un triolet de double croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20double%20croche.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20double%20croche.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20double%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de noire.lua" type="script" desc="Définir la longueur de la note sur un triolet de noire">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20noire.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20noire.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20noire.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur un triolet de triple croche.lua" type="script" desc="Définir la longueur de la note sur un triolet de triple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20triple%20croche.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20triple%20croche.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20un%20triolet%20de%20triple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une blanche.lua" type="script" desc="Définir la longueur de la note sur une blanche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20blanche.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20blanche.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20blanche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une croche.lua" type="script" desc="Définir la longueur de la note sur une croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20croche.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20croche.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une double croche.lua" type="script" desc="Définir la longueur de la note sur une double croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20double%20croche.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20double%20croche.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20double%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une noire.lua" type="script" desc="Définir la longueur de la note sur une noire">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20noire.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20noire.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20noire.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une quadruple croche.lua" type="script" desc="Définir la longueur de la note sur une quadruple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20quadruple%20croche.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20quadruple%20croche.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20quadruple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une quintuple croche.lua" type="script" desc="Définir la longueur de la note sur une quintuple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20quintuple%20croche.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20quintuple%20croche.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20quintuple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une ronde.lua" type="script" desc="Définir la longueur de la note sur une ronde">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20ronde.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20ronde.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20ronde.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une triple croche.lua" type="script" desc="Définir la longueur de la note sur une triple croche">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20triple%20croche.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20triple%20croche.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20triple%20croche.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur des notes sélectionnées via un menu.lua" type="script" desc="Définir la longueur des notes sélectionnées via un menu">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20des%20notes%20s%C3%A9lectionn%C3%A9es%20via%20un%20menu.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20des%20notes%20s%C3%A9lectionn%C3%A9es%20via%20un%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir la vélocité des notes sélecttionnées.lua" type="script" desc="Définir la vélocité des notes sélecttionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20v%C3%A9locit%C3%A9%20des%20notes%20s%C3%A9lecttionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20v%C3%A9locit%C3%A9%20des%20notes%20s%C3%A9lecttionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20v%C3%A9locit%C3%A9%20des%20notes%20s%C3%A9lecttionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Définir une vélocité aléatoire pour les notes sélectionnées, entre 2 bornes saisies par l'utilisateur.lua" type="script" desc="Définir une vélocité aléatoire pour les notes sélectionnées, entre 2 bornes saisies par l'utilisateur">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20une%20v%C3%A9locit%C3%A9%20al%C3%A9atoire%20pour%20les%20notes%20s%C3%A9lectionn%C3%A9es,%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20une%20v%C3%A9locit%C3%A9%20al%C3%A9atoire%20pour%20les%20notes%20s%C3%A9lectionn%C3%A9es,%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20une%20v%C3%A9locit%C3%A9%20al%C3%A9atoire%20pour%20les%20notes%20s%C3%A9lectionn%C3%A9es,%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début de la mesure actuelle.lua" type="script" desc="Déplacer le curseur d'édition au début de la mesure actuelle">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début de la prochaine mesure.lua" type="script" desc="Déplacer le curseur d'édition au début de la prochaine mesure">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20prochaine%20mesure.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20prochaine%20mesure.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20prochaine%20mesure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début du battement actuel.eel" type="script" desc="Aller au début du battement précédent">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début du prochain battement.eel" type="script" desc="Aller au début du battement suivant">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Humaniser la vélocité des notes sélectionnées.lua" type="script" desc="Humaniser la vélocité des notes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Humaniser%20la%20v%C3%A9locit%C3%A9%20des%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Humaniser%20la%20v%C3%A9locit%C3%A9%20des%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Humaniser%20la%20v%C3%A9locit%C3%A9%20des%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Outil de suppression de notes MIDI basé sur la vélocité.lua" type="script" desc="Outil de suppression de notes MIDI basé sur la vélocité">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2024-10-01T15:31:39Z">
+        <changelog><![CDATA[# 2024-09-24 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b7c7c5158668d4c8819df25d548714fbacfef2c9/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Outil%20de%20suppression%20de%20notes%20MIDI%20bas%C3%A9%20sur%20la%20v%C3%A9locit%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Scinder les notes sélectionnées en parties égales.lua" type="script" desc="Scinder les notes sélectionnées en parties égales">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Scinder%20les%20notes%20s%C3%A9lectionn%C3%A9es%20en%20parties%20%C3%A9gales.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Scinder%20les%20notes%20s%C3%A9lectionn%C3%A9es%20en%20parties%20%C3%A9gales.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner tous les événements MIDI CC spécifiés par l'utilisateur des objets sélectionnés.lua" type="script" desc="Sélectionner tous les événements MIDI CC spécifiés par l'utilisateur des objets sélectionnés">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2024-10-01T15:31:39Z">
+        <changelog><![CDATA[# 2024-09-24 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b7c7c5158668d4c8819df25d548714fbacfef2c9/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20tous%20les%20%C3%A9v%C3%A9nements%20MIDI%20CC%20sp%C3%A9cifi%C3%A9s%20par%20l'utilisateur%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner toutes les notes dont la hauteur tonale est inférieure à la note sélectionnée de l'objet sélectionné.lua" type="script" desc="Sélectionner toutes les notes dont la hauteur tonale est inférieure à la note sélectionnée de l'objet sélectionné">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2024-10-01T15:31:39Z">
+        <changelog><![CDATA[# 2024-09-24 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b7c7c5158668d4c8819df25d548714fbacfef2c9/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20toutes%20les%20notes%20dont%20la%20hauteur%20tonale%20est%20inf%C3%A9rieure%20%C3%A0%20la%20note%20s%C3%A9lectionn%C3%A9e%20de%20l'objet%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner toutes les notes dont la hauteur tonale est supérieure à la note sélectionnée de l'objet sélectionné.lua" type="script" desc="Sélectionner toutes les notes dont la hauteur tonale est supérieure à la note sélectionnée de l'objet sélectionné">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2024-10-01T15:31:39Z">
+        <changelog><![CDATA[# 2024-09-24 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b7c7c5158668d4c8819df25d548714fbacfef2c9/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20toutes%20les%20notes%20dont%20la%20hauteur%20tonale%20est%20sup%C3%A9rieure%20%C3%A0%20la%20note%20s%C3%A9lectionn%C3%A9e%20de%20l'objet%20s%C3%A9lectionn%C3%A9.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner toutes les notes et les événements dans la sélection temporelle.lua" type="script" desc="Sélectionner toutes les notes et les événements dans la sélection temporelle">
+      <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20toutes%20les%20notes%20et%20les%20%C3%A9v%C3%A9nements%20dans%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20toutes%20les%20notes%20et%20les%20%C3%A9v%C3%A9nements%20dans%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20toutes%20les%20notes%20et%20les%20%C3%A9v%C3%A9nements%20dans%20la%20s%C3%A9lection%20temporelle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner une note sur deux de la même auteure tonale des objets sélectionnés.lua" type="script" desc="Sélectionner une note sur deux de la même auteure tonale des objets sélectionnés">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2024-10-01T15:31:39Z">
+        <changelog><![CDATA[# 2024-09-24 - New script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b7c7c5158668d4c8819df25d548714fbacfef2c9/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20une%20note%20sur%20deux%20de%20la%20m%C3%AAme%20auteure%20tonale%20des%20objets%20s%C3%A9lectionn%C3%A9s.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Vélocité croissante ou décroissante entre 2 bornes saisies par l'utilisateur.lua" type="script" desc="Vélocité croissante ou décroissante entre 2 bornes saisies par l'utilisateur">
+      <version name="1.1" author="Lee JULIEN pour Reaper Accessible augmented by Chessel" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20V%C3%A9locit%C3%A9%20croissante%20ou%20d%C3%A9croissante%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
+      </version>
+      <version name="1.2" author="Lee JULIEN pour Reaper Accessible augmented by Chessel" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20V%C3%A9locit%C3%A9%20croissante%20ou%20d%C3%A9croissante%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN pour ReaperAccessible augmented by Chessel" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20V%C3%A9locit%C3%A9%20croissante%20ou%20d%C3%A9croissante%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Élaguer ou étirer la position des notes sélectionnées.lua" type="script" desc="Élaguer ou étirer la position des notes sélectionnées">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89laguer%20ou%20%C3%A9tirer%20la%20position%20des%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89laguer%20ou%20%C3%A9tirer%20la%20position%20des%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89laguer%20ou%20%C3%A9tirer%20la%20position%20des%20notes%20s%C3%A9lectionn%C3%A9es.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Énoncer la grille de division courante.lua" type="script" desc="Énoncer la grille de division courante">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89noncer%20la%20grille%20de%20division%20courante.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Énoncer le nom de la piste sélectionnée.lua" type="script" desc="Énoncer le nom de la piste sélectionnée">
+      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:04:50Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89noncer%20le%20nom%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89noncer%20le%20nom%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89noncer%20le%20nom%20de%20la%20piste%20s%C3%A9lectionn%C3%A9e.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
