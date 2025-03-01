@@ -1,5 +1,5 @@
 -- @description Outil de suppression de notes MIDI basé sur la vélocité
--- @version 1.0
+-- @version 1.1
 -- @author Lee JULIEN pour ReaperAccessible
 -- @provides [main=midi_editor] .
 -- @changelog
@@ -32,7 +32,7 @@ end
 -- Compter les notes dans le take
 local _, notes = r.MIDI_CountEvts(take)
 if notes == 0 then
-    parler("Aucune note dans le take MIDI.")
+    parler("Aucune note dans la prise MIDI.")
     finScript()
     return
 end
