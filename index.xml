@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="401cd8141a36b14f00cf3d14fc37d31b3774ac21">
+<index version="1" name="ReaperAccessible scripts" commit="d07dcb69ade7f44dd59e07102ce2ae5ba6bf71ce">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1447,6 +1447,10 @@
       <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2024-10-01T15:31:39Z">
         <changelog><![CDATA[# 2024-09-24 - Nouveau script]]></changelog>
         <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/b7c7c5158668d4c8819df25d548714fbacfef2c9/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Outil%20de%20suppression%20de%20notes%20MIDI%20bas%C3%A9%20sur%20la%20v%C3%A9locit%C3%A9.lua</source>
+      </version>
+      <version name="1.1" author="Lee JULIEN pour ReaperAccessible" time="2025-03-01T14:10:53Z">
+        <changelog><![CDATA[# 2024-09-24 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/d07dcb69ade7f44dd59e07102ce2ae5ba6bf71ce/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Outil%20de%20suppression%20de%20notes%20MIDI%20bas%C3%A9%20sur%20la%20v%C3%A9locit%C3%A9.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Éditeur MIDI - Scinder les notes sélectionnées en parties égales.lua" type="script" desc="Scinder les notes sélectionnées en parties égales">
