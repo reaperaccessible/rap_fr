@@ -1,5 +1,5 @@
 -- @description Désactiver les microphones Room ou Room A1 pour DrumAccess
--- @version 1.3
+-- @version 1.4
 -- @author Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog

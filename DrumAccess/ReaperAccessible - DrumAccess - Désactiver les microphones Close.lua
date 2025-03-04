@@ -1,5 +1,5 @@
 -- @description Désactiver les microphones Close pour DrumAccess
--- @version 1.4
+-- @version 1.5
 -- @author Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog

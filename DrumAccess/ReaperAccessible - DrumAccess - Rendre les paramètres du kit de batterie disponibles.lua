@@ -1,5 +1,5 @@
 -- @description Rendre les paramètres du kit de batterie disponibles pour DrumAccess
--- @version 1.2
+-- @version 1.3
 -- @author Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
