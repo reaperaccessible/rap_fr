@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="d07dcb69ade7f44dd59e07102ce2ae5ba6bf71ce">
+<index version="1" name="ReaperAccessible scripts" commit="0cea5363f5d80d25aea8a2e137f9818ad7806a26">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -11,6 +11,10 @@
       <version name="1.4" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Close.lua</source>
+      </version>
+      <version name="1.5" author="Lee JULIEN for ReaperAccessible" time="2025-03-04T15:31:52Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0cea5363f5d80d25aea8a2e137f9818ad7806a26/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Close.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones OverHead.lua" type="script" desc="Désactiver les microphones OverHead pour DrumAccess">
@@ -24,6 +28,10 @@
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20OverHead.lua</source>
       </version>
+      <version name="1.5" author="Lee JULIEN for ReaperAccessible" time="2025-03-04T15:31:52Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0cea5363f5d80d25aea8a2e137f9818ad7806a26/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20OverHead.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Room B1.lua" type="script" desc="Désactiver les microphones Room B1 pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -35,6 +43,10 @@
       <version name="1.4" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20B1.lua</source>
+      </version>
+      <version name="1.5" author="Lee JULIEN for ReaperAccessible" time="2025-03-04T15:31:52Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0cea5363f5d80d25aea8a2e137f9818ad7806a26/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20B1.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Room Mono.lua" type="script" desc="Désactiver les microphones Room Mono pour DrumAccess">
@@ -48,6 +60,10 @@
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20Mono.lua</source>
       </version>
+      <version name="1.5" author="Lee JULIEN for ReaperAccessible" time="2025-03-04T15:31:52Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0cea5363f5d80d25aea8a2e137f9818ad7806a26/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20Mono.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Room ou Room A1.lua" type="script" desc="Désactiver les microphones Room ou Room A1 pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -60,6 +76,10 @@
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20ou%20Room%20A1.lua</source>
       </version>
+      <version name="1.4" author="Lee JULIEN for ReaperAccessible" time="2025-03-04T15:31:52Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0cea5363f5d80d25aea8a2e137f9818ad7806a26/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20ou%20Room%20A1.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - DrumAccess - Rendre les paramètres du kit de batterie disponibles.lua" type="script" desc="Rendre les paramètres du kit de batterie disponibles pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -68,6 +88,10 @@
       <version name="1.2" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20Rendre%20les%20param%C3%A8tres%20du%20kit%20de%20batterie%20disponibles.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN for ReaperAccessible" time="2025-03-04T15:31:52Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0cea5363f5d80d25aea8a2e137f9818ad7806a26/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20Rendre%20les%20param%C3%A8tres%20du%20kit%20de%20batterie%20disponibles.lua</source>
       </version>
     </reapack>
   </category>
