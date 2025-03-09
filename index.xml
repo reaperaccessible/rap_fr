@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts US" commit="65f3be311ecbf645f5501712fe1da533ccd30edd">
+<index version="1" name="ReaperAccessible scripts" commit="65f3be311ecbf645f5501712fe1da533ccd30edd">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1013,7 +1013,7 @@
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20tous%20les%20Objets%20d'automatisation%20de%20toutes%20les%20pistes.lua</source>
       </version>
     </reapack>
-    <reapack name="ReaperAccessible - Principal - Sélectionner un objet à partir de son numéro.lua" type="script" desc="S�lectionner un objet � partir de son num�ro">
+    <reapack name="ReaperAccessible - Principal - Sélectionner un objet à partir de son numéro.lua" type="script" desc="S lectionner un objet   partir de son num ro">
       <version name="1.0" author="Lo-lo pour ReaperAccessible." time="2024-04-22T12:58:51Z">
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/62e7ae9c2c85d0411195dd223a3067af6300093b/Principal/ReaperAccessible%20-%20Principal%20-%20S%C3%A9lectionner%20un%20objet%20%C3%A0%20partir%20de%20son%20num%C3%A9ro.lua</source>
       </version>
