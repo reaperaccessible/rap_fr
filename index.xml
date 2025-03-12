@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="65f3be311ecbf645f5501712fe1da533ccd30edd">
+<index version="1" name="ReaperAccessible scripts" commit="410612b0f91e822d378da6f58d8f7db468a1227e">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -848,6 +848,12 @@
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20au%20curseur%20d'%C3%A9dition%20via%20une%20bo%C3%AEte%20de%20dialogue%20(respectant%20le%20mode%20ripple).lua</source>
       </version>
+      <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2025-03-12T00:06:24Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log
+# 2025-03-11 - Correction de bug pour le mode ripple toutes les pistes
+# 2025-03-11 - Ajout d'un message pour SWS non installé]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/410612b0f91e822d378da6f58d8f7db468a1227e/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20espace%20vide%20au%20curseur%20d'%C3%A9dition%20via%20une%20bo%C3%AEte%20de%20dialogue%20(respectant%20le%20mode%20ripple).lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Insérer un espace vide selon la sélection temporelle (respectant le mode ripple.lua" type="script" desc="Insérer un espace vide selon la sélection temporelle (respectant le mode ripple">
       <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-09-12T18:56:50Z">
@@ -865,6 +871,12 @@
       <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20Objet%20vide%20pour%20chaque%20piste%20s%C3%A9lectionn%C3%A9e%20selon%20le%20mode%20ripple.lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN pour ReaperAccessible" time="2025-03-12T00:06:24Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log
+# 2025-03-11 - Correction de plusieurs bugs
+# 2025-03-11 - Ajout d'un message d'erreur si SWS n'est pas installé]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/410612b0f91e822d378da6f58d8f7db468a1227e/Principal/ReaperAccessible%20-%20Principal%20-%20Ins%C3%A9rer%20un%20Objet%20vide%20pour%20chaque%20piste%20s%C3%A9lectionn%C3%A9e%20selon%20le%20mode%20ripple.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Lancer un enregistrement en fonction du mode Ripple.lua" type="script" desc="Lancer un enregistrement en fonction du mode Ripple">
