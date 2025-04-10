@@ -1,14 +1,23 @@
 -- @description Rendre les paramètres du kit de batterie disponibles pour DrumAccess
--- @version 1.3
+-- @version 1.5
 -- @author Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
 --   # 2024-09-18 - Ajout d'un log
+--   # 2025-04-08 - Adaptation du code pour DrumAccess V2
 
 
 -- Fonction pour ouvrir la fenêtre FX d'une piste
 local function openFXWindow(track)
-    reaper.TrackFX_Show(track, 0, 3)
+    -- récupérer le nom de l'fx 0
+    retval, fx_name = reaper.TrackFX_GetFXName(track, 0, "")
+    -- vérifier la présence d'une redirrection de cymbale
+    if fx_name:find("DrumAccess Cymbal Mapper") then
+      fxptr=1
+    else
+      fxptr=0
+    end
+    reaper.TrackFX_Show(track, fxptr, 3)
 end
 
 -- Fonction pour énoncer un message via OSARA

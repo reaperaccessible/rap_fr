@@ -1,5 +1,5 @@
 -- @description Désactiver les microphones Room ou Room A1 pour DrumAccess
--- @version 1.4
+-- @version 1.5
 -- @author Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
@@ -14,7 +14,7 @@ if numSelectedTracks == 0 then
 end
 
 local keywordDetected = false
-local keyword = "Room Volume", "Room Mono Volume"
+local keyword = { "Room Volume", "Room Mono Volume" }
 
 -- Parcourir toutes les pistes sélectionnées
 for i = 0, numSelectedTracks - 1 do
