@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="87ac00a36872a0681c96433d450d175aac61d51c">
+<index version="1" name="ReaperAccessible scripts" commit="8454ad29d87231564e79c57d0927237be53e533e">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -80,6 +80,10 @@
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0cea5363f5d80d25aea8a2e137f9818ad7806a26/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20ou%20Room%20A1.lua</source>
       </version>
+      <version name="1.5" author="Lee JULIEN for ReaperAccessible" time="2025-04-10T17:04:07Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8454ad29d87231564e79c57d0927237be53e533e/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20ou%20Room%20A1.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - DrumAccess - Rendre les paramètres du kit de batterie disponibles.lua" type="script" desc="Rendre les paramètres du kit de batterie disponibles pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -92,6 +96,11 @@
       <version name="1.3" author="Lee JULIEN for ReaperAccessible" time="2025-03-04T15:31:52Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/0cea5363f5d80d25aea8a2e137f9818ad7806a26/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20Rendre%20les%20param%C3%A8tres%20du%20kit%20de%20batterie%20disponibles.lua</source>
+      </version>
+      <version name="1.5" author="Lee JULIEN for ReaperAccessible" time="2025-04-10T17:04:07Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log
+# 2025-04-08 - Adaptation du code pour DrumAccess V2]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8454ad29d87231564e79c57d0927237be53e533e/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20Rendre%20les%20param%C3%A8tres%20du%20kit%20de%20batterie%20disponibles.lua</source>
       </version>
     </reapack>
   </category>
