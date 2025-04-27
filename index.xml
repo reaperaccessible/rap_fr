@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="8454ad29d87231564e79c57d0927237be53e533e">
+<index version="1" name="ReaperAccessible scripts" commit="33476b49e919508ad16f98ed8a4a2d398ce42e01">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -83,6 +83,12 @@
       <version name="1.5" author="Lee JULIEN for ReaperAccessible" time="2025-04-10T17:04:07Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8454ad29d87231564e79c57d0927237be53e533e/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20D%C3%A9sactiver%20les%20microphones%20Room%20ou%20Room%20A1.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - DrumAccess - Inverseur de la Stéréophonie.lua" type="script" desc="Inverser le panoramique des pistes sélectionnées">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-04-27T19:11:41Z">
+        <changelog><![CDATA[# 2025-04-24 - Nouveau script]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/33476b49e919508ad16f98ed8a4a2d398ce42e01/DrumAccess/ReaperAccessible%20-%20DrumAccess%20-%20Inverseur%20de%20la%20St%C3%A9r%C3%A9ophonie.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - DrumAccess - Rendre les paramètres du kit de batterie disponibles.lua" type="script" desc="Rendre les paramètres du kit de batterie disponibles pour DrumAccess">
