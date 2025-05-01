@@ -1,5 +1,5 @@
--- @description Inverser le panoramique des pistes sélectionnées
--- @version 1.0
+-- @description Inverseur de la Stéréophonie
+-- @version 1.1
 -- @author Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
