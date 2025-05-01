@@ -1,5 +1,5 @@
 -- @description Définir la longueur de la note sur une croche
--- @version 1.2
+-- @version 1.3
 -- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=midi_editor] .
 -- @changelog
@@ -8,7 +8,7 @@
 
 reaper.Undo_BeginBlock()
 
-local commandId = 41630
+local commandId = 41629
 reaper.MIDIEditor_LastFocused_OnCommand(commandId, 0)
 reaper.osara_outputMessage("Longueur de note définie sur une croche, 1/8")
 
