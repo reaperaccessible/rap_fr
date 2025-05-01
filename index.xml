@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="f1805d66b787f7945b6e71756010f1990f0ab7b2">
+<index version="1" name="ReaperAccessible scripts" commit="e4ff46c06c00fd3284e27af35e019fc28cbea6ad">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1351,6 +1351,10 @@
       <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20croche.lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour ReaperAccessible" time="2025-05-01T18:05:38Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/e4ff46c06c00fd3284e27af35e019fc28cbea6ad/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20la%20longueur%20de%20la%20note%20sur%20une%20croche.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Éditeur MIDI - Définir la longueur de la note sur une double croche.lua" type="script" desc="Définir la longueur de la note sur une double croche">
