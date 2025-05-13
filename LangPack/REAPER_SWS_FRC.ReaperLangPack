@@ -1,5 +1,5 @@
-#NAME: Français V7.38.1 par ReaperAccessible
-;Version: 7.38.1
+#NAME: Français V7.39.1 par ReaperAccessible
+;Version: 7.39.1
 ;Author: ReaperAccessible
 
 [about]
@@ -681,7 +681,7 @@ D8ADC6186B88361A=Activée
 000000000000024A=in,into,before,prior,dans,dans la,dans le,dans un,dans une,en,sur,de la,du,de
 000000000000024B=including,y compris,d'inclure
 000000000000024C=increase,augmenter,augmentation,augmentations,monter
-000000000000024D=increment,incrementing,incrementant,incrementer
+000000000000024D=increment,incremented,incrementing,incrementant,incrementer,incremente,incrementee,incrementes,incrementees
 000000000000024E=indicator,indicators,indicateur,indicateurs
 000000000000024F=info,infos,information,informations,d'informations,d'information,l'information
 0000000000000250=inline,en ligne
@@ -1267,7 +1267,7 @@ D8ADC6186B88361A=Activée
 0000000000000620=console,console ,la console,une console,de la console,d’une console,consoles,les consoles,des consoles
 0000000000000621=autocrossfade,auto-crossfade,auto crossfade ,autocrossfades,auto-crossfades,auto crossfades,fondu enchaine automatique,fondus enchaines automatiques,crossfade automatique,crossfades automatiques
 0000000000000622=unfloat,rendre non flottant,non flottant,deflotter
-0000000000000623=
+0000000000000623=auto-save,auto save,sauvegarde automatique
 0000000000000624=
 0000000000000625=
 0000000000000626=
@@ -2409,6 +2409,7 @@ D8ADC6186B88361A=Activée
 7467E64A2B71BF33=Objet: Effacer les marqueurs de surclassement/déclassement pour la prise sous la souris
 746D421621EF86D1=Propriétés de piste: Rendre les bandes d'objets fixes grandes
 74828AE56376BB85=Régions: Aller à la région 09 après la fin de la lecture de la région en cours (recherche de lecture lente)
+749A0CCA845953FE=Fichier: Sauvegarder une copie du projet sous (demander avec le nom actuel)...
 74BFB051CF39D084=Basculer l'édition ripple toutes les pistes
 74CF4C1B998B7796=Barre d'outils: Ouvrir la barre d'outils 16 au curseur de souris
 74D1568B6E2D273A=Mixeur: Icône cliquable des pistes dossier pour afficher/masquer les enfants
@@ -2748,6 +2749,7 @@ D8ADC6186B88361A=Activée
 9C1AE6C136586F49=Enregistrement: Démarrer de nouveaux fichiers durant l'enregistrement
 9C5B4D6BEC2DF304=Édition d'objet: Redimensionner le bord droit de l'objet au curseur d'édition
 9C6E671FCF8BDB8F=Options: Affichage de VU-mètre de piste pré-fader
+9C87C27E3199E02A=Fichier: Sauvegarder une copie du projet sous (demander avec le nom de projet incrémenté)...
 9CC71500BCAE82AB=Prise: Passer à la prise précédente des objets
 9CCAD81FF8381ADD=Propriétés d'objet: Diminuer la vitesse de l'objet de ~0.6% (10 centièmes)
 9D132CAC26D3D1BE=Prise: Rassembler les objets d'une même piste en prises
@@ -3476,7 +3478,6 @@ EC4404E2595D22F9=Édition d'objet: Déplacer le doublon de l'objet au curseur d'
 EC4C787CBFD6B77D=Bandes de piste: Lire uniquement la bande suivante de la piste sous la souris
 EC6DE6F4B6EC3240=Propriétés d'objet: Basculer préserver la hauteur tonale des prises
 EC70D7FCBECC74C2=Édition au rasoir: Déplacer les zones sans contenu vers l'arrière 
-EC70DC52C7297E0F=Fichier: Sauvegarder une copie du projet sous...
 EC748BC355EFE80B=Enveloppe: Définir la forme des points sélectionnés sur carré
 EC97CED760A4EF26=Édition d'objet: Désactiver le magnétisme relatif sur la grille
 ED415083E66CF2D6=Propriétés d'objet: Définir la base temporelle de l'objet sur temps
@@ -5254,6 +5255,7 @@ BF5946981D7E6F2F=Sauvegarder les bandes CC par défaut (et désactiver la sauveg
 BF5B216DD3B96A5D=Ajouter un conteneur
 BF730BE07310272D=Charger l'objet d'automatisation
 BF7C871A52628C99=Avertissement
+BFA2F665F3A989FF=Nom de la prise
 C004CD40F2057E29=Chaîne d'FX
 C00C9ED3E1843E69=Ouvrir dans l'éditeur MIDI intégré (définir le comportement par défaut dans les préférences)
 C01085DD37178417=Informations sur le fichier:
@@ -9980,7 +9982,7 @@ D84A9D186B337314=LU
 D8D27C186BA6D499=dB
 E020851FB486189D=Charger le préréglage du spectrogramme
 E045CEBC4C1D3741=Définir la plage sur spectre complet toutes les 2 octaves
-E04BDD1DD89B6BE1=freq log %.1f
+E04BDD1DD89B6BE1=fréq log %.1f
 E47DD4176BC22186=Spectre inversé
 E4A6010D21E94A51=Renommer le Préréglage d'Affichage de Crête
 E99EBA7FF6970DBB=...
@@ -12244,6 +12246,30 @@ DEB8A732FC3B1C09=Propriétés d'objet média:
 
 [itemprops]
 76717C885F96A963=Ouvrir le mappeur de canaux (les modifications prennent effet immédiatement)
+
+[itemprops_access]
+023C1564D4A82BB6=Volume de la prise
+0B95689C85CC74EF=Longueur du fondu sortant
+1EF86BF90DD42AFB=Début de la section de la prise
+232BB95074F74BAE=Courbe du fondu sortant
+2C48BD135570DD33=Panoramique de la prise (pourcentage)
+30661C0E03F6D937=Volume de la prise (dB)
+44D6A88B4F728EAC=Vitesse de lecture
+4C7578D252ECE03C=Longueur du fondu entrant
+57FCB544A6B3C80D=Taille du fondu du marqueur d'étirement
+7CEEFA9515D59F27=Options du mode de transposition de hauteur tonale de la prise
+91B9DD118CCEE17B=Position d'objet
+9204F6B6DCE0584B=Panoramique de la prise
+965A110E77EC0F1B=Courbe du fondu entrant
+A2AF12785417D694=Longueur d'objet
+B161029E690659A8=Forme du fondu sortant
+B985EDD336258569=Point de départ dans la source
+BE19A6F7E92913DF=Fondu de la section de la prise
+BFA2F665F3A989FF=Nom de la prise
+DBD9C33FD1F21252=Ajustement de la hauteur tonale
+DDF5B6B482BD0695=Forme du fondu entrant
+F03174CA1DD3C041=Longueur de la section de la prise
+FF4EC1FE8F6DFC6A=Décalage du magnétisme
 
 [joystick]
 133B50C3D3FC7CF5=aucun convertisseur chargé
@@ -15905,6 +15931,7 @@ FEAA833C7533B5D0=Fichier introuvable
 4530F723A46185C8=Décaler les événements de paroles d'une note vers l'arrière
 4556CEA5B5219276=Édition: Définir la longueur de la note sur 1/2 (blanche) en utilisant le type de division de la longueur de note actuel
 45D7EC54448251F1=Options: Afficher les données CC MSB/LSB 14 bits sous la forme d'une entrée unique dans la vue en liste d'événements et dans la boîte de dialogue des propriétés d'événement.
+45D877CA588619CD=Sauvegarder la configuration par défaut (et désactiver la sauvegarde automatique de la configuration par défaut)
 4670159CB4F85EA3=Édition: Rendre les notes legato, en préservant l'heure de début des notes
 46E134E921A2397A=Curseur: Avancer de 1/16 (double croche) en utilisant le type de division de longueur de note actuel
 46E68D57893F0D5D=Transport: Lecture/Pause
@@ -15984,6 +16011,7 @@ FEAA833C7533B5D0=Fichier introuvable
 60FDC47CC49E565A=Affichage: Faire défiler la vue vers le bas
 610D3372D2A4054B=Navigation: Sélectionner la note suivante avec le même canal
 61797AE1212D39F4=Édition: Renverser vers le bas le voicing des notes sélectionnées
+618F05BD7A787BDC=Sauvegarde automatique de la configuration par défaut lors du changement d'options
 6196754B3BE72C84=CC: Définir la bande de CC sur %03d
 61A8F4B2CB123335=Édition: Définir la longueur de la note sur la moitié
 61DB5FFF400740A5=Transport: Basculer la répétition
@@ -21141,9 +21169,6 @@ EA33E60991BEED3E=Heure de début
 08323407B4EAE131=P
 08323B07B4EAED16=M
 
-[remder]
-F2102A682160B365=Sauvegarder les fichiers de rendu incomplets?
-
 [render]
 004DC15672AB96AA=Préréglage de rendu
 00B3ED698A735CC0=Date de fin
@@ -21314,6 +21339,7 @@ F2102A682160B365=Sauvegarder les fichiers de rendu incomplets?
 5E46DECAAE77BF2C=Données d'utilisateur
 5E7E6BC7ED25EAD3=Numéro de catalogue
 5E96093755CDA3AE=Taux moyen de passage à zéro
+5F1914D542E56C90=+ %d supplémentaire
 5F312EF9ECD2C065=Aide sur les statistiques de rendu
 5FB66A1E819B9914=Conserver les statistiques de rendu en mémoire après la fin du rendu (voir l'aide sur les statistiques de rendu)
 607E5E6892C44A48=Normaliser comme s'il s'agissait d'un long objet
@@ -21560,6 +21586,7 @@ EDF14728F28EB9C1=Afficher le graphique de la sonie à court terme
 F0CB3227714173C1=Sous-genre
 F15BBEAE9FE15E1D=Impossible d'ouvrir le périphérique audio
 F1D28AF39FDD2480=Rapport de puissance crête à moyenne
+F2102A682160B365=Sauvegarder les fichiers de rendu incomplets?
 F2A4EEF7FB2A76C8=1. Redimensionner le silence en amont/aval
 F4E736125BF3BB0C=Utilisateur
 F57F76E76EEAB1E0=Mixage du master + stems
@@ -21655,7 +21682,9 @@ E2C2BE7ED0F2F346=juil
 07AD367A3918138B=heure de fin en M-SS.TTT
 07F63279A1AC3D6D=\"text\" si les caractères génériques précédent et suivant correspondent à quelque chose, vide sinon
 0927BC9D6E7905A3=$marqueur (dernier) se résout à rien
+09AE81B93F4D0E1B=pré-décompte actuel, format personnalisé
 0C85FD1565A866A2=région précédente
+0CDC89DD7C972AB6=1 pour la première région ou objet avec le même nom, 2 pour le second...
 0E64B79CB41C63C6=niveau de crête récent de la piste master
 10792E21AB792E17=nom ou numéro d'ID du marqueur
 1250D9E690F34100=position temporelle du projet, format de temps de la règle
@@ -21673,7 +21702,6 @@ E2C2BE7ED0F2F346=juil
 29FFC26D445E58E1=$Region correspond à \"Couplet A\"
 2BC4663E8DB83036=X (exemple: B2) pour le premier fichier rendu, X+1 (exemple: C3) pour le second...
 2C3C1FD5EC3F83C4=Longueur en millisecondes modulo secondes
-2CD5C64B09834BE4=nom de la piste si la piste a un nom, sinon numéro de la piste
 2EF63D61DDFA9A3E=2 derniers chiffres de l'année
 3262844B235CF565=$le marqueur se résout à \"first=john;last=doe\"
 3505EE45217A9FFB=minute de l'heure
@@ -21682,10 +21710,12 @@ E2C2BE7ED0F2F346=juil
 396DF6FF3228631D=1 pour le premier fichier rendu, 2 pour le deuxième...
 3AFDDCCF5ACF6694=N pour la première passe d'enregistrement du projet, N+1 pour la deuxième...
 3B55B45CFFE7F2D0=marqueur suivant
+42037B3E40212647=sélection temporelle du projet, format personnalisé
 422B4E49B44767A3=\"texte\" lorsque la lecture est active, vide autrement
 44D502BC3E71FBB7=Canaux
 457609F2FCD0050D=heure de fin en HH.MM.SS.FF
 45D349C586FCAE73=L'option générique pour autoriser/les caractères dans les substitutions créera automatiquement des répertoires selon les besoins. Par exemple, si le nom de la piste est \"drums/cymbals\", le répertoire \"drums\" sera créé. Les caractères génériques $folders et $trackslashes outrepassent cette option.
+464B1317E8900D45=sélection temporelle du projet, format temporel de la règle
 469508BD79924E63=heure de fin en mesures.battements
 46A098AC62D9787B=date
 490DB5734B1D11D4=N pour l'ID de marqueur 1, N+1 pour l'ID de marqueur 2...
@@ -21704,7 +21734,9 @@ E2C2BE7ED0F2F346=juil
 5D40C262AFC1C1F7=La mise en majuscule des deux premiers caractères du caractère générique mettra en majuscule toutes les lettres.
 5DFBB2BCD0E02AD0=nom du fichier d'entrée
 6147730C4A4B568B=numéro d'ID du marqueur
+61A76AAF1C1B6A88=vitesse de lecture du projet
 61CFC3DB395B4257=Logique/Flux de contrôle
+6261ECB9046AB0FB=pré-décompte actuel en battements
 67839EFFE4DABC53=structure des dossiers de piste, séparés par X
 68DB70AF044253A6=région suivante
 6CA737E200967E68=Si un caractère générique ne résout à rien et que le caractère précédent ou suivant est l'un des suivants: ' ' (espace), '-' (trait d'union), '_' (tiret bas), ou '.' (point), ce caractère sera omis.
@@ -21724,6 +21756,7 @@ E2C2BE7ED0F2F346=juil
 8C992C64EE88DC4A=longueur du projet, format personnalisé
 8E79CB58574E5DDD=Avec une région de projet ou un marqueur nommé \"first=john;last=doe\":
 8E8F0F41A080C1B4=Heure de début en mesures.battements
+90A04580CE49FF6B=remplacer le caractère générique précédent par \"texte\" s'il correspond à \"condition\"
 90C8C032261F203D=Avec une région nommée \"couplet A\":
 93A034FBD1A40480=partie de la valeur de la région correspondant nom=valeur
 95176F06D780A81C=numéro du mois
@@ -21739,6 +21772,7 @@ A44413DB9D6CBA76=Nom de la région
 A54B83C77112A240=numérateur de signature rythmique du projet
 A64ACEE1DC315855=jour de la semaine
 A7ED57DDF64CE39F=Liste d'FX, séparée par X
+A8084339B1EFAA37=nom de piste si la piste a un nom, sinon \"Piste N\"
 AB0C1C5C807303B5=Longueur en minutes modulo heures
 ABA8B5A5A8C0EA12=N pour le premier objet ou région de la ligne temporelle, N+1 pour le deuxième...
 AE773EB27E50B416=Immédiatement après un caractère générique, des instructions de remplacement de caractère peuvent être spécifiées:
@@ -21761,7 +21795,6 @@ C825A7B4B074870C=mémos du projet (à partir de la boîte de dialogue Paramètre
 C95E7D9935B89171= (les répertoires seront créés automatiquement)
 CB03693AED979FA9=valeur de la partie du marqueur de prise d'objet média correspondant au nom=valeur séparée par s
 CFF834D38DCD4B8C=Informations de l'ordinateur
-D025DDD4F673D9ED=1 pour le premier objet ou région du même nom, 2 pour le second...
 D05426FE6CE7D5FA=marqueur de prise d'objet média (premier marqueur de prise dans l'objet)
 D3BC181CB0EE6EFD=Date/Heure
 D438218A8258E7E8=1 pour le premier objet média d'une piste, 2 pour le deuxième...
@@ -21775,6 +21808,7 @@ DF14218BE9517C8E=$rectag est la balise d'enregistrement du projet. Recherchez \"
 DFFE32DD273DC93E=Nom de la prise d'objet média
 E10F003DCA2F1E5B=Longueur en secondes modulo minutes
 E255729AA72D8493=Heure de début en images absolues
+E301E7DB065103C3=remplacer le caractère générique suivant par \"texte\" s'il correspond à \"condition\"
 E6CA1FF40D876141=$Region correspond à \"Couplet A\"
 E8EBC1FC83950861=numéro d'ID de la région
 E8F607F516866C57=1 pour le premier objet ou région de la ligne temporelle, 2 pour le second...
@@ -21796,12 +21830,12 @@ FCFA566FC90769C4=nom du marqueur
 FD51D5ECEA601658=heure de fin en secondes totales
 
 [render_wildcards]
-08BDFB33E1A2D4C7=Formats de temps personnalisés pour $projectpos(format) et $projectlength(format):
-20BD4EE2F1EF76E5=Formats de temps personnalisés pour $projectlength(format):
-33ECD482EEEDA166=Voir ci-dessus pour le format personnalisé pour $projectlength(format).
 36E9CA096DEA4645=Pour changer les caractères de séparation, utilisez des caractères génériques de remplacement.
+48D8C0C623DF201F=Formats temporels personnalisés pour $projectpos, $projectlength, $timesel, $preroll:
 5DAFA823BDD9E407=Voir ci-dessus pour l'aide avec la syntaxe nom=valeur.
-A626EE9C752B859C=Voir ci-dessus pour le format personnalisé pour $projectpos(format) et $projectlength(format).
+71F8F9962E86AFF3=Formats temporels personnalisés pour $projectlength:
+99F2DDCE37EBC404=Voir ci-dessus pour le format personnalisé pour $projectlength.
+B8F8E12875B0B21A=Voir ci-dessus pour le format personnalisé pour $projectpos, $projectlength, $timesel, $preroll.
 
 [render_wildercard]
 1516DC2329E75565=répertoire du projet sur le disque
