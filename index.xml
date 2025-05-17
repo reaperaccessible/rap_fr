@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="463084b5a0fd8cf6a2a04af158b3475dcf0e6959">
+<index version="1" name="ReaperAccessible scripts" commit="8116b394706ffe55cdd92709c630d85ace3489f5">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1474,16 +1474,10 @@
         <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9finir%20une%20v%C3%A9locit%C3%A9%20al%C3%A9atoire%20pour%20les%20notes%20s%C3%A9lectionn%C3%A9es,%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
       </version>
     </reapack>
-    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début de la mesure actuelle.lua" type="script" desc="Déplacer le curseur d'édition au début de la mesure actuelle">
-      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
-        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
-      </version>
-      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
-        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
-      </version>
-      <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
-        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
-        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle.lua</source>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début de la mesure actuelle ou précédente.lua" type="script" desc="Déplacer le curseur d'édition au début de la mesure actuelle/précédente sélectionnées">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-05-17T23:30:55Z">
+        <changelog><![CDATA[# 2025-05-17 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8116b394706ffe55cdd92709c630d85ace3489f5/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20mesure%20actuelle%20ou%20pr%C3%A9c%C3%A9dente.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début de la prochaine mesure.lua" type="script" desc="Déplacer le curseur d'édition au début de la prochaine mesure">
@@ -1498,20 +1492,28 @@
         <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20de%20la%20prochaine%20mesure.lua</source>
       </version>
     </reapack>
-    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début du battement actuel.eel" type="script" desc="Aller au début du battement précédent">
-      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
-        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
-      </version>
-      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
-        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début du battement actuel ou précédent.lua" type="script" desc="Déplacer le curseur d'édition au début du battement actuel ou précédent">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-05-17T23:30:55Z">
+        <changelog><![CDATA[# 2025-05-17 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8116b394706ffe55cdd92709c630d85ace3489f5/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel%20ou%20pr%C3%A9c%C3%A9dent.lua</source>
       </version>
     </reapack>
-    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début du prochain battement.eel" type="script" desc="Aller au début du battement suivant">
-      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:04:50Z">
-        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8bb1e1409b8296846e87a70b4b03d71cf8691b32/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition au début du battement suivant.lua" type="script" desc="Déplacer le curseur d'édition au début du battement suivant">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-05-17T23:30:55Z">
+        <changelog><![CDATA[# 2025-05-17 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8116b394706ffe55cdd92709c630d85ace3489f5/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20suivant.lua</source>
       </version>
-      <version name="1.1" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-19T14:25:18Z">
-        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/f634b04dc127193edde89ee1f3de1b87e4fd449a/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition sur la division de grille précédente.lua" type="script" desc="Déplacer le curseur d'édition sur la division de grille précédente">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-05-17T23:30:55Z">
+        <changelog><![CDATA[# 2025-05-17 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8116b394706ffe55cdd92709c630d85ace3489f5/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20sur%20la%20division%20de%20grille%20pr%C3%A9c%C3%A9dente.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition sur la division de grille suivante.lua" type="script" desc="Déplacer le curseur d'édition sur la division de grille précédente">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-05-17T23:30:55Z">
+        <changelog><![CDATA[# 2025-05-17 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8116b394706ffe55cdd92709c630d85ace3489f5/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20sur%20la%20division%20de%20grille%20suivante.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Éditeur MIDI - Humaniser la vélocité des notes sélectionnées.lua" type="script" desc="Humaniser la vélocité des notes sélectionnées">
