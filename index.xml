@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="8116b394706ffe55cdd92709c630d85ace3489f5">
+<index version="1" name="ReaperAccessible scripts" commit="3718f55654425505f115bff0c8c478a54472994f">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1502,18 +1502,6 @@
       <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-05-17T23:30:55Z">
         <changelog><![CDATA[# 2025-05-17 - Nouveau script]]></changelog>
         <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8116b394706ffe55cdd92709c630d85ace3489f5/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20suivant.lua</source>
-      </version>
-    </reapack>
-    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition sur la division de grille précédente.lua" type="script" desc="Déplacer le curseur d'édition sur la division de grille précédente">
-      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-05-17T23:30:55Z">
-        <changelog><![CDATA[# 2025-05-17 - Nouveau script]]></changelog>
-        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8116b394706ffe55cdd92709c630d85ace3489f5/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20sur%20la%20division%20de%20grille%20pr%C3%A9c%C3%A9dente.lua</source>
-      </version>
-    </reapack>
-    <reapack name="ReaperAccessible - Éditeur MIDI - Déplacer le curseur d'édition sur la division de grille suivante.lua" type="script" desc="Déplacer le curseur d'édition sur la division de grille précédente">
-      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-05-17T23:30:55Z">
-        <changelog><![CDATA[# 2025-05-17 - Nouveau script]]></changelog>
-        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/8116b394706ffe55cdd92709c630d85ace3489f5/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20sur%20la%20division%20de%20grille%20suivante.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Éditeur MIDI - Humaniser la vélocité des notes sélectionnées.lua" type="script" desc="Humaniser la vélocité des notes sélectionnées">
