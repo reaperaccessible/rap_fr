@@ -1,5 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="3718f55654425505f115bff0c8c478a54472994f">
+<index version="1" name="ReaperAccessible scripts" commit="59c5f137d13ee019b98c6fe477a32c8266f5bb12">
+  <category name="CSI">
+    <reapack name="ReaperAccessible - CSI - Select next grid division from grid menu.lua" type="script" desc="Select next grid division from grid menu">
+      <version name="1.0" author="Ludovic SANSONE for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20-%20Select%20next%20grid%20division%20from%20grid%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI - Select previous grid division from grid menu.lua" type="script" desc="Select previous grid division from grid menu">
+      <version name="1.0" author="Ludovic SANSONE for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20-%20Select%20previous%20grid%20division%20from%20grid%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI - Speak current grid division.lua" type="script" desc="Speak current grid division">
+      <version name="1.0" author="Ludovic SANSONE for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20-%20Speak%20current%20grid%20division.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Envelope - Decrease Envelope Point Value by 1.lua" type="script" desc="Decrease Envelope Point Value by 1">
+      <version name="1.0" author="Ludovic SANSONE for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Envelope%20-%20Decrease%20Envelope%20Point%20Value%20by%201.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Envelope - Increase Envelope Point Value by 1.lua" type="script" desc="Increase Envelope Point Value by 1">
+      <version name="1.0" author="Ludovic SANSONE for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Envelope%20-%20Increase%20Envelope%20Point%20Value%20by%201.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Envelope - Toggle Bypass Envelope.lua" type="script" desc="Toggle Bypass Envelope">
+      <version name="1.0" author="Ludovic SANSONE for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Envelope%20-%20Toggle%20Bypass%20Envelope.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Envelope - Toggle show all envelopes for tracks.lua" type="script" desc="Toggle show all envelopes for tracks">
+      <version name="1.0" author="Ludovic SANSONE for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Envelope%20-%20Toggle%20show%20all%20envelopes%20for%20tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Envelope - Toggle show envelopes for all tracks.lua" type="script" desc="Toggle show envelopes for all tracks">
+      <version name="1.0" author="Ludovic SANSONE for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Envelope%20-%20Toggle%20show%20envelopes%20for%20all%20tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI FX - Delete selected FX of selected track.lua" type="script" desc="Delete selected FX of selected track">
+      <version name="1.0" author="Ludovic SANSONE for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20FX%20-%20Delete%20selected%20FX%20of%20selected%20track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI FX - Move selected FX one position down.lua" type="script" desc="Move selected FX one position down">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20FX%20-%20Move%20selected%20FX%20one%20position%20down.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI FX - Move selected FX one position up.lua" type="script" desc="Move selected FX one position up">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20FX%20-%20Move%20selected%20FX%20one%20position%20up.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI FX - Select next FX of selected track.lua" type="script" desc="Select next FX of selected track">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20FX%20-%20Select%20next%20FX%20of%20selected%20track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI FX - Select previous FX of selected track.lua" type="script" desc="Select previous FX of selected track">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20FX%20-%20Select%20previous%20FX%20of%20selected%20track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI FX - Speak name of selected FX on selected track.lua" type="script" desc="Speak name of selected FX on selected track">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20FX%20-%20Speak%20name%20of%20selected%20FX%20on%20selected%20track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI FX - Toggle bypass selected FX on selected track.lua" type="script" desc="Toggle bypass selected FX on selected track">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20FX%20-%20Toggle%20bypass%20selected%20FX%20on%20selected%20track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Grid - Select next grid division from grid menu.lua" type="script" desc="Select next grid division from grid menu">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Grid%20-%20Select%20next%20grid%20division%20from%20grid%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Grid - Select previous grid division from grid menu.lua" type="script" desc="Select previous grid division from grid menu">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Grid%20-%20Select%20previous%20grid%20division%20from%20grid%20menu.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Grid - Speak current grid division.lua" type="script" desc="Speak current grid division">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Grid%20-%20Speak%20current%20grid%20division.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Misc - Speak project tempo and time signature, at current position.lua" type="script" desc="Speak project tempo and time signature, at current position">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Misc%20-%20Speak%20project%20tempo%20and%20time%20signature,%20at%20current%20position.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Tool - Last Touched Param Steps.lua" type="script" desc="Last Touched Param Steps">
+      <version name="1.0" author="Lee JULIEN for ReaperAccessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Tool%20-%20Last%20Touched%20Param%20Steps.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Tool - Write Params to CSI-Zones-ZoneRawFXFiles for all FX on all tracks.lua" type="script" desc="Write Params and step value to CSI-Zones-ZoneRawFXFiles for all FX on all tracks">
+      <version name="1.2" author="Erwin GOOSSEN for Reaper Accessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Tool%20-%20Write%20Params%20to%20CSI-Zones-ZoneRawFXFiles%20for%20all%20FX%20on%20all%20tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - CSI Tool - Write Params to CSI-Zones-ZoneRawFXFiles for All FX on Selected track.lua" type="script" desc="Write Params and step value to CSI-Zones-ZoneRawFXFiles for All FX on Selected track">
+      <version name="1.2" author="Erwin GOOSSEN for Reaper Accessible" time="2025-05-19T18:00:20Z">
+        <changelog><![CDATA[# 2025-05-18 - Adding CSI scripts to the ReaperAccessible repository]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/59c5f137d13ee019b98c6fe477a32c8266f5bb12/CSI/ReaperAccessible%20-%20CSI%20Tool%20-%20Write%20Params%20to%20CSI-Zones-ZoneRawFXFiles%20for%20All%20FX%20on%20Selected%20track.lua</source>
+      </version>
+    </reapack>
+  </category>
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
