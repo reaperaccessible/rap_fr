@@ -1,10 +1,11 @@
 -- @description Tutoriels et Démos
--- @version 1.8
+-- @version 1.9
 -- @author Lee JULIEN For ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
 --   # 2024-09-18 - Ajout d'un log
 --   # 2024-09-18 - Ajout de 3 kits DrumAccess
+--   # 2025-05-26 - Correction de lien
 
 
 -- Fonction pour ouvrir une page web
@@ -330,28 +331,28 @@ local subMenus = {
    {name = "28.04 Comment installer une librairie DrumAccess", url = "https://reaperaccessible.fr/drumaccess/tutoriels/francais/DrumAccess%20-%20Comment%20installer%20DrumAccess.mp3"},
    {name = "28.05 Comment installer et utiliser les scripts DrumAccess", url = "https://reaperaccessible.fr/drumaccess/tutoriels/francais/DrumAccess%20-%20Comment%20installer%20et%20utiliser%20les%20scripts%20pour%20DrumAccess.mp3"},
    {name = "28.06 Comment installer et utiliser le logiciel Hard Link", url = "https://reaperaccessible.fr/drumaccess/tutoriels/francais/DrumAccess%20-%20Comment%20cr%C3%A9er%20une%20jonction%20avec%20le%20logiciel%20HardLink%20Software.mp3"},
-   {name = "28.07 DrumAccess - Free Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess-free-kit-fr"},
-   {name = "28.08 DrumAccess - C&C - Player Date II Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumacces-candc-player-date-ii-kit-fr"},
-   {name = "28.09 DrumAccess - Camco - Oaklawn Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/da-camco-oaklawn-kit-fr"},
-   {name = "28.10 DrumAccess - Canopus - Maple Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumacces-canopus-maple-kit-fr"},
-   {name = "28.11 DrumAccess - Craviotto - Solid Shell Walnut Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-craviotto-solid-shell-walnut-kit-fr"},
-   {name = "28.12 DrumAccess - DW - Collectors Maple Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-dw-collectorsmaplekit-fr"},
-   {name = "28.13 DrumAccess - Fibes - Maple Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-fibes-maple-kit-fr"},
-   {name = "28.14 DrumAccess - Gretsch - Broadkaster Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/da-gretsch-broadkaster-kit-fr"},
-   {name = "28.15 DrumAccess - Ludwig - Calfskin 1930s Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-ludwig-calfskin-1930s-kit-fr"},
-   {name = "28.16 DrumAccess - Ludwig - Stainless Steel Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-ludwig-stainlesssteelkit-fr"},
-   {name = "28.17 DrumAccess - Ludwig - Superclassic 70s Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-ludwig-superclassic-70s-kit-fr"},
-   {name = "28.18 DrumAccess - Mayer - Bros Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-mayer-bros-kit-fr"},
-   {name = "28.19 DrumAccess - Pearl - Masters Extra Maple Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumacces-pearl-masters-extra-maple-kit-fr"},
-   {name = "28.20 DrumAccess - Percussions Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-percussions-kit-fr"},
-   {name = "28.21 DrumAccess - Q Drum Co. - Copper Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-q-drum-co-copper-kit-fr"},
-   {name = "28.22 DrumAccess - Slingerland - Radio King 1940s Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-slingerland-radio-king-1940s-kit-fr"},
-   {name = "28.23 DrumAccess - Tama - Starclassic Performer Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess-tama-starclassic-performer-kit-fr"},
-   {name = "28.24 DrumAccess - Gretsch - Broadkaster Kit Damped", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/da-gretsch-broadkaster-kit-damped-fr"},
-   {name = "28.25 DrumAccess - Yamaha - Recording Custom Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-yamaha-recording-custom-kit-fr"},
-   {name = "28.26 DrumAccess - Gretsch - 60s Round Badge Kit Damped", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-gretsch-60s-round-badge-kit-damped-fr"},
-   {name = "28.27 DrumAccess - DW - Deep Blue Oyster Kit", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-dw-deep-blue-oyster-kit-fr"},
-   {name = "28.28 DrumAccess - Gretsch - USA Custom Kit - Damped", url = "https://reaperaccessible.fr/index.php/fr/drumaccess-librairies-de-batterie/drumaccess/drumaccess-gretsch-usa-custom-kit-damped-fr"},
+   {name = "28.07 DrumAccess - Free Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=392:drumaccess-free-kit-fr&catid=66&lang=fr&Itemid=213"},
+   {name = "28.08 DrumAccess - C&C - Player Date II Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=406:drumacces-candc-player-date-ii-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.09 DrumAccess - Camco - Oaklawn Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=408:da-camco-oaklawn-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.10 DrumAccess - Canopus - Maple Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=387:drumacces-canopus-maple-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.11 DrumAccess - Craviotto - Solid Shell Walnut Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=383:drumaccess-craviotto-solid-shell-walnut-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.12 DrumAccess - DW - Collectors Maple Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=528:drumaccess-dw-collectorsmaplekit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.13 DrumAccess - Fibes - Maple Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=388:drumaccess-fibes-maple-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.14 DrumAccess - Gretsch - Broadkaster Kit - Damped", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=426:da-gretsch-broadkaster-kit-damped-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.15 DrumAccess - Ludwig - Calfskin 1930s Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=391:drumaccess-ludwig-calfskin-1930s-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.16 DrumAccess - Ludwig - Stainless Steel Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=380:drumaccess-ludwig-stainlesssteelkit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.17 DrumAccess - Ludwig - Superclassic 70s Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=418:drumaccess-ludwig-superclassic-70s-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.18 DrumAccess - Mayer - Bros Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=414:drumaccess-mayer-bros-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.19 DrumAccess - Pearl - Masters Extra Maple Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=385:drumacces-pearl-masters-extra-maple-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.20 DrumAccess - Percussions Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=395:drumaccess-percussions-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.21 DrumAccess - Q Drum Co. - Copper Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=399:drumaccess-q-drum-co-copper-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.22 DrumAccess - Slingerland - Radio King 1940s Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=401:drumaccess-slingerland-radio-king-1940s-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.23 DrumAccess - Tama - Starclassic Performer Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=420:drumaccess-tama-starclassic-performer-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.24 DrumAccess - Gretsch - Broadkaster Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=412:da-gretsch-broadkaster-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.25 DrumAccess - Yamaha - Recording Custom Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=422:drumaccess-yamaha-recording-custom-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.26 DrumAccess - Gretsch - 60s Round Badge Kit Damped", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=428:drumaccess-gretsch-60s-round-badge-kit-damped-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.27 DrumAccess - DW - Deep Blue Oyster Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=378:drumaccess-dw-deep-blue-oyster-kit-fr&catid=58&lang=fr&Itemid=213"},
+   {name = "28.28 DrumAccess - Gretsch - USA Custom Kit - Damped", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=437:drumaccess-gretsch-usa-custom-kit-damped-fr&catid=58&lang=fr&Itemid=213"},
    {name = "28.29 DrumAccess - Mapex - Velvetone Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=438:drumaccess-mapex-velvetone-kit-fr&catid=58&lang=fr&Itemid=213"},
    {name = "28.30 DrumAccess - Mapex - Mars Birtch Shell Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=443:drumaccess-mapex-mars-birch-shell-kit&catid=58&lang=fr&Itemid=213"},
    {name = "28.31 DrumAccess - Ludwig - 1950s Kit", url = "https://reaperaccessible.fr/index.php?option=com_content&view=article&id=521:drumaccess-ludwig-1950s-kit&catid=58&lang=fr&Itemid=213"},
