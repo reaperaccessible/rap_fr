@@ -1,0 +1,65 @@
+desc: TunerAccess (ReaperAccessible)
+version: 1.0
+author: Lee JULIEN
+tags: Tuner
+
+
+slider1:-12<-120,6,1>Wet Mix (dB)
+slider2:-6<-120,6,1>Dry Mix (dB)
+// Removed unused Base Frequency slider
+slider3:0<0,11,1{A,A#,B,C,C#,D,D#,E,F,F#,G,G#}>Note
+slider4:0<-100,100,1>Fine Tune (cents)
+slider5:0<0,2,1{Sine,Triangle,Saw}>Shape
+slider6:0<0,6,1{E4,B3,G3,D3,A2,E2,D2}>6 strings Guitar
+
+in_pin:left input
+in_pin:right input
+out_pin:left output
+out_pin:right output
+
+@init
+// Standard tuning frequencies (Hz) for guitar strings
+stringFreqs[0] = 329.63; // E4
+stringFreqs[1] = 246.94; // B3
+stringFreqs[2] = 196.00; // G3
+stringFreqs[3] = 146.83; // D3
+stringFreqs[4] = 110.00; // A2
+stringFreqs[5] = 82.41;  // E2
+stringFreqs[6] = 73.42;  // D2 (Drop D)
+
+@slider
+// Calculate volumes
+vol = 2 ^ (slider1 / 6);
+dry = 2 ^ (slider2 / 6);
+
+// Map string selection (0–6) directly to base frequency
+baseFreq = stringFreqs[slider6];
+
+// Apply note and fine-tune adjustments
+freq = baseFreq * (2 ^ (slider3 / 12 + slider4 / 1200));
+
+// Compute phase increment
+adj = 2.0 * $pi * freq / srate;
+
+@sample
+// Generate oscillator tone based on selected shape
+shapeId = slider5;
+(shapeId < 0.67) ? (
+  tone = cos(pos);
+) : (
+(shapeId < 1.33) ? (
+  tone = 2.0 * pos / $pi - 1.0;
+  (tone > 1.0) ? tone = 2.0 - tone;
+) : (
+  tone = 1.0 - pos / $pi;
+)
+);
+
+// Mix tone with dry signal
+tone *= vol;
+spl0 = tone + spl0 * dry;
+spl1 = tone + spl1 * dry;
+
+// Advance and wrap phase
+pos += adj;
+(pos >= 2.0 * $pi) ? pos -= 2.0 * $pi;

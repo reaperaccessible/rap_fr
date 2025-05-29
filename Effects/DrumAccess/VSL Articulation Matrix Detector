@@ -1,0 +1,61 @@
+desc: VSL Articulation Matrix Detector
+version: 1.0
+
+slider1:0<0,127,1>Catégorie (note)
+slider2:0<0,127,1>Sous-catégorie (note)
+slider3:0<0,127,1>Articulation (note)
+
+@init
+// Par défaut, aucune note détectée
+note_category = -1;
+note_subcategory = -1;
+note_articulation = -1;
+
+@block
+while (
+  midirecv(offset, msg1, msg2, msg3)
+)(
+  status = msg1 & 0xF0;
+  channel = msg1 & 0x0F;
+  pitch = msg2;
+  vel = msg3;
+
+  // Note On (0x90) avec vélocité > 0
+  (status == 0x90 && vel > 0) ? (
+    // Catégories: C1 (24), C#1 (25), C#2 (37), etc.
+    // Sous-catégories: F1 (29), F#1 (30)
+    // Articulations: C2 (36), C#2 (37), D2 (38)
+    
+    // Selon la note reçue, affecte une catégorie, sous-catégorie ou articulation
+    (pitch >= 24 && pitch <= 26) ? (
+      note_category = pitch;
+    ) :
+    (pitch >= 29 && pitch <= 31) ? (
+      note_subcategory = pitch;
+    ) :
+    (pitch >= 36 && pitch <= 38) ? (
+      note_articulation = pitch;
+    );
+  );
+
+  midisend(offset, msg1, msg2, msg3); // laisse passer les événements MIDI
+);
+
+@sample
+// Expose les dernières valeurs détectées aux sliders
+note_category >= 0 ? (
+  slider1 = note_category;
+);
+
+note_subcategory >= 0 ? (
+  slider2 = note_subcategory;
+);
+
+note_articulation >= 0 ? (
+  slider3 = note_articulation;
+);
+
+// Réinitialiser pour ne pas bloquer sur une note
+note_category = -1;
+note_subcategory = -1;
+note_articulation = -1;
