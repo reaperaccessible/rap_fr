@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="b9f6947c28515c0480de5880fe53c595e1bdb407">
+<index version="1" name="ReaperAccessible scripts" commit="7563e905101fc9cbfc34f1cdcc521fef0763ea92">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1244,6 +1244,53 @@
       <version name="1.2" author="Lee JULIEN for ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20%C3%89noncer%20le%20volume%20du%20Master.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="ReaperAccessible">
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_1.jsfx" type="effect" desc="DrumAccess Cymbal Mapper 1 (LRL ReaperAccessible)">
+      <version name="1.0" author="Louis-rock Lampron" time="2025-06-03T01:58:42Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/7563e905101fc9cbfc34f1cdcc521fef0763ea92/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_1.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_2.jsfx" type="effect" desc="DrumAccess Cymbal Mapper 2 (LRL ReaperAccessible)">
+      <version name="1.0" author="Louis-rock Lampron" time="2025-06-03T01:58:42Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/7563e905101fc9cbfc34f1cdcc521fef0763ea92/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_2.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_3.jsfx" type="effect" desc="DrumAccess Cymbal Mapper 3 (LRL ReaperAccessible)">
+      <version name="1.0" author="Louis-rock Lampron" time="2025-06-03T01:58:42Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/7563e905101fc9cbfc34f1cdcc521fef0763ea92/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_3.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_4.jsfx" type="effect" desc="DrumAccess Cymbal Mapper 4 (LRL ReaperAccessible)">
+      <version name="1.0" author="Louis-rock Lampron" time="2025-06-03T01:58:42Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/7563e905101fc9cbfc34f1cdcc521fef0763ea92/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_4.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_5.jsfx" type="effect" desc="DrumAccess Cymbal Mapper 5 (LRL ReaperAccessible)">
+      <version name="1.0" author="Louis-rock Lampron" time="2025-06-03T01:58:42Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/7563e905101fc9cbfc34f1cdcc521fef0763ea92/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_5.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_6.jsfx" type="effect" desc="DrumAccess Cymbal Mapper 6 (LRL ReaperAccessible)">
+      <version name="1.0" author="Louis-rock Lampron" time="2025-06-03T01:58:42Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/7563e905101fc9cbfc34f1cdcc521fef0763ea92/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_6.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_7.jsfx" type="effect" desc="DrumAccess Cymbal Mapper 7 (LRL ReaperAccessible)">
+      <version name="1.0" author="Louis-rock Lampron" time="2025-06-03T01:58:42Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/7563e905101fc9cbfc34f1cdcc521fef0763ea92/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_7.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="TunerAccess.jsfx" type="effect" desc="TunerAccess (ReaperAccessible)">
+      <version name="1.0" author="Lee JULIEN" time="2025-06-03T01:58:42Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/7563e905101fc9cbfc34f1cdcc521fef0763ea92/ReaperAccessible/TunerAccess.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="VSL Articulation Matrix Detector.jsfx" type="effect" desc="VSL Articulation Matrix Detector">
+      <version name="1.0" time="2025-06-03T01:58:42Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/7563e905101fc9cbfc34f1cdcc521fef0763ea92/ReaperAccessible/VSL%20Articulation%20Matrix%20Detector.jsfx</source>
       </version>
     </reapack>
   </category>
