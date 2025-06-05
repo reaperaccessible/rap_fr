@@ -1,5 +1,5 @@
 -- @description Reset KeySwitch File
--- @version 1.1
+-- @version 1.2
 -- @author Ludovic SANSONE and Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
@@ -20,4 +20,4 @@ end
 
 -- Send reset command to the main script
 reaper.SetExtState(EXT_SECTION, EXT_COMMAND, "RESET", false)
-reaper.osara_outputMessage("Reset command sent")
+reaper.osara_outputMessage("Reset has been sent.")
