@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="7ba5d13b62df2abba72098fb6caaa65fd66c2b75">
+<index version="1" name="ReaperAccessible scripts" commit="f25778d31b33bfd97b0b329f116735c58820ec3c">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -379,6 +379,10 @@
       <version name="1.4" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-05T15:41:00Z">
         <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/7ba5d13b62df2abba72098fb6caaa65fd66c2b75/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Reset%20KeySwitch%20File.lua</source>
+      </version>
+      <version name="1.5" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-05T15:44:15Z">
+        <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/f25778d31b33bfd97b0b329f116735c58820ec3c/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Reset%20KeySwitch%20File.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - KeySwitchAccess - Start KeySwitch Speech.lua" type="script" desc="Start KeySwitch Speech">
