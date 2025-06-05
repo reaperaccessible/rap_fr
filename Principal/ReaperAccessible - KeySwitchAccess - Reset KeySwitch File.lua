@@ -1,5 +1,5 @@
 -- @description Reset KeySwitch File
--- @version 1.4
+-- @version 1.5
 -- @author Ludovic SANSONE and Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
