@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="aff9b7b3eef000711ca1492425f40b3d9a442e07">
+<index version="1" name="ReaperAccessible scripts" commit="4ee3a5e943f88e21dff7147b87218e19546d9eb8">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -336,11 +336,19 @@
         <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/aff9b7b3eef000711ca1492425f40b3d9a442e07/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Import%20KeySwitch%20File.lua</source>
       </version>
+      <version name="1.1" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-05T15:20:34Z">
+        <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/4ee3a5e943f88e21dff7147b87218e19546d9eb8/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Import%20KeySwitch%20File.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - KeySwitchAccess - Insert KeySwitch Notes.lua" type="script" desc="Insert KeySwitch Notes">
       <version name="1.0" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-04T17:26:33Z">
         <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/aff9b7b3eef000711ca1492425f40b3d9a442e07/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Insert%20KeySwitch%20Notes.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-05T15:20:34Z">
+        <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/4ee3a5e943f88e21dff7147b87218e19546d9eb8/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Insert%20KeySwitch%20Notes.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - KeySwitchAccess - Reset KeySwitch File.lua" type="script" desc="Reset KeySwitch File">
@@ -348,17 +356,29 @@
         <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/aff9b7b3eef000711ca1492425f40b3d9a442e07/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Reset%20KeySwitch%20File.lua</source>
       </version>
+      <version name="1.1" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-05T15:20:34Z">
+        <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/4ee3a5e943f88e21dff7147b87218e19546d9eb8/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Reset%20KeySwitch%20File.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - KeySwitchAccess - Start KeySwitch Speech.lua" type="script" desc="Start KeySwitch Speech">
       <version name="2.0" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-04T17:26:33Z">
         <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/aff9b7b3eef000711ca1492425f40b3d9a442e07/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Start%20KeySwitch%20Speech.lua</source>
       </version>
+      <version name="2.1" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-05T15:20:34Z">
+        <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/4ee3a5e943f88e21dff7147b87218e19546d9eb8/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Start%20KeySwitch%20Speech.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - KeySwitchAccess - Stop KeySwitch Speech.lua" type="script" desc="Stop KeySwitch Speech">
       <version name="1.0" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-04T17:26:33Z">
         <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/aff9b7b3eef000711ca1492425f40b3d9a442e07/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Stop%20KeySwitch%20Speech.lua</source>
+      </version>
+      <version name="1.1" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-05T15:20:34Z">
+        <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/4ee3a5e943f88e21dff7147b87218e19546d9eb8/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Stop%20KeySwitch%20Speech.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Adapter la longueur de l'objet d'automatisation selon la sélection temporelle.lua" type="script" desc="Adapter la longueur de l'objet d'automatisation selon la sélection temporelle">
