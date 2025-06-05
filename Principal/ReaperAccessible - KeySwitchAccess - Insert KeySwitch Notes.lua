@@ -1,5 +1,5 @@
 -- @description Insert KeySwitch Notes
--- @version 1.1
+-- @version 1.2
 -- @author Ludovic SANSONE and Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
@@ -14,10 +14,10 @@ local EXT_COMMAND = "COMMAND"
 -- Check if the main script is running
 local is_running = reaper.GetExtState(EXT_SECTION, EXT_IS_RUNNING) == "1"
 if not is_running then
-  reaper.osara_outputMessage("KeySwitch Access is not running. Please start the main script first.")
+  reaper.osara_outputMessage("Reset has been sent.")
   return
 end
 
 -- Send insert command to the main script
 reaper.SetExtState(EXT_SECTION, EXT_COMMAND, "INSERT", false)
-reaper.osara_outputMessage("Insert command sent")
+reaper.osara_outputMessage("Notes inserted")
