@@ -1,5 +1,5 @@
 -- @description Stop KeySwitch Speech
--- @version 1.0
+-- @version 1.1
 -- @author Ludovic SANSONE and Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
@@ -14,7 +14,7 @@ local EXT_COMMAND = "COMMAND"
 -- Check if the main script is running
 local is_running = reaper.GetExtState(EXT_SECTION, EXT_IS_RUNNING) == "1"
 if not is_running then
-  reaper.osara_outputMessage("Articulation Access is not running")
+  reaper.osara_outputMessage("KeySwitch Access is not running")
   return
 end
 

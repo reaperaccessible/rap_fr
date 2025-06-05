@@ -1,5 +1,5 @@
 -- @description Start KeySwitch Speech
--- @version 2.0
+-- @version 2.1
 -- @author Ludovic SANSONE and Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
@@ -147,19 +147,20 @@ local current_path = {}        -- Current path in the articulation tree
 local last_selected_articulations = {}  -- Last selected articulations at each level
 local last_selected_track = nil -- To detect track changes
 local initial_load_complete = false -- To ensure initial loading is complete
+local pending_articulations = {}  -- Pour stocker les articulations en attente d'annonce
 
 -- Debug function to print articulation info
 function debug_articulations()
-  reaper.osara_outputMessage("Articulation debug:")
+  reaper.osara_outputMessage("KeySwitch debug:")
   
   -- Check articulation tree
   if articulation_tree then
-    reaper.osara_outputMessage("Articulation tree loaded")
+    reaper.osara_outputMessage("KeySwitch tree loaded")
     if articulation_tree.instrument then
       reaper.osara_outputMessage("Instrument: " .. articulation_tree.instrument)
     end
   else
-    reaper.osara_outputMessage("No articulation tree loaded")
+    reaper.osara_outputMessage("No KeySwitch tree loaded")
   end
   
   -- Check last selected articulations
@@ -171,7 +172,7 @@ function debug_articulations()
   end
   
   if count == 0 then
-    reaper.osara_outputMessage("No articulations selected")
+    reaper.osara_outputMessage("No KeySwitch selected")
   end
 end
 
@@ -283,7 +284,7 @@ end
 
 -- Function to import an articulation file
 function import_articulation_file()
-  local retval, filepath = reaper.GetUserFileNameForRead("", "Select articulation file", "aaf")
+  local retval, filepath = reaper.GetUserFileNameForRead("", "Select KeySwitch file", "aaf")
   
   if not retval then
     reaper.osara_outputMessage("Import canceled")
@@ -308,7 +309,7 @@ function import_articulation_file()
       if articulation_tree.instrument then
         reaper.osara_outputMessage(articulation_tree.instrument)
       else
-        reaper.osara_outputMessage("Articulations loaded")
+        reaper.osara_outputMessage("KeySwitch loaded")
       end
     else
       reaper.osara_outputMessage("No track selected")
@@ -335,7 +336,7 @@ function insert_last_notes_to_midi()
   end
   
   if not has_articulations then
-    reaper.osara_outputMessage("No articulations selected. Play some MIDI notes first.")
+    reaper.osara_outputMessage("No KeySwitch selected. Play some MIDI notes first.")
     return
   end
   
@@ -410,7 +411,7 @@ function insert_last_notes_to_midi()
     reaper.UpdateItemInProject(item)
     reaper.osara_outputMessage(notes_inserted .. " notes inserted")
   else
-    reaper.osara_outputMessage("No notes inserted - articulations might not have note values")
+    reaper.osara_outputMessage("No notes inserted - KeySwitch might not have note values")
   end
 end
 
@@ -430,9 +431,10 @@ function reset_track_articulations()
   articulation_tree = nil
   current_path = {}
   last_selected_articulations = {}
+  pending_articulations = {}
   
   -- Announce articulation mode
-  reaper.osara_outputMessage("Reset articulations")
+  reaper.osara_outputMessage("Reset KeySwitch")
 end
 
 -- Function to check if the selected track has changed
@@ -447,6 +449,7 @@ function check_track_change()
     articulation_tree = nil
     current_path = {}
     last_selected_articulations = {}
+    pending_articulations = {}
     
     if current_track then
       -- New track selected, try to load its articulation file
@@ -494,7 +497,7 @@ function main()
       reset_track_articulations()
     elseif command == "QUIT" then
       script_running = false
-      reaper.osara_outputMessage("Articulation Access stopped")
+      reaper.osara_outputMessage("KeySwitch Access stopped")
       return
     elseif command == "DEBUG" then
       debug_articulations()
@@ -513,10 +516,9 @@ function main()
     local msg3 = string.byte(buf, 3) or 0
     
     local status = msg1 & 0xF0
+    local note = msg2
     
     if status == 0x90 and msg3 > 0 then  -- Note On
-      local note = msg2
-      
       if articulation_tree then
         -- Look in all possible zones to find where this note belongs
         local found_level = nil
@@ -553,36 +555,47 @@ function main()
           end
         end
         
-        -- If we found an articulation for this note
+        -- If we found an articulation for this note, store it for later announcement
         if found_level and articulation_name then
-          -- Update the current path
-          current_path[found_level] = articulation_name
-          
-          -- Clear the following levels
-          for i = found_level + 1, #current_path do
-            current_path[i] = nil
-          end
-          
-          -- Update the selected articulations
-          local available = get_available_articulations_at_level(articulation_tree, found_level)
-          for _, art in ipairs(available) do
-            if art.name == articulation_name then
-              last_selected_articulations[found_level] = art
-              break
-            end
-          end
-          
-          -- Announce the articulation
-          if config.display_full_path then
-            reaper.osara_outputMessage(get_articulation_path())
-          else
-            reaper.osara_outputMessage(articulation_name)
+          pending_articulations[note] = {
+            level = found_level,
+            name = articulation_name
+          }
+        end
+      end
+      
+    elseif status == 0x80 or (status == 0x90 and msg3 == 0) then  -- Note Off
+      -- Check if we have a pending articulation for this note
+      if pending_articulations[note] then
+        local pending = pending_articulations[note]
+        
+        -- Update the current path
+        current_path[pending.level] = pending.name
+        
+        -- Clear the following levels
+        for i = pending.level + 1, #current_path do
+          current_path[i] = nil
+        end
+        
+        -- Update the selected articulations
+        local available = get_available_articulations_at_level(articulation_tree, pending.level)
+        for _, art in ipairs(available) do
+          if art.name == pending.name then
+            last_selected_articulations[pending.level] = art
+            break
           end
         end
-        -- Notes without articulation are silent (no processing)
+        
+        -- Announce the articulation NOW (au relâchement)
+        if config.display_full_path then
+          reaper.osara_outputMessage(get_articulation_path())
+        else
+          reaper.osara_outputMessage(pending.name)
+        end
+        
+        -- Remove from pending
+        pending_articulations[note] = nil
       end
-      -- Si aucun arbre d'articulation n'est chargé, rester silencieux
-      -- Nous avons supprimé le bloc else qui vocalisait le nom des notes
     end
   end
   
@@ -593,7 +606,7 @@ end
 function init()
   -- Check if another instance is already running
   if reaper.GetExtState(EXT_SECTION, EXT_IS_RUNNING) == "1" then
-    reaper.osara_outputMessage("Articulation Access is already running")
+    reaper.osara_outputMessage("KeySwitch Access is already running")
     script_running = false
     return
   end
@@ -620,7 +633,7 @@ function init()
   initial_load_complete = true
   
   -- Seulement annoncer le démarrage du script
-  reaper.osara_outputMessage("Articulation Access started!")
+  reaper.osara_outputMessage("KeySwitch Access started!")
 end
 
 -- Start the script
@@ -633,5 +646,5 @@ end
 reaper.atexit(function()
   script_running = false
   reaper.SetExtState(EXT_SECTION, EXT_IS_RUNNING, "0", false)
-  reaper.osara_outputMessage("Articulation Access stopped")
+  reaper.osara_outputMessage("KeySwitchAccess stopped")
 end)
