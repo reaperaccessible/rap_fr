@@ -1,5 +1,5 @@
 -- @description Start KeySwitch Speech
--- @version 2.1
+-- @version 2.2
 -- @author Ludovic SANSONE and Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
@@ -341,7 +341,7 @@ function insert_last_notes_to_midi()
   end
   
   -- Get the current playback position
-  local play_pos = reaper.GetPlayPosition()
+  local play_pos = reaper.GetCursorPosition()
   
   -- Look for an item at the current position
   local item_count = reaper.CountTrackMediaItems(track)
@@ -360,8 +360,11 @@ function insert_last_notes_to_midi()
   
   if not item then
     -- If no item at the current position, create a new MIDI item
-    local item_length = 1.0  -- default length of 1 second
-    item = reaper.CreateNewMIDIItemInProj(track, play_pos, play_pos + item_length, false)
+    -- If no item at the current position, create a new MIDI item of 1/128 note duration
+    local start_qn = reaper.TimeMap2_timeToQN(0, play_pos)
+    local end_qn   = start_qn + (1/32)  -- 1/128 note = 1/32 QN
+    local end_time = reaper.TimeMap2_QNToTime(0, end_qn)
+    item = reaper.CreateNewMIDIItemInProj(track, play_pos, end_time, false)
     if not item then
       reaper.osara_outputMessage("Unable to create MIDI item")
       return
@@ -387,7 +390,7 @@ function insert_last_notes_to_midi()
   
   -- Get the tempo and calculate the duration of a 32nd note
   local retval, notecnt, _, _ = reaper.MIDI_CountEvts(take)
-  local grid_qn = 1/8  -- 32nd note = 1/8 of a beat
+  local grid_qn = 1/32  -- 128th note = 1/32 QN
   local note_duration = reaper.MIDI_GetPPQPosFromProjQN(take, grid_qn)
   
   local notes_inserted = 0
