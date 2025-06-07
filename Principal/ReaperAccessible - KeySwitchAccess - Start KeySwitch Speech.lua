@@ -1,5 +1,5 @@
 -- @description Start KeySwitch Speech
--- @version 2.2
+-- @version 2.3
 -- @author Ludovic SANSONE and Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
@@ -284,7 +284,12 @@ end
 
 -- Function to import an articulation file
 function import_articulation_file()
-  local retval, filepath = reaper.GetUserFileNameForRead("", "Select KeySwitch file", "aaf")
+  -- Force le dossier Data\KeySwitchAccess dans les ressources
+  local resource_path = reaper.GetResourcePath()
+  local default_import_folder = resource_path .. "\\Data\\KeySwitchAccess"
+  reaper.RecursiveCreateDirectory(default_import_folder, 0)
+  local init_path = default_import_folder .. "\\*.*"
+  local retval, filepath = reaper.GetUserFileNameForRead(init_path, "Select KeySwitch file", "")
   
   if not retval then
     reaper.osara_outputMessage("Import canceled")

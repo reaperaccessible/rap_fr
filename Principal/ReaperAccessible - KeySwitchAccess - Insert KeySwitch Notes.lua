@@ -1,5 +1,5 @@
 -- @description Insert KeySwitch Notes
--- @version 1.2
+-- @version 1.3
 -- @author Ludovic SANSONE and Lee JULIEN for ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
@@ -14,7 +14,7 @@ local EXT_COMMAND = "COMMAND"
 -- Check if the main script is running
 local is_running = reaper.GetExtState(EXT_SECTION, EXT_IS_RUNNING) == "1"
 if not is_running then
-  reaper.osara_outputMessage("Reset has been sent.")
+  reaper.osara_outputMessage("KeySwitchAccess is not currently running. Please launch the Start KeySwitch Speech script first.")
   return
 end
 
