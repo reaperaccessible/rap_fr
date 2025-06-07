@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="191ac13d291c1ceaecfc89335db3f123f9baa813">
+<index version="1" name="ReaperAccessible scripts" commit="d8502298c4af3c237886f39dc525742cb5f36901">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -362,6 +362,10 @@
         <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/ad35afac4a3719f18a4b1398f5b49a076bb1c168/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Insert%20KeySwitch%20Notes.lua</source>
       </version>
+      <version name="1.3" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-07T23:26:11Z">
+        <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/d8502298c4af3c237886f39dc525742cb5f36901/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Insert%20KeySwitch%20Notes.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - KeySwitchAccess - Reset KeySwitch File.lua" type="script" desc="Reset KeySwitch File">
       <version name="1.0" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-04T17:26:33Z">
@@ -401,6 +405,10 @@
       <version name="2.2" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-06T21:09:52Z">
         <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/191ac13d291c1ceaecfc89335db3f123f9baa813/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Start%20KeySwitch%20Speech.lua</source>
+      </version>
+      <version name="2.3" author="Ludovic SANSONE and Lee JULIEN for ReaperAccessible" time="2025-06-07T23:26:11Z">
+        <changelog><![CDATA[# 2025-05-13 - New script]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/d8502298c4af3c237886f39dc525742cb5f36901/Principal/ReaperAccessible%20-%20KeySwitchAccess%20-%20Start%20KeySwitch%20Speech.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - KeySwitchAccess - Stop KeySwitch Speech.lua" type="script" desc="Stop KeySwitch Speech">
