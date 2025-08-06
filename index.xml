@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="20f46fe927cd7fa3849056b464031a5305bf5e73">
+<index version="1" name="ReaperAccessible scripts" commit="8e512f539982dbfb3d8da7cf521c57d3ea2083d3">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -823,16 +823,6 @@
       <version name="1.3" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20bord%20gauche%20des%20Objets%20d'automatisation%20s%C3%A9lectionn%C3%A9s%20au%20d%C3%A9but%20de%20la%20s%C3%A9lection%20temporelle.lua</source>
-      </version>
-    </reapack>
-    <reapack name="ReaperAccessible - Principal - Déplacer le curseur d'édition au début du battement actuel.eel" type="script" desc="Aller au début du temps précédent">
-      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
-        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20battement%20actuel.eel</source>
-      </version>
-    </reapack>
-    <reapack name="ReaperAccessible - Principal - Déplacer le curseur d'édition au début du prochain battement.eel" type="script" desc="Aller au début du temps suivant">
-      <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
-        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/8d2c7081f511c66b812334bb140e8be62850c8b5/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20le%20curseur%20d'%C3%A9dition%20au%20d%C3%A9but%20du%20prochain%20battement.eel</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode batterie).lua" type="script" desc="Exporter chaque objet sélectionné vers une instance du RS5K (Mode batterie)">
