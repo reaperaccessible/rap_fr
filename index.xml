@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="ed2117ba950dcbb6b1a17f208b3104922f6c09a8">
+<index version="1" name="ReaperAccessible scripts" commit="4aaa79a723989648c6eccde8cf295b3da79077b9">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1012,6 +1012,12 @@
       <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Lancer%20un%20enregistrement%20en%20fonction%20du%20mode%20Ripple.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Outil d'objets MIDI Poolés.lua" type="script" desc="Outil d'objets MIDI Poolés">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2025-11-24T02:26:37Z">
+        <changelog><![CDATA[# 2025-11-23 - Nouveau script]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/4aaa79a723989648c6eccde8cf295b3da79077b9/Principal/ReaperAccessible%20-%20Principal%20-%20Outil%20d'objets%20MIDI%20Pool%C3%A9s.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Ouvrir le menu des répertoires.lua" type="script" desc="Ouvrir le menu des répertoires">
