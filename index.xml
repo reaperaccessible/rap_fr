@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="f0fea763b694c98c431f0edc17622f482f339b0d">
+<index version="1" name="ReaperAccessible scripts" commit="5c4cdc9b1d3227becf27cc2c93adcc32d011a7af">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -249,7 +249,7 @@
     </reapack>
   </category>
   <category name="LangPack">
-    <reapack name="REAPER_SWS_FRC.ReaperLangPack" type="langpack" desc="Français V7.58.1 par ReaperAccessible">
+    <reapack name="REAPER_SWS_FRC.ReaperLangPack" type="langpack" desc="Français V7.61.1 par ReaperAccessible">
       <version name="7.05" author="Lee JULIEN et Pierre-Marie CURT" time="2024-04-02T07:43:02Z">
         <source>https://github.com/reaperaccessible/rap_fr/raw/4f11ad4b4f522f4b2670635a9b51f163695d61c3/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
       </version>
@@ -345,6 +345,9 @@
       </version>
       <version name="7.58.1" author="ReaperAccessible" time="2026-01-06T14:06:25Z">
         <source>https://github.com/reaperaccessible/rap_fr/raw/f0fea763b694c98c431f0edc17622f482f339b0d/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
+      </version>
+      <version name="7.61.1" author="ReaperAccessible" time="2026-02-04T22:31:40Z">
+        <source>https://github.com/reaperaccessible/rap_fr/raw/5c4cdc9b1d3227becf27cc2c93adcc32d011a7af/LangPack/REAPER_SWS_FRC.ReaperLangPack</source>
       </version>
     </reapack>
   </category>
