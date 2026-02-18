@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="5c4cdc9b1d3227becf27cc2c93adcc32d011a7af">
+<index version="1" name="ReaperAccessible scripts" commit="bd7359e3f1e8dcf6066fa84151bd039695aa9e15">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1617,6 +1617,18 @@
       <version name="1.1" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20Scinder%20les%20notes%20s%C3%A9lectionn%C3%A9es%20en%20parties%20%C3%A9gales.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner l'accord précédent.lua" type="script" desc="Sélectionner l'accord précédent">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible augmented by Chessel" time="2026-02-18T04:03:43Z">
+        <changelog><![CDATA[# 2024-09-18 - New script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/bd7359e3f1e8dcf6066fa84151bd039695aa9e15/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20l'accord%20pr%C3%A9c%C3%A9dent.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner l'accord suivant.lua" type="script" desc="Sélectionner l'accord suivant">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible augmented by Chessel" time="2026-02-18T04:03:43Z">
+        <changelog><![CDATA[# 2024-09-18 - New script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/bd7359e3f1e8dcf6066fa84151bd039695aa9e15/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20S%C3%A9lectionner%20l'accord%20suivant.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Éditeur MIDI - Sélectionner tous les événements MIDI CC spécifiés par l'utilisateur des objets sélectionnés.lua" type="script" desc="Sélectionner tous les événements MIDI CC spécifiés par l'utilisateur des objets sélectionnés">
