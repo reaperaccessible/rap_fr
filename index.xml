@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="50e9607f926f5cc1fcb51b4eff68b38d4cc5a909">
+<index version="1" name="ReaperAccessible scripts" commit="c909b65b69308715fad03e55005d914937522770">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1687,6 +1687,12 @@
       <version name="1.3" author="Lee JULIEN pour ReaperAccessible augmented by Chessel" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20V%C3%A9locit%C3%A9%20croissante%20ou%20d%C3%A9croissante%20entre%202%20bornes%20saisies%20par%20l'utilisateur.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Éditeur MIDI - Éditer la valeur de tous les MIDI CC specifiques de l'objet sélectionné.lua" type="script" desc="Éditer la valeur de tous les MIDI CC specifiques de l'objet sélectionné">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible augmented by Chessel" time="2026-02-19T00:31:20Z">
+        <changelog><![CDATA[#2026-02-18 - Nouveau script]]></changelog>
+        <source main="midi_editor">https://github.com/reaperaccessible/rap_fr/raw/c909b65b69308715fad03e55005d914937522770/%C3%89diteur%20MIDI/ReaperAccessible%20-%20%C3%89diteur%20MIDI%20-%20%C3%89diter%20la%20valeur%20de%20tous%20les%20MIDI%20CC%20specifiques%20de%20l'objet%20s%C3%A9lectionn%C3%A9.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Éditeur MIDI - Élaguer ou étirer la position des notes sélectionnées.lua" type="script" desc="Élaguer ou étirer la position des notes sélectionnées">
