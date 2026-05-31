@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="70011c1dc1841292e1a19cf08a367df84d061662">
+<index version="1" name="ReaperAccessible scripts" commit="953d86299d330948ca50e2ce0d6994a5335af5f5">
   <category name="DrumAccess">
     <reapack name="ReaperAccessible - DrumAccess - Désactiver les microphones Close.lua" type="script" desc="Désactiver les microphones Close pour DrumAccess">
       <version name="1.1" author="Lee JULIEN for Reaper Accessible" time="2024-09-13T01:37:03Z">
@@ -1039,6 +1039,12 @@
       <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Ouvrir%20le%20menu%20des%20r%C3%A9pertoires.lua</source>
+      </version>
+    </reapack>
+    <reapack name="ReaperAccessible - Principal - Régler le niveau de zoom horizontal.lua" type="script" desc="Régler le niveau de zoom horizontal">
+      <version name="1.0" author="Lee JULIEN pour ReaperAccessible" time="2026-05-31T15:24:02Z">
+        <changelog><![CDATA[# 2025-05-31 - Nouveau script]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/953d86299d330948ca50e2ce0d6994a5335af5f5/Principal/ReaperAccessible%20-%20Principal%20-%20R%C3%A9gler%20le%20niveau%20de%20zoom%20horizontal.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Saisir le volume de toute les pistes sélectionnées.lua" type="script" desc="Saisir le volume de toute les pistes sélectionnées">
