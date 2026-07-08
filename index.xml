@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="6cf2155d4819e1df654987f8288e90dc28d83cf8">
+<index version="1" name="ReaperAccessible scripts" commit="7f0738852006c57c83239411fd3380ea7e94554b">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="Aller au marqueur précédent">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
@@ -716,6 +716,14 @@
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20bas%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
       </version>
+      <version name="1.3" author="Ludovic SANSONE pour ReaperAccessible" time="2026-07-08T00:42:11Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log
+# 2026-07-07 - Correction de l'annonce OSARA lors d'une annulation du déplacement
+# 2026-07-07 - Ajout de l'annonce de la position de la piste après le déplacement
+# 2026-07-07 - Ajout de l'annonce lorsque la piste est déjà en première/dernière position
+# 2026-07-07 - Protection de l'annonce contre les messages parasites d'OSARA]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/7f0738852006c57c83239411fd3380ea7e94554b/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20bas%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Déplacer la piste sélectionnée un rang vers le haut (demander pour les dossiers de pistes).lua" type="script" desc="Déplacer la piste sélectionnée un rang vers le haut (demander pour les dossiers de pistes)">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-02T07:20:25Z">
@@ -727,6 +735,14 @@
       <version name="1.2" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20haut%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
+      </version>
+      <version name="1.3" author="Ludovic SANSONE pour ReaperAccessible" time="2026-07-08T00:42:11Z">
+        <changelog><![CDATA[# 2024-09-18 - Ajout d'un log
+# 2026-07-07 - Correction de l'annonce OSARA lors d'une annulation du déplacement
+# 2026-07-07 - Ajout de l'annonce de la position de la piste après le déplacement
+# 2026-07-07 - Ajout de l'annonce lorsque la piste est déjà en première/dernière position
+# 2026-07-07 - Protection de l'annonce contre les messages parasites d'OSARA]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/7f0738852006c57c83239411fd3380ea7e94554b/Principal/ReaperAccessible%20-%20Principal%20-%20D%C3%A9placer%20la%20piste%20s%C3%A9lectionn%C3%A9e%20un%20rang%20vers%20le%20haut%20(demander%20pour%20les%20dossiers%20de%20pistes).lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Déplacer le bord droit des Objets d'automatisation sélectionnés à la fin de la sélection temporelle.lua" type="script" desc="Déplacer le bord droit des Objets d'automatisation sélectionnés à la fin de la sélection temporelle">
