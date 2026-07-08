@@ -1,38 +1,38 @@
 -- @description Déplacer la piste sélectionnée un rang vers le haut (demander pour les dossiers de pistes)
--- @version 1.2
+-- @version 1.3
 -- @author Ludovic SANSONE pour ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
 --   # 2024-09-18 - Ajout d'un log
+--   # 2026-07-07 - Correction de l'annonce OSARA lors d'une annulation du déplacement
+--   # 2026-07-07 - Ajout de l'annonce de la position de la piste après le déplacement
+--   # 2026-07-07 - Ajout de l'annonce lorsque la piste est déjà en première/dernière position
+--   # 2026-07-07 - Protection de l'annonce contre les messages parasites d'OSARA
 
 
 reaper.Undo_BeginBlock()
 
     local Scroll = 2
-             --  = 0 | OFF | ВЫКЛЮЧИТЬ СКРОЛЛИНГ \ DISABLE SCROLLING
-             --  = 1 | ON  | ВКЛЮЧИТЬ СКРОЛЛИНГ  \ ENABLE SCROLLING
-             --  = 2 | *ПРОКРУТКА НА МЕСТЕ \ SCROLLING IN PLACE; требуется/requires - reaper_js_ReaScriptAPI*)
+             --  = 0 | Désactiver le défilement
+             --  = 1 | Activer le défilement
+             --  = 2 | Défilement sur place (nécessite l'extension reaper_js_ReaScriptAPI)
              -------------------------------------------------------------------------------------------------
 
 
     local indent = 1
-                -- | ОТСТУП ПРИ ПРОКРУТКЕ, (В ТРЕКАХ); Работает только при "Scroll = 1"
-                -- | INDENT WHEN SCROLLING, (IN TRACKS); Works only when "Scroll = 1"
+                -- Décalage lors du défilement (en nombre de pistes) ; fonctionne seulement si "Scroll = 1"
                 ---------------------------------------------------------------------
 
 
-    local Ignore_superCollapse = 1 -- Работает только при / Works only when  "Scroll = 1"
-                             -- = 0 | НЕ ИГНОРИРОВАТЬ ТРЕКИ У СВЕРНУТЫХ ПАПОК ПРИ СКРОЛЛЕ
-                             -- = 1 | ИГНОРИРОВАТЬ ТРЕКИ У СВЕРНУТЫХ ПАПОК ПРИ СКРОЛЛЕ
-                                      ------------------------------------------------
-                             -- = 0 | DO NOT IGNORE TRACKS IN MINIMIZED FOLDERS WHEN SCROLLING
-                             -- = 1 | IGNORE TRACKS IN MINIMIZED FOLDERS WHEN SCROLLING
+    local Ignore_superCollapse = 1 -- Fonctionne seulement si "Scroll = 1"
+                             -- = 0 | Ne pas ignorer les pistes des dossiers réduits lors du défilement
+                             -- = 1 | Ignorer les pistes des dossiers réduits lors du défilement
                              ----------------------------------------------------------
 
 
     local MixerScroll = 1
-            --  = 0 | OFF | ВЫКЛЮЧИТЬ СКРОЛЛИНГ В МИКШЕРЕ \ DISABLE SCROLLING IN MIXER
-            --  = 1 | ON  | ВКЛЮЧИТЬ СКРОЛЛИНГ В МИКШЕРЕ \ ENABLE SCROLLING IN MIXER
+            --  = 0 | Désactiver le défilement dans la console de mixage
+            --  = 1 | Activer le défilement dans la console de mixage
             ------------------------------------------------------------------------
 
 
@@ -45,7 +45,7 @@ reaper.Undo_BeginBlock()
 
     --=========================================
     local function MODULE(file);
-        local E,A=pcall(dofile,file);if not(E)then;reaper.ShowConsoleMsg("\n\nError - "..debug.getinfo(1,'S').source:match('.*[/\\](.+)')..'\nMISSING FILE / ОТСУТСТВУЕТ ФАЙЛ!\n'..file:gsub('\\','/'))return;end;
+        local E,A=pcall(dofile,file);if not(E)then;reaper.ShowConsoleMsg("\n\nError - "..debug.getinfo(1,'S').source:match('.*[/\\](.+)')..'\nFICHIER MANQUANT !\n'..file:gsub('\\','/'))return;end;
         if not A.VersArcFun("2.8.5",file,'')then;A=nil;return;end;return A;
     end; local Arc = MODULE((reaper.GetResourcePath()..'/Scripts/ReaperAccessible scripts/Fonctions/Arc_Function_lua.lua'):gsub('\\','/'));
     if not Arc then return end;
@@ -89,10 +89,8 @@ reaper.Undo_BeginBlock()
                 return (height or 0) - position;
             else;
                 reaper.ShowConsoleMsg("");
-                reaper.ShowConsoleMsg("требуется расширение  - 'reaper_js_ReaScriptAPI'\n"..
-                                      "либо отключите скролл на месте\n\n"..
-                                      "require extension is requi - reaper_js_ReaScriptAPI\n"..
-                                      "or disable scroll in place");
+                reaper.ShowConsoleMsg("L'extension 'reaper_js_ReaScriptAPI' est requise pour le défilement sur place.\n"..
+                                      "Sinon, désactivez le défilement sur place (Scroll = 0 ou 1).");
             end;
         end;
     
@@ -140,9 +138,18 @@ reaper.Undo_BeginBlock()
                 reaper.SetMediaTrackInfo_Value(track,"I_SELECTED",0);
             end;
         end;
-    
-    
-        local ScrollCheck, Fol_W, Undo,wind,Guid,GetScrollTr,showFold;
+
+
+        local posBefore;
+        if VisibTCPGuid[1] then;
+            local trBefore = reaper.BR_GetMediaTrackByGUID(0, VisibTCPGuid[1]);
+            if trBefore then;
+                posBefore = math.floor(reaper.GetMediaTrackInfo_Value(trBefore, "IP_TRACKNUMBER"));
+            end;
+        end;
+
+
+        local ScrollCheck, Fol_W, Undo,wind,Guid,GetScrollTr,showFold,Cancelled;
         do;-->-0.1
     
             local CountSelTrack = reaper.CountSelectedTracks(0);
@@ -231,7 +238,7 @@ reaper.Undo_BeginBlock()
     
                                 if Script_Name == "ReaperAccessible - Principal - Déplacer la piste sélectionnée un rang vers le haut (demander pour les dossiers de pistes).lua" then;-->-3.21
     
-                                    --[--// Один запрос для всех треков перед папками //----
+                                    --[--// Une seule demande pour toutes les pistes avant les dossiers //----
                                     local NumbTr_w = {};
                                     if not wind then;-->-3.1
                                         for i3 = #Guid,1,-1 do;-->-3.2
@@ -266,14 +273,14 @@ reaper.Undo_BeginBlock()
                                             NumbTr_w = table.concat(NumbTr_w,", ").." - ";
                                             local text_w = "Souhaitez-vous déplacer cette piste dans le dossier ci-dessus ?"
                                              local MB = reaper.MB(text_w, "Déplacement de la piste vers le haut", 4);
-                                             if MB == 6 then Fol_W = 0 elseif MB == 2 then goto cancel end;
+                                             if MB == 6 then Fol_W = 0 elseif MB == 2 then Cancelled = true; goto cancel end;
                                         else;--<->-4.1
                                             wind = true;
                                         end;--<-4.1
                                     end;--<-3.1
                                     if Fol_W then PreDepth = Depth end;-->|<
                                 end;--<-3.21
-                                --]]-- << Запрос << ---////----////--------
+                                --]]-- << Fin de la demande ---////----////--------
     
     
                                 if Script_Name == "Archie_Track; Move selected tracks up by one visible(`).lua" then;
@@ -428,9 +435,25 @@ reaper.Undo_BeginBlock()
         else;
             Arc.no_undo();
         end;
-        local tr = reaper.GetSelectedTrack(0, 0)
-        local b, name = reaper.GetTrackName(tr)
-        reaper.osara_outputMessage(name .. " déplacée vers le haut")
+        if not Cancelled then;
+            local tr = reaper.GetSelectedTrack(0, 0)
+            if tr then;
+                local b, name = reaper.GetTrackName(tr)
+                local pos = math.floor(reaper.GetMediaTrackInfo_Value(tr, "IP_TRACKNUMBER"))
+                local total = reaper.CountTracks(0)
+                local message;
+                if posBefore and pos == posBefore then;
+                    message = name .. " est déjà la première piste de la liste"
+                else;
+                    message = name .. " déplacée vers le haut, piste " .. pos .. " sur " .. total
+                end;
+                reaper.Main_OnCommand(reaper.NamedCommandLookup("_OSARA_MUTENEXTMESSAGE"), 0)
+                reaper.Main_OnCommand(reaper.NamedCommandLookup("_OSARA_CONFIG_reportSurfaceChanges_DISABLE"), 0)
+                reaper.osara_outputMessage(message)
+                reaper.Main_OnCommand(reaper.NamedCommandLookup("_OSARA_MUTENEXTMESSAGE"), 0)
+                reaper.Main_OnCommand(reaper.NamedCommandLookup("_OSARA_CONFIG_reportSurfaceChanges_ENABLE"), 0)
+            end;
+        end;
     end;
     
     reaper.PreventUIRefresh(597814);
