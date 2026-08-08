@@ -1,71 +1,46 @@
 -- @description Exporter l'objet sélectionné vers une instance du RS5K, sur la piste sélectionnée (mode Round robin)
--- @version 1.2
+-- @version 1.3
 -- @author Lee JULIEN pour ReaperAccessible
 -- @provides [main=main] .
 -- @changelog
+--   # 2026-08-08 - Les notes MIDI generees restent sur la note de base
+--   # 2026-08-08 - Renommage par l'API officielle, piste deduite de l'objet selectionne, retours parles
 --   # 2024-09-18 - Ajout d'un log
 
 
 local script_title = 'Exporter chaque objet sélectionné vers une instance du RS5K, sur la piste sélectionnée (mode Round robin)'
 
--- Fonction pour charger les bibliothèques (vide car non nécessaire ici)
-function VF_LoadLibraries()
+------------------------------------------------------------------ OUTILS ----
+-- Retour parlé : OSARA si présent, sinon boîte de dialogue.
+local function RA_Say(msg)
+  if reaper.osara_outputMessage then reaper.osara_outputMessage(msg)
+  else reaper.ShowMessageBox(msg, 'RS5K', 0) end
 end
 
--- Fonction pour mettre à jour le compteur d'utilisation
-function VF2_UpdUsedCount() 
-  local cnt = reaper.GetExtState('MPL_Scripts', 'counttotal')
-  if cnt == '' then cnt = 0 end
-  cnt = tonumber(cnt)
-  if not cnt then cnt = 0 end
-  cnt = cnt + 1 
-  reaper.SetExtState('MPL_Scripts', 'counttotal', cnt, true)
+-- Résout la piste de travail : la piste sélectionnée, sinon celle qui porte
+-- le premier objet sélectionné. Sélectionner un objet suffit donc.
+local function RA_ResolveTrack()
+  local track = reaper.GetSelectedTrack(0, 0)
+  if track then return track end
+  local item = reaper.GetSelectedMediaItem(0, 0)
+  if item then return reaper.GetMediaItemTrack(item) end
+  return nil
 end
 
--- Appel des fonctions
-VF_LoadLibraries() 
-VF2_UpdUsedCount()
+------------------------------------------------------------------------------
+
+
 
 -- Fonction pour définir le nom de l'effet FX
 function F_SetFXName(track, fx, new_name)
-  local edited_line, edited_line_id, segm
-  -- Obtenir le GUID de référence
-  if not track or not tonumber(fx) then return end
-  local FX_GUID = reaper.TrackFX_GetFXGUID(track, fx)
-  if not FX_GUID then return else FX_GUID = FX_GUID:gsub('-',''):sub(2,-2) end
-  local plug_type = reaper.TrackFX_GetIOSize(track, fx)
-  -- Obtenir le chunk de la piste
-  local _, chunk = reaper.GetTrackStateChunk(track, '', false)
-  local t = {} 
-  for line in chunk:gmatch("[^\r\n]+") do t[#t+1] = line end
-  -- Trouver la ligne à éditer
-  local search
-  for i = #t, 1, -1 do
-    local t_check = t[i]:gsub('-','')
-    if t_check:find(FX_GUID) then search = true end
-    if t[i]:find('<') and search and not t[i]:find('JS_SER') then
-      edited_line = t[i]:sub(2)
-      edited_line_id = i
-      break
-    end
-  end
-  -- Analyser la ligne
-  if not edited_line then return end
-  local t1 = {}
-  for word in edited_line:gmatch('[%S]+') do t1[#t1+1] = word end
-  local t2 = {}
-  for i = 1, #t1 do
-    segm = t1[i]
-    if not q then t2[#t2+1] = segm else t2[#t2] = t2[#t2]..' '..segm end
-    if segm:find('"') and not segm:find('""') then if not q then q = true else q = nil end end
-  end
-  if plug_type == 2 then t2[3] = '"'..new_name..'"' end -- si JS
-  if plug_type == 3 then t2[5] = '"'..new_name..'"' end -- si VST
-  local out_line = table.concat(t2,' ')
-  t[edited_line_id] = '<'..out_line
-  local out_chunk = table.concat(t,'\n')
-  reaper.SetTrackStateChunk(track, out_chunk, false)
-  reaper.UpdateArrange()
+  -- Renommage via l'API officielle (REAPER 6.37+), qui remplace la
+  -- reecriture complete du bloc d'etat de la piste (GetTrackStateChunk /
+  -- SetTrackStateChunk) utilisee auparavant : plus court, et sans
+  -- reconstruire la piste au milieu du script.
+  if not track or not new_name then return end
+  fx = tonumber(fx)
+  if not fx or fx < 0 then return end
+  reaper.TrackFX_SetNamedConfigParm(track, fx, 'renamed_name', new_name)
 end
 
 -- Fonction pour coller les éléments sélectionnés indépendamment
@@ -141,7 +116,7 @@ function FormMIDItake_data()
   local MIDI = {}
   -- Vérifier la même piste / obtenir les infos des éléments
   local item = reaper.GetSelectedMediaItem(0,0)
-  if not item then return end
+  if not item then RA_Say("Aucun objet sélectionné") return end
   MIDI.it_pos = reaper.GetMediaItemInfo_Value(item, 'D_POSITION')
   MIDI.it_end_pos = MIDI.it_pos + 0.1
   local proceed_MIDI = true
@@ -161,16 +136,17 @@ end
 
 -- Fonction pour extraire le nom de fichier
 function F_extract_filename(orig_name)
-  local reduced_name_slash = orig_name:reverse():find('[%/%\\]')
-  local reduced_name = orig_name:sub(-reduced_name_slash+1)
-  reduced_name = reduced_name:sub(0,-1-reduced_name:reverse():find('%.'))
-  return reduced_name
+  -- Tolere un chemin sans separateur et un nom sans extension.
+  if type(orig_name) ~= 'string' or orig_name == '' then return '' end
+  local name = orig_name:match('([^/\\]+)$') or orig_name
+  return (name:gsub('%.[^%.]*$', ''))
 end
 
 -- Fonction pour ajouter le MIDI
 function AddMIDI(track, MIDI, base_pitch)    
   if not MIDI then return end
-  local new_it = reaper.CreateNewMIDIItemInProj(track, MIDI.it_pos, MIDI.it_end_pos)
+  local new_it = reaper.CreateNewMIDIItemInProj( track, MIDI.it_pos, MIDI.it_end_pos )
+  if not new_it then RA_Say("Échec de création de l'objet MIDI") return end
   local new_tk = reaper.GetActiveTake(new_it)
   for i = 1, #MIDI do
     local startppqpos = reaper.MIDI_GetPPQPosFromProjTime(new_tk, MIDI[i].pos)
@@ -181,7 +157,9 @@ function AddMIDI(track, MIDI, base_pitch)
         startppqpos, 
         endppqpos, 
         0, 
-        base_pitch+i-1, 
+        base_pitch, -- toutes les notes sur la meme hauteur : en round robin
+                    -- chaque instance ecoute la note de base, c'est le RS5K
+                    -- qui alterne les echantillons d'une frappe a l'autre
         100, 
         true) -- noSortInOptional
   end
@@ -193,20 +171,21 @@ end
 -- Fonction principale
 function main(track)   
   -- Vérification de la piste
-  local track = reaper.GetSelectedTrack(0,0)
-  if not track then return end
+  local track = RA_ResolveTrack()
+  if not track then RA_Say("Aucune piste ni objet sélectionné") return end
   
   -- Vérification de l'élément
   local item = reaper.GetSelectedMediaItem(0,0)
-  if not item then return true end        
+  if not item then RA_Say("Aucun objet sélectionné") return true end        
 
   -- Obtenir la note de base
-  local ret, base_pitch = reaper.GetUserInputs(script_title, 1, 'Définir la note de base', 60)
-  if not ret 
-    or not tonumber(base_pitch) 
-    or tonumber(base_pitch) < 0 
+  local ret, base_pitch = reaper.GetUserInputs(script_title, 1, 'Définir la note de base', '60')
+  if not ret then RA_Say("Annulé") return end
+  if not tonumber(base_pitch)
+    or tonumber(base_pitch) < 0
     or tonumber(base_pitch) > 127 then
-    return 
+    RA_Say("Note de base invalide, attendu de 0 à 127")
+    return
   end
   base_pitch = math.floor(tonumber(base_pitch))
 
@@ -224,6 +203,7 @@ function main(track)
   if proceed_MIDI then AddMIDI(track, MIDI, base_pitch) end 
     
   MIDI_prepare(track)
+  RA_Say("Export terminé")
     
 end
 
