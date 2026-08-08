@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaperAccessible scripts" commit="7f0738852006c57c83239411fd3380ea7e94554b">
+<index version="1" name="ReaperAccessible scripts" commit="378501ddaf8f78952025648ab34d57f60fa81cb8">
   <category name="Explorateur de Média">
     <reapack name="ReaperAccessible - Explorateur de média - Aller au marqueur précédent.lua" type="script" desc="Aller au marqueur précédent">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessible" time="2024-04-01T16:35:44Z">
@@ -786,6 +786,11 @@
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20batterie).lua</source>
       </version>
+      <version name="1.6" author="Ludovic SANSONE pour ReaperAccessible" time="2026-08-08T20:30:14Z">
+        <changelog><![CDATA[# 2026-08-08 - Renommage par l'API officielle, piste deduite de l'objet selectionne, retours parles
+# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/378501ddaf8f78952025648ab34d57f60fa81cb8/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20batterie).lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode boucle).lua" type="script" desc="Exporter chaque objet sélectionné vers une instance du RS5K (mode boucle)">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
@@ -806,6 +811,11 @@
       <version name="1.5" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20boucle).lua</source>
+      </version>
+      <version name="1.6" author="Ludovic SANSONE pour ReaperAccessible" time="2026-08-08T20:30:14Z">
+        <changelog><![CDATA[# 2026-08-08 - Renommage par l'API officielle, piste deduite de l'objet selectionne, retours parles
+# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/378501ddaf8f78952025648ab34d57f60fa81cb8/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20boucle).lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K (Mode clavier).lua" type="script" desc="Exporter chaque objet sélectionné vers une instance du RS5K (mode clavier)">
@@ -828,6 +838,11 @@
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20clavier).lua</source>
       </version>
+      <version name="1.6" author="Ludovic SANSONE pour ReaperAccessible" time="2026-08-08T20:30:14Z">
+        <changelog><![CDATA[# 2026-08-08 - Renommage par l'API officielle, piste deduite de l'objet selectionne, retours parles
+# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/378501ddaf8f78952025648ab34d57f60fa81cb8/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K%20(Mode%20clavier).lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Exporter chaque objet sélectionné vers une instance du RS5K, sur la piste sélectionnée (mode Round robin).lua" type="script" desc="Exporter l'objet sélectionné vers une instance du RS5K, sur la piste sélectionnée (mode Round robin)">
       <version name="1.0" author="Lee JULIEN pour Reaper Accessible" time="2024-09-04T18:25:04Z">
@@ -839,6 +854,12 @@
       <version name="1.2" author="Lee JULIEN pour ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e%20(mode%20Round%20robin).lua</source>
+      </version>
+      <version name="1.3" author="Lee JULIEN pour ReaperAccessible" time="2026-08-08T20:30:14Z">
+        <changelog><![CDATA[# 2026-08-08 - Les notes MIDI generees restent sur la note de base
+# 2026-08-08 - Renommage par l'API officielle, piste deduite de l'objet selectionne, retours parles
+# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/378501ddaf8f78952025648ab34d57f60fa81cb8/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20chaque%20objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20sur%20la%20piste%20s%C3%A9lectionn%C3%A9e%20(mode%20Round%20robin).lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Exporter l'objet sélectionné vers une instance du RS5K, avec le même échantillon sur l'ensemble du clavier.lua" type="script" desc="Exporter l'objet sélectionné vers une instance du RS5K, avec le même échantillon sur l'ensemble du clavier">
@@ -858,6 +879,11 @@
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20avec%20le%20m%C3%AAme%20%C3%A9chantillon%20sur%20l'ensemble%20du%20clavier.lua</source>
       </version>
+      <version name="1.5" author="Ludovic SANSONE pour ReaperAccessible" time="2026-08-08T20:30:14Z">
+        <changelog><![CDATA[# 2026-08-08 - Renommage par l'API officielle, piste deduite de l'objet selectionne, retours parles
+# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/378501ddaf8f78952025648ab34d57f60fa81cb8/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20avec%20le%20m%C3%AAme%20%C3%A9chantillon%20sur%20l'ensemble%20du%20clavier.lua</source>
+      </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Exporter l'objet sélectionné vers une instance du RS5K, comme une source chromatique.lua" type="script" desc="Exporter l'objet sélectionné vers une instance du RS5K, comme une source chromatique">
       <version name="1.0" author="Ludovic SANSONE pour Reaper Accessilbe" time="2024-04-02T07:20:25Z">
@@ -872,6 +898,11 @@
       <version name="1.3" author="Ludovic SANSONE pour ReaperAccessible" time="2024-09-18T15:08:48Z">
         <changelog><![CDATA[# 2024-09-18 - Ajout d'un log]]></changelog>
         <source main="main">https://github.com/reaperaccessible/rap_fr/raw/5ee9668741cafd6f2d62386b988b93012631a93f/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20comme%20une%20source%20chromatique.lua</source>
+      </version>
+      <version name="1.4" author="Ludovic SANSONE pour ReaperAccessible" time="2026-08-08T20:30:14Z">
+        <changelog><![CDATA[# 2026-08-08 - Renommage par l'API officielle, piste deduite de l'objet selectionne, retours parles
+# 2024-09-18 - Ajout d'un log]]></changelog>
+        <source main="main">https://github.com/reaperaccessible/rap_fr/raw/378501ddaf8f78952025648ab34d57f60fa81cb8/Principal/ReaperAccessible%20-%20Principal%20-%20Exporter%20l'objet%20s%C3%A9lectionn%C3%A9%20vers%20une%20instance%20du%20RS5K,%20comme%20une%20source%20chromatique.lua</source>
       </version>
     </reapack>
     <reapack name="ReaperAccessible - Principal - Insérer 1 objet d'automatisation d'une mesure pour le dernier paramètre d'FX touché sur la piste sélectionnée.lua" type="script" desc="Insérer 1 objet d'automatisation d'une mesure pour le dernier paramètre d'FX touché sur la piste sélectionnée">
