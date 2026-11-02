@@ -1,5 +1,5 @@
-#NAME:Français V7.84.1
-#Version: 7.84.1
+#NAME:Français V7.84.2
+#Version: 7.84.2
 #LangPack français
 #Vous pouvez nous joindre par courriel à reaperlangpackfr@gmail.com
 
@@ -34340,6 +34340,7 @@ EAFA58F50A85EE50=BankRight, 8 pistes à droite
 CA7F0B5898E3DA89=Busses, Aucune action
 39A7BE27042EEAAD=Busses, OSARA: Basculer l'annonce des marqueurs pendant la lecture
 4DFF747E5B90F13A=Busses, Redimensionner le bord droit de l'objet au curseur d'édition
+0E57ABDD505DA77B=Le manuel de CSI est introuvable
 5B56894B60C23CDC=Cancel, Aucune action
 D3250A8B37DC95A0=Cancel, Aucune action
 63D6F65C14CBD349=Cancel, Sélectionner tous les points
@@ -34592,6 +34593,8 @@ C42AB0D554C60A0B=Group, Aucune action
 D4AB577F4B531E3F=Group, Sélectionner les points dans la sélection temporelle
 E82878C1112806D7=Group, Définir le point de début de la sélection à la volée automatique
 AF1F1A1AEE9172D1=Group, Définir le mode d'automatisation de la piste sur Trim/lire
+F0B05B54DFF93369=Aide désactivée
+ADD62C6ED58DDDAD=Aide activée
 15344810B3C64C39=Maintien de Flip une seconde, Définir le volume de la piste master à 0 dB
 B53BE927C691657B=Maintien Mute1, Aucune action
 F1013F0C3B4C1B5E=Maintien Mute2, Aucune action
@@ -35218,6 +35221,7 @@ BC1856F02A9999B7=CSI FX - Déplacer l'FX sélectionné d'une position vers le ha
 9E6F08687CB0DD20=CSI Grid - Sélectionner la division de grille suivante
 62FD0C0D3817D66C=CSI Grid - Sélectionner la division de grille précédente
 F32DCFAF05E4BEBB=CSI Grid - Annoncer la division de grille actuelle
+E106D762C1CE1B7A=CSI Manuel
 71D5F3D8D0D0DF5D=CSI Master FX - Supprimer l'FX sélectionné de la piste master
 F02E1D11FA55E914=CSI Master FX - Déplacer l'FX master sélectionné d'une position vers le bas
 A73C71391974BFF5=CSI Master FX - Déplacer l'FX master sélectionné d'une position vers le haut
