@@ -1,5 +1,5 @@
-#NAME:Français V7.84.2
-#Version: 7.84.2
+#NAME:Français V7.84.3
+#Version: 7.84.3
 #LangPack français
 #Vous pouvez nous joindre par courriel à reaperlangpackfr@gmail.com
 
@@ -34765,6 +34765,7 @@ C0FDDE4D9C4BDDF5=Aucun FX sélectionné sur la piste master.
 0EC0212820776712=Aucune piste de retour
 4FA7A5E2CA69FD45=Aucune piste d'envoi
 1C7C7EBD0E5EB799=Aucune enveloppe sélectionnée
+FED6691059EB6C88=Aucun paramètre sélectionné
 7064210A59ECE8BA=Aucune piste sélectionnée
 7037755A41F3ED46=Aucune action
 1628A6343F98E0D1=Nudge, Aller au point d'enveloppe précédent
@@ -34803,6 +34804,7 @@ BFD0C185F3F5F93C=Outputs, Basculer l'affichage de l'enveloppe de volume pré-FX 
 BFDBF1D6E306AA2F=Pan, Vue des dossiers
 A36D57F235033C53=Pan, Aucune action
 F501AB37880FA34D=Pan, Normaliser les objets à +0 dB de crête
+7156685087C6DC78=Ce paramètre n'a pas d'étapes
 4EF0E50D83DE2F34=Play, Aucune action
 B638CB7963105F62=Play, Lecture/pause
 298A49775FA2648D=Plugin, Vue d'édition
@@ -34935,6 +34937,8 @@ AA1449C2BF0107D5=RotaryPush8, Pré ou post du retour
 2C4447004817065F=Save, Aucune action
 8DDF1D39E5389AEA=Save, Coller les objets/pistes
 00840C929485A1EB=Save, Annoncer le mode d'automatisation global et celui de la piste
+B0CBE3A7E385D1EC=Script terminé, %d fichiers de zone créés
+C6DC883D71DD1FD4=Script terminé, %d fichiers de zone créés pour %d pistes
 8F9EFB148E645585=Scrub, Charger l'emplacement d'FX sélectionné
 1AE44C5F2C003DAB=Scrub, Aucune action
 059BD8801C2134DD=Scrub, Basculer le scrub du segment en boucle au curseur d'édition
@@ -35094,6 +35098,7 @@ ACCCDB2D833BDCE5=Mode d'automatisation Toucher, activé
 D4715AE5D84B38D9=Touch, Aucune action
 CD5E148AA583D6BB=Touch, Aucune action
 D47157C0C299EBAF=Touch, Définir le mode d'automatisation de la piste sur Toucher
+752C4A64DBCA2F1B=Piste %d
 DF379932A350B2DB=Piste %d%s%s
 7EC20C9ACBA29C67=Piste %s sélectionnée
 5478666B7342DA33=Track, Aucune action
@@ -35172,6 +35177,7 @@ A314FA9261B04317=CSI.ini n'indique aucune version
 052D380AE2EA6D8A=Impossible de lire la version %s.
 E09CC4B116480CB7=Caractère non valide
 444BCDF6FA96027A=Fermer sans sauvegarder?
+CD096857A4EDA991=FX : %s\nParamètre : %s\nNuméro du paramètre : %d\n
 20114F9517D584CD=Apprendre l'FX
 FC72BFAAFA864B20=Le dossier CSI est manquant
 32CE085BC9C74FD0=Le fichier CSI.ini est manquant
@@ -35179,9 +35185,13 @@ F164F26D4F2F0CDF=Le dossier des zones d'FX est manquant
 8F8B8F4A5741A520=Le fichier de surface est manquant
 CF01726B4B7A2ED9=Le dossier Surfaces est manquant
 F8145DF871C4523B=Le dossier des zones est manquant
+E815EFF09425E843=Nombre d'étapes : %d
+0E986F66D8195D8D=Ce paramètre est un interrupteur
 226049675BE3B6E6=Vérifiez votre CSI.ini, le dossier de zones de %s est introuvable dans:\r\n\r\n%s/CSI/Zones/
 49362C23DCCE1666=Vérifiez votre installation, %s est introuvable
 E055F4FC95F827BF=Vérifiez votre installation, les fichiers de zones de %s sont introuvables dans:\r\n\r\n%s
+E97D445B442FF32F=Message du script
+AE8A0F07D26BCA07=Étapes de %s
 C01A9355F069AAD6=Version différente: votre fichier CSI.ini n'est pas en version %s.
 74885C8A8BDF731C=La définition du dossier de zones de la surface est vide
 BC03DBC1B0B6E8E3=Le dossier des zones est manquant ou vide
@@ -35221,15 +35231,18 @@ BC1856F02A9999B7=CSI FX - Déplacer l'FX sélectionné d'une position vers le ha
 9E6F08687CB0DD20=CSI Grid - Sélectionner la division de grille suivante
 62FD0C0D3817D66C=CSI Grid - Sélectionner la division de grille précédente
 F32DCFAF05E4BEBB=CSI Grid - Annoncer la division de grille actuelle
-E106D762C1CE1B7A=CSI Manuel
 71D5F3D8D0D0DF5D=CSI Master FX - Supprimer l'FX sélectionné de la piste master
 F02E1D11FA55E914=CSI Master FX - Déplacer l'FX master sélectionné d'une position vers le bas
 A73C71391974BFF5=CSI Master FX - Déplacer l'FX master sélectionné d'une position vers le haut
 A4D2CB0AFFA35632=CSI Master FX - Annoncer le nom de l'FX sélectionné de la piste master
 84E546F7E40AFFAA=CSI Misc - Diminuer et inverser la largeur de la piste de 1 %
 9B5C98FA365A521E=CSI Misc - Augmenter et inverser la largeur de la piste de 1 %
+3C10C4982CAF5802=CSI Misc - Ouvrir le manuel dans votre navigateur
 B6D49259CCCEE61E=CSI Misc - Annoncer les pistes sélectionnées
 8C22B3B5567B662E=CSI Recording - Retirer les points de la sélection à la volée automatique
 A2F3D04571115C20=CSI Recording - Définir le point de fin de la sélection à la volée automatique
 76576C03E10BF609=CSI Recording - Définir le point de début de la sélection à la volée automatique
+3CF6571ED225E82B=CSI Tool - Dernier paramètre touché : copier les étapes
+89363CC5FC936C82=CSI Tool - Écrire les paramètres dans ZoneRawFXFiles pour tous les FX de toutes les pistes
+D1C67D4365A061D1=CSI Tool - Écrire les paramètres dans ZoneRawFXFiles pour tous les FX de la piste sélectionnée
 
